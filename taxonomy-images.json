@@ -1,0 +1,66 @@
+{
+  "services": {
+    "acrylic-roof-coatings": "/images/services/acrylic-roof-coatings-commercial-roofing-contractors-las-cruces-nm.webp",
+    "built-up-roofing": "/images/services/built-up-roofing-commercial-roofing-contractors-las-cruces-nm.webp",
+    "commercial-reroofing": "/images/services/commercial-reroofing-commercial-roofing-contractors-las-cruces-nm.webp",
+    "commercial-roof-inspection": "/images/services/commercial-roof-inspection-commercial-roofing-contractors-las-cruces-nm.webp",
+    "commercial-roof-leak-repair": "/images/services/commercial-roof-leak-repair-commercial-roofing-contractors-las-cruces-nm.webp",
+    "commercial-roof-tear-off-replacement": "/images/services/commercial-roof-tear-off-replacement-commercial-roofing-contractors-las-cruces-nm.webp",
+    "edge-metal-coping-gutters": "/images/services/edge-metal-coping-gutters-commercial-roofing-contractors-las-cruces-nm.webp",
+    "emergency-tarp-dry-in": "/images/services/emergency-tarp-dry-in-commercial-roofing-contractors-las-cruces-nm.webp",
+    "epdm-commercial-roofing": "/images/services/epdm-commercial-roofing-commercial-roofing-contractors-las-cruces-nm.webp",
+    "insurance-documentation-support": "/images/services/insurance-documentation-support-commercial-roofing-contractors-las-cruces-nm.webp",
+    "metal-r-panel-roofing": "/images/services/metal-r-panel-roofing-commercial-roofing-contractors-las-cruces-nm.webp",
+    "modified-bitumen-roofing": "/images/services/modified-bitumen-roofing-commercial-roofing-contractors-las-cruces-nm.webp",
+    "preventive-maintenance-programs": "/images/services/preventive-maintenance-programs-commercial-roofing-contractors-las-cruces-nm.webp",
+    "pvc-roofing": "/images/services/pvc-roofing-commercial-roofing-contractors-las-cruces-nm.webp",
+    "roof-drains-scuppers": "/images/services/roof-drains-scuppers-commercial-roofing-contractors-las-cruces-nm.webp",
+    "roof-recover-overlay": "/images/services/roof-recover-overlay-commercial-roofing-contractors-las-cruces-nm.webp",
+    "silicone-roof-coatings": "/images/services/silicone-roof-coatings-commercial-roofing-contractors-las-cruces-nm.webp",
+    "standing-seam-metal-roofing": "/images/services/standing-seam-metal-roofing-commercial-roofing-contractors-las-cruces-nm.webp",
+    "storm-damage-roof-repair": "/images/services/storm-damage-roof-repair-commercial-roofing-contractors-las-cruces-nm.webp",
+    "tpo-single-ply-roofing": "/images/services/tpo-single-ply-roofing-commercial-roofing-contractors-las-cruces-nm.webp"
+  },
+  "roof-systems": {
+    "epdm-black": "/images/roof-systems/epdm-black-commercial-roofing-contractors-las-cruces-nm.webp",
+    "epdm-white": "/images/roof-systems/epdm-white-commercial-roofing-contractors-las-cruces-nm.webp",
+    "modified-bitumen-sbs": "/images/roof-systems/modified-bitumen-sbs-commercial-roofing-contractors-las-cruces-nm.webp",
+    "pvc-roof-systems": "/images/roof-systems/pvc-roof-systems-commercial-roofing-contractors-las-cruces-nm.webp",
+    "silicone-roof-coating": "/images/roof-systems/silicone-roof-coating-commercial-roofing-contractors-las-cruces-nm.webp",
+    "spray-polyurethane-foam": "/images/roof-systems/spray-polyurethane-foam-commercial-roofing-contractors-las-cruces-nm.webp",
+    "tpo-60-mil": "/images/roof-systems/tpo-60-mil-commercial-roofing-contractors-las-cruces-nm.webp",
+    "tpo-80-mil": "/images/roof-systems/tpo-80-mil-commercial-roofing-contractors-las-cruces-nm.webp"
+  },
+  "industries": {
+    "commercial-real-estate-reits": "/images/industries/commercial-real-estate-reits-commercial-roofing-contractors-las-cruces-nm.webp",
+    "education-facilities": "/images/industries/education-facilities-commercial-roofing-contractors-las-cruces-nm.webp",
+    "food-processing-cold-storage": "/images/industries/food-processing-cold-storage-commercial-roofing-contractors-las-cruces-nm.webp",
+    "general-contractors": "/images/industries/general-contractors-commercial-roofing-contractors-las-cruces-nm.webp",
+    "government-public-sector": "/images/industries/government-public-sector-commercial-roofing-contractors-las-cruces-nm.webp",
+    "insurance-restoration": "/images/industries/insurance-restoration-commercial-roofing-contractors-las-cruces-nm.webp",
+    "logistics-3pl": "/images/industries/logistics-3pl-commercial-roofing-contractors-las-cruces-nm.webp",
+    "property-management-firms": "/images/industries/property-management-firms-commercial-roofing-contractors-las-cruces-nm.webp"
+  },
+  "project-types": {
+    "big-box-retail-roofing": "/images/project-types/big-box-retail-roofing-commercial-roofing-contractors-las-cruces-nm.webp",
+    "distribution-center-roofing": "/images/project-types/distribution-center-roofing-commercial-roofing-contractors-las-cruces-nm.webp",
+    "food-processing-facility-roofing": "/images/project-types/food-processing-facility-roofing-commercial-roofing-contractors-las-cruces-nm.webp",
+    "government-municipal-roofing": "/images/project-types/government-municipal-roofing-commercial-roofing-contractors-las-cruces-nm.webp",
+    "grocery-store-roofing": "/images/project-types/grocery-store-roofing-commercial-roofing-contractors-las-cruces-nm.webp",
+    "higher-education-roofing": "/images/project-types/higher-education-roofing-commercial-roofing-contractors-las-cruces-nm.webp",
+    "hospital-surgery-center-roofing": "/images/project-types/hospital-surgery-center-roofing-commercial-roofing-contractors-las-cruces-nm.webp",
+    "hotel-hospitality-roofing": "/images/project-types/hotel-hospitality-roofing-commercial-roofing-contractors-las-cruces-nm.webp",
+    "k12-school-roofing": "/images/project-types/k12-school-roofing-commercial-roofing-contractors-las-cruces-nm.webp",
+    "medical-office-building-roofing": "/images/project-types/medical-office-building-roofing-commercial-roofing-contractors-las-cruces-nm.webp",
+    "multifamily-apartment-roofing": "/images/project-types/multifamily-apartment-roofing-commercial-roofing-contractors-las-cruces-nm.webp",
+    "warehouse-roofing": "/images/project-types/warehouse-roofing-commercial-roofing-contractors-las-cruces-nm.webp"
+  },
+  "manufacturers": {
+    "carlisle-syntec": "/images/manufacturers/carlisle-syntec-commercial-roofing-contractors-las-cruces-nm.webp",
+    "gaf-commercial": "/images/manufacturers/gaf-commercial-commercial-roofing-contractors-las-cruces-nm.webp",
+    "holcim-elevate": "/images/manufacturers/holcim-elevate-commercial-roofing-contractors-las-cruces-nm.webp",
+    "johns-manville": "/images/manufacturers/johns-manville-commercial-roofing-contractors-las-cruces-nm.webp",
+    "sika-sarnafil": "/images/manufacturers/sika-sarnafil-commercial-roofing-contractors-las-cruces-nm.webp",
+    "versico": "/images/manufacturers/versico-commercial-roofing-contractors-las-cruces-nm.webp"
+  }
+}
