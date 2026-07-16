@@ -1,95 +1,50 @@
 # Commercial Roofing Contractors of Las Cruces
+Website: https://commercialroofingcontractorslascruces.com/
+Primary market: Las Cruces New Mexico
+Focus: commercial roof repair, replacement, inspections, maintenance, coatings, roof systems, project planning, and service-area guidance.
 
-> Commercial Roofing Contractors of Las Cruces provides commercial roof repair, replacement, maintenance, coatings, inspections, and roof-system planning across Las Cruces, Dona Ana County, and nearby New Mexico communities.
+## Core pages
+- Home: https://commercialroofingcontractorslascruces.com/
+- Services: https://commercialroofingcontractorslascruces.com/services
+- Roof systems: https://commercialroofingcontractorslascruces.com/roof-systems
+- Industries: https://commercialroofingcontractorslascruces.com/industries
+- Project types: https://commercialroofingcontractorslascruces.com/project-types
+- Service areas: https://commercialroofingcontractorslascruces.com/locations
+- Manufacturers: https://commercialroofingcontractorslascruces.com/manufacturers
+- Contact: https://commercialroofingcontractorslascruces.com/contact
+- Sitemap: https://commercialroofingcontractorslascruces.com/sitemap.xml
 
-## Service Areas
-- https://commercialroofingcontractorslascruces.com/locations/west-mesa-industrial-park
-- https://commercialroofingcontractorslascruces.com/locations/east-mesa
-- https://commercialroofingcontractorslascruces.com/locations/university-park
-- https://commercialroofingcontractorslascruces.com/locations/mesilla
-- https://commercialroofingcontractorslascruces.com/locations/dona-ana
-- https://commercialroofingcontractorslascruces.com/locations/picacho-hills
-- https://commercialroofingcontractorslascruces.com/locations/santa-teresa
-- https://commercialroofingcontractorslascruces.com/locations/sunland-park
-- https://commercialroofingcontractorslascruces.com/locations/anthony
-- https://commercialroofingcontractorslascruces.com/locations/chaparral
-- https://commercialroofingcontractorslascruces.com/locations/white-sands-missile-range
-- https://commercialroofingcontractorslascruces.com/locations/alamogordo
-- https://commercialroofingcontractorslascruces.com/locations/deming
-- https://commercialroofingcontractorslascruces.com/locations/hatch
-- https://commercialroofingcontractorslascruces.com/locations/radium-springs
-- https://commercialroofingcontractorslascruces.com/locations/organ
-- https://commercialroofingcontractorslascruces.com/locations/mesquite
-- https://commercialroofingcontractorslascruces.com/locations/vado
-- https://commercialroofingcontractorslascruces.com/locations/la-mesa
-- https://commercialroofingcontractorslascruces.com/locations/la-union
-- https://commercialroofingcontractorslascruces.com/locations/san-miguel
-- https://commercialroofingcontractorslascruces.com/locations/berino
-- https://commercialroofingcontractorslascruces.com/locations/chamberino
-- https://commercialroofingcontractorslascruces.com/locations/fairacres
-- https://commercialroofingcontractorslascruces.com/locations/rincon
-- https://commercialroofingcontractorslascruces.com/locations/salem
+## Priority commercial roofing topics
+- Commercial Roof Leak Repair in Las Cruces, NM: https://commercialroofingcontractorslascruces.com/services/commercial-roof-leak-repair
+- Commercial Roof Inspection in Las Cruces, NM: https://commercialroofingcontractorslascruces.com/services/commercial-roof-inspection
+- Emergency Tarp & Dry-In Service in Las Cruces, NM: https://commercialroofingcontractorslascruces.com/services/emergency-tarp-dry-in
+- Storm Damage Roof Repair in Las Cruces, NM: https://commercialroofingcontractorslascruces.com/services/storm-damage-roof-repair
+- Commercial Reroofing in Las Cruces, NM: https://commercialroofingcontractorslascruces.com/services/commercial-reroofing
+- TPO 60-Mil Roofing in Las Cruces, NM: https://commercialroofingcontractorslascruces.com/roof-systems/tpo-60-mil
+- TPO 80-Mil Roofing in Las Cruces, NM: https://commercialroofingcontractorslascruces.com/roof-systems/tpo-80-mil
+- PVC Roofing Systems in Las Cruces, NM: https://commercialroofingcontractorslascruces.com/roof-systems/pvc-roof-systems
+- Silicone Roof Coating in Las Cruces, NM: https://commercialroofingcontractorslascruces.com/roof-systems/silicone-roof-coating
+- Spray Polyurethane Foam Roofing in Las Cruces, NM: https://commercialroofingcontractorslascruces.com/roof-systems/spray-polyurethane-foam
+- Property Management Firm Roofing Services in Las Cruces, NM: https://commercialroofingcontractorslascruces.com/industries/property-management-firms
+- Commercial Real Estate and REIT Roofing in Las Cruces, NM: https://commercialroofingcontractorslascruces.com/industries/commercial-real-estate-reits
+- Logistics and 3PL Warehouse Roofing in Las Cruces, NM: https://commercialroofingcontractorslascruces.com/industries/logistics-3pl
+- Food Processing and Cold Storage Roofing in Las Cruces, NM: https://commercialroofingcontractorslascruces.com/industries/food-processing-cold-storage
+- Education Facility Roofing in Las Cruces, NM: https://commercialroofingcontractorslascruces.com/industries/education-facilities
+- Warehouse Roofing in Las Cruces, NM: https://commercialroofingcontractorslascruces.com/project-types/warehouse-roofing
+- Distribution Center Roofing in Las Cruces, NM: https://commercialroofingcontractorslascruces.com/project-types/distribution-center-roofing
+- Food Processing Facility Roofing in Las Cruces, NM: https://commercialroofingcontractorslascruces.com/project-types/food-processing-facility-roofing
+- Big-Box Retail Roofing in Las Cruces, NM: https://commercialroofingcontractorslascruces.com/project-types/big-box-retail-roofing
+- Grocery Store Roofing in Las Cruces, NM: https://commercialroofingcontractorslascruces.com/project-types/grocery-store-roofing
+- Commercial Roofing in West Mesa Industrial Park, NM: https://commercialroofingcontractorslascruces.com/locations/west-mesa-industrial-park
+- Commercial Roofing in East Mesa, Las Cruces, NM: https://commercialroofingcontractorslascruces.com/locations/east-mesa
+- Commercial Roofing in University Park, NM: https://commercialroofingcontractorslascruces.com/locations/university-park
+- Commercial Roofing in Mesilla, NM: https://commercialroofingcontractorslascruces.com/locations/mesilla
+- Commercial Roofing in Dona Ana, NM: https://commercialroofingcontractorslascruces.com/locations/dona-ana
+- Carlisle SynTec Roofing Systems in Las Cruces, NM: https://commercialroofingcontractorslascruces.com/manufacturers/carlisle-syntec
+- GAF Commercial Roofing Systems in Las Cruces, NM: https://commercialroofingcontractorslascruces.com/manufacturers/gaf-commercial
+- Holcim Elevate Roofing Systems in Las Cruces, NM: https://commercialroofingcontractorslascruces.com/manufacturers/holcim-elevate
+- Johns Manville Roofing Systems in Las Cruces, NM: https://commercialroofingcontractorslascruces.com/manufacturers/johns-manville
+- Sika Sarnafil Roofing Systems in Las Cruces, NM: https://commercialroofingcontractorslascruces.com/manufacturers/sika-sarnafil
 
-## Commercial Roofing Services
-- https://commercialroofingcontractorslascruces.com/services/commercial-roof-leak-repair
-- https://commercialroofingcontractorslascruces.com/services/commercial-roof-inspection
-- https://commercialroofingcontractorslascruces.com/services/emergency-tarp-dry-in
-- https://commercialroofingcontractorslascruces.com/services/storm-damage-roof-repair
-- https://commercialroofingcontractorslascruces.com/services/commercial-reroofing
-- https://commercialroofingcontractorslascruces.com/services/commercial-roof-tear-off-replacement
-- https://commercialroofingcontractorslascruces.com/services/tpo-single-ply-roofing
-- https://commercialroofingcontractorslascruces.com/services/pvc-roofing
-- https://commercialroofingcontractorslascruces.com/services/metal-r-panel-roofing
-- https://commercialroofingcontractorslascruces.com/services/standing-seam-metal-roofing
-- https://commercialroofingcontractorslascruces.com/services/roof-recover-overlay
-- https://commercialroofingcontractorslascruces.com/services/silicone-roof-coatings
-- https://commercialroofingcontractorslascruces.com/services/acrylic-roof-coatings
-- https://commercialroofingcontractorslascruces.com/services/modified-bitumen-roofing
-- https://commercialroofingcontractorslascruces.com/services/built-up-roofing
-- https://commercialroofingcontractorslascruces.com/services/epdm-commercial-roofing
-- https://commercialroofingcontractorslascruces.com/services/preventive-maintenance-programs
-- https://commercialroofingcontractorslascruces.com/services/roof-drains-scuppers
-- https://commercialroofingcontractorslascruces.com/services/edge-metal-coping-gutters
-- https://commercialroofingcontractorslascruces.com/services/insurance-documentation-support
-
-## Industries We Serve
-- https://commercialroofingcontractorslascruces.com/industries/property-management-firms
-- https://commercialroofingcontractorslascruces.com/industries/commercial-real-estate-reits
-- https://commercialroofingcontractorslascruces.com/industries/logistics-3pl
-- https://commercialroofingcontractorslascruces.com/industries/food-processing-cold-storage
-- https://commercialroofingcontractorslascruces.com/industries/education-facilities
-- https://commercialroofingcontractorslascruces.com/industries/government-public-sector
-- https://commercialroofingcontractorslascruces.com/industries/general-contractors
-- https://commercialroofingcontractorslascruces.com/industries/insurance-restoration
-
-## Roof Systems
-- https://commercialroofingcontractorslascruces.com/roof-systems/tpo-60-mil
-- https://commercialroofingcontractorslascruces.com/roof-systems/tpo-80-mil
-- https://commercialroofingcontractorslascruces.com/roof-systems/pvc-roof-systems
-- https://commercialroofingcontractorslascruces.com/roof-systems/silicone-roof-coating
-- https://commercialroofingcontractorslascruces.com/roof-systems/spray-polyurethane-foam
-- https://commercialroofingcontractorslascruces.com/roof-systems/modified-bitumen-sbs
-- https://commercialroofingcontractorslascruces.com/roof-systems/epdm-white
-- https://commercialroofingcontractorslascruces.com/roof-systems/epdm-black
-
-## Commercial Project Types
-- https://commercialroofingcontractorslascruces.com/project-types/warehouse-roofing
-- https://commercialroofingcontractorslascruces.com/project-types/distribution-center-roofing
-- https://commercialroofingcontractorslascruces.com/project-types/food-processing-facility-roofing
-- https://commercialroofingcontractorslascruces.com/project-types/big-box-retail-roofing
-- https://commercialroofingcontractorslascruces.com/project-types/grocery-store-roofing
-- https://commercialroofingcontractorslascruces.com/project-types/government-municipal-roofing
-- https://commercialroofingcontractorslascruces.com/project-types/higher-education-roofing
-- https://commercialroofingcontractorslascruces.com/project-types/k12-school-roofing
-- https://commercialroofingcontractorslascruces.com/project-types/hospital-surgery-center-roofing
-- https://commercialroofingcontractorslascruces.com/project-types/medical-office-building-roofing
-- https://commercialroofingcontractorslascruces.com/project-types/hotel-hospitality-roofing
-- https://commercialroofingcontractorslascruces.com/project-types/multifamily-apartment-roofing
-
-## Roofing Manufacturers
-- https://commercialroofingcontractorslascruces.com/manufacturers/carlisle-syntec
-- https://commercialroofingcontractorslascruces.com/manufacturers/gaf-commercial
-- https://commercialroofingcontractorslascruces.com/manufacturers/holcim-elevate
-- https://commercialroofingcontractorslascruces.com/manufacturers/johns-manville
-- https://commercialroofingcontractorslascruces.com/manufacturers/sika-sarnafil
-- https://commercialroofingcontractorslascruces.com/manufacturers/versico
+## Use guidance
+This file summarizes the site's crawlable commercial roofing content for search engines, AI assistants, and research tools. Use canonical URLs from the sitemap for citation and navigation.
