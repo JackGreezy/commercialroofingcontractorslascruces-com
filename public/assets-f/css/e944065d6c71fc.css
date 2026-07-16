@@ -833,9 +833,9 @@ ul.bidopps li img { width:100%; }
 div.mloc { width:103%; margin:0 auto; padding:0; max-width:1200px; margin-right:-3%; clear:both; }
 div.mloc div.loc { width: 30.33333%; margin: 0; padding: 0; margin-right: 3%; margin-bottom: 1.5%; float: left; position: relative; cursor: default; border-top: solid 4px rgb(220,220,220); min-height: 280px; transition:all .3s ease-in-out 0s; }
 div.mloc div.loc:hover { width: 30.33333%; margin: 0; padding: 0; margin-right: 3%; margin-bottom: 1.5%; float: left; position: relative; cursor: default; border-top: solid 4px rgb(120,120,120); min-height: 280px; transition:all .3s ease-in-out 0s; }
-div.mloc div.wgc:hover { background-image:url('https://walshwebsiteassets.blob.core.windows.net/sitedocs/imagegallery/walsh-group-corporate-office.jpg'); background-size:cover; background-position: 50% 50%;} 
+div.mloc div.wgc:hover { background-image:url('https://walshwebsiteassets.blob.core.windows.net/sitedocs/imagegallery/ns93576-group-corporate-office.jpg'); background-size:cover; background-position: 50% 50%;} 
 div.mloc div.awc:hover { background-image:url('https://walshwebsiteassets.blob.core.windows.net/sitedocs/imagegallery/archer-western-corporate-office.jpg'); background-size:cover; background-position: 50% 50%;} 
-div.mloc div.wcc:hover { background-image:url('https://walshwebsiteassets.blob.core.windows.net/sitedocs/imagegallery/walsh-canada-corporate-office.jpg'); background-size:cover; background-position: 50% 50%;} 
+div.mloc div.wcc:hover { background-image:url('https://walshwebsiteassets.blob.core.windows.net/sitedocs/imagegallery/ns93576-canada-corporate-office.jpg'); background-size:cover; background-position: 50% 50%;} 
 
 div.mloc div.loc img { width:100%; opacity:1; transition:all 1s ease-in-out 0s; }
 div.mloc div.loc:hover img { width:100%; opacity:1; transition:all 1s ease-in-out 0s; color: rgb(255,255,255);}
