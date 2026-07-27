@@ -307,6 +307,8 @@ def replace_visible_address(soup: BeautifulSoup):
         parent = node.parent
         if parent and parent.name in {"script", "style", "noscript", "template", "iframe"}:
             continue
+        if cfg.get("suppress_footer_media") and parent and parent.find_parent("footer"):
+            continue
         txt = str(node)
         if exact in txt:
             found_exact_address = True
@@ -327,6 +329,8 @@ def replace_visible_address(soup: BeautifulSoup):
     for tag in split_candidates:
         if tag.find_parent(["script", "style", "noscript", "template", "iframe"]):
             continue
+        if cfg.get("suppress_footer_media") and tag.find_parent("footer"):
+            continue
         if tag.find("form"):
             continue
         if tag.select_one("[data-rh-map]"):
@@ -342,8 +346,34 @@ def replace_visible_address(soup: BeautifulSoup):
             found_exact_address = True
     # Only add an embed when a visible physical address was actually present.
     if found_exact_address and not soup.body.select_one("[data-rh-map]"):
-        target = soup.find("footer") if soup.find("footer") else soup.body
+        target = soup.body
         target.append(BeautifulSoup(embed, "html.parser"))
+
+def set_active_header_nav(soup: BeautifulSoup, route: str):
+    header = soup.find("header")
+    if not header:
+        return
+    route = (route or "/").rstrip("/") or "/"
+    section = "/" + route.strip("/").split("/")[0] if route != "/" else "/"
+    for a in header.find_all("a", href=True):
+        classes = [c for c in (a.get("class") or []) if c != "active"]
+        if classes:
+            a["class"] = classes
+        elif a.has_attr("class"):
+            del a["class"]
+        a.attrs.pop("aria-current", None)
+        href = (a.get("href") or "").rstrip("/") or "/"
+        if a.find_parent(class_="fright") and href == section and href in {"/about", "/contact", "/services", "/roof-systems", "/industries", "/project-types", "/locations", "/manufacturers"}:
+            a["class"] = (a.get("class") or []) + ["active"]
+            a["aria-current"] = "page"
+
+def move_shared_runtime_to_body_end(soup: BeautifulSoup):
+    if not soup.body:
+        return
+    runtime = soup.find("script", id="rr-nav")
+    if runtime:
+        runtime.extract()
+        soup.body.append(runtime)
 
 def replace_banned_phrases(soup: BeautifulSoup, salt: int):
     for node in list(soup.find_all(string=True)):
@@ -376,6 +406,10 @@ def selected_palette() -> dict:
 
 def ensure_color_scheme_assets(soup: BeautifulSoup):
     soup = ensure_head(soup)
+    if cfg.get("preserve_donor_colors"):
+        for old in list(soup.head.find_all("style", id="rh-color-scheme-css")):
+            old.decompose()
+        return
     palette = selected_palette()
     for tag in list(soup.head.find_all("meta", attrs={"name": "theme-color"})):
         tag.decompose()
@@ -736,10 +770,15 @@ def patch_all_html():
             route = "/" + p.stem.replace("__", "/") if p.stem not in {"home", "index"} else "/"
         set_metadata(soup, route)
         replace_visible_address(soup)
+        set_active_header_nav(soup, route)
+        for tag in soup.find_all(True):
+            for attr in [name for name in tag.attrs if name.lower().startswith("on")]:
+                del tag.attrs[attr]
         replace_banned_phrases(soup, salt)
         ensure_footer_links(soup)
         ensure_mobile_dropdown_assets(soup)
         ensure_color_scheme_assets(soup)
+        move_shared_runtime_to_body_end(soup)
         # Descriptive alt text for informative images without stuffing.
         for img in soup.find_all("img"):
             alt = clean(img.get("alt"))

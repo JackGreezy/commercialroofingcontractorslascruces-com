@@ -4,7 +4,7 @@ set -euo pipefail
 ROOT="/Users/jackgreenberg/Desktop/rank-and-rent"
 S="$ROOT/David/clones/scripts"
 PROJ="$ROOT/commercial-roofing/commercialroofingcontractorslascruces-com"
-REFHOST="olrhj-com"
+REFHOST="walshgroup-com"
 VOICE="$S/voice/commercial-roofing.json"
 CFG="$PROJ/home.config.json"
 MAP="$S/relabel-map-$REFHOST.json"
@@ -19,6 +19,7 @@ cp "$CAP/public/index.html.ref" "$PROJ/public/index.html.ref"
 cp "$CAP/public/slug.html.ref" "$PROJ/public/slug.html.ref"
 cp -R "$CAP/public/assets-f" "$PROJ/public/assets-f"
 cp -R "$CAP/qa-out" "$PROJ/public/qa-out"
+rm -f "$PROJ/public/assets-f/css/4ffa470717afdc.css"
 
 rm -rf "$PROJ/public/ours"
 cp -R "$PROJ/public/images" "$PROJ/public/ours"
@@ -30,3 +31,10 @@ python3 "$PROJ/scripts/hobo-seo-finalize.py" "$PROJ"
 mkdir -p "$PROJ/qa-out"
 python3 "$S/verify_site.py" "$PROJ" --map "$MAP" --json "$PROJ/qa-out/verify.json"
 node "$S/qa_shots.mjs" "$PROJ"
+
+rm -f \
+  "$PROJ/public/home.html.ref" \
+  "$PROJ/public/about.html.ref" \
+  "$PROJ/public/contact.html.ref" \
+  "$PROJ/public/index.html.ref" \
+  "$PROJ/public/slug.html.ref"

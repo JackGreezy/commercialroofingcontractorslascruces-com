@@ -84,6 +84,14 @@ def normalize_html(path):
             for el in form.find_all(['input','textarea','select'], attrs={'name': wanted}):
                 if el.get('type') != 'hidden' and not el.has_attr('required'):
                     el['required'] = ''; changed = True
+        for aliases in [
+            {'projectDetails','project_details','details','comments','notes'},
+            {'emailAddress','email_address'},
+            {'phoneNumber','phone_number','telephone','tel'},
+        ]:
+            for el in form.find_all(['input','textarea','select']):
+                if el.get('name') in aliases and el.get('type') != 'hidden' and not el.has_attr('required'):
+                    el['required'] = ''; changed = True
     after = str(soup) if changed else before
     after = after.replace('/api/contact', '/api/submit')
     if after != before:

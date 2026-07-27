@@ -64,10 +64,10 @@ i { font-style:italic;}
 .ddsmoothmenu ul li.last a:hover { }
 
 /*1st sub level menu*/
-.ddsmoothmenu ul li ul { position: absolute; left:0; top:0; display:none; visibility:hidden; padding:0; margin:0; margin-left:0px; background:none; width:auto; margin-left:-30px; } 
-.ddsmoothmenu ul li ul li { display: list-item; float: none; padding:0; margin:0; margin-bottom:-1px; letter-spacing:0; width:100%; border:solid 0px rgb(190,190,190); min-width:150px; background: rgba(255,255,255,1); padding-left: 20px; padding-right: 20px; } 
-.ddsmoothmenu ul li ul li.first { display: list-item; float: none; padding:0; margin:0; margin-bottom:-1px; letter-spacing:0; width:100%; border:solid 0px rgb(190,190,190); min-width:150px; background: rgba(255,255,255,1); padding-top: 15px; padding-left: 20px; padding-right: 20px; } 
-.ddsmoothmenu ul li ul li.last { display: list-item; float: none; padding:0; margin:0; margin-bottom:-1px; letter-spacing:0; width:100%; border:solid 0px rgb(190,190,190); min-width:150px; background: rgba(255,255,255,1); padding-bottom: 15px; padding-left: 20px; padding-right: 20px;} 
+.ddsmoothmenu ul li ul { position: absolute; left:0; top:0; display:none; visibility:hidden; padding:0; margin:0; margin-left:0px; background:none; width:auto; margin-left:-30px; }
+.ddsmoothmenu ul li ul li { display: list-item; float: none; padding:0; margin:0; margin-bottom:-1px; letter-spacing:0; width:100%; border:solid 0px rgb(190,190,190); min-width:150px; background: rgba(255,255,255,1); padding-left: 20px; padding-right: 20px; }
+.ddsmoothmenu ul li ul li.first { display: list-item; float: none; padding:0; margin:0; margin-bottom:-1px; letter-spacing:0; width:100%; border:solid 0px rgb(190,190,190); min-width:150px; background: rgba(255,255,255,1); padding-top: 15px; padding-left: 20px; padding-right: 20px; }
+.ddsmoothmenu ul li ul li.last { display: list-item; float: none; padding:0; margin:0; margin-bottom:-1px; letter-spacing:0; width:100%; border:solid 0px rgb(190,190,190); min-width:150px; background: rgba(255,255,255,1); padding-bottom: 15px; padding-left: 20px; padding-right: 20px;}
 
 .ddsmoothmenu ul li ul li a { font-size: 12px; white-space: nowrap; width: 100%; padding: 0; margin: 0; text-align: left; padding-left: 20px; padding-right: 20px; color: rgb(93,103,111); background: none; line-height: 26px; background: rgba(255,255,255,1); font-family: 'Trade Gothic W01 Light'; border: 0; text-transform:none; text-indent:10px; }
 .ddsmoothmenu ul li ul li a:link, .ddsmoothmenu ul li ul li a:visited { font-size: 12px; white-space: nowrap; width: 100%; padding: 0; margin: 0; text-align: left; color: rgb(93,103,111); background: none; line-height: 26px; background: rgba(255,255,255,1); font-family: 'Trade Gothic W01 Light'; border: 0; text-transform:none; text-indent:10px;}
@@ -95,7 +95,7 @@ div.doc { position: absolute; width: 100%; height: 100%; text-align: center; bac
 
 div.scfull { position: relative; top: 0px; left: 0;  width: 100%; height: 100%; margin: 0 auto; padding: 0; text-align: center;/* margin-bottom:-91px;*/}
 
-/* Slideshow */ 
+/* Slideshow */
 #slideshow { border-bottom: solid 0px rgb(90,90,90); background-color:rgb(255,255,255);}
 div.slideshow { position:relative; top:0; left:0; margin:0; padding:0; border:0; width:100%; height:100%; overflow:hidden; visibility:hidden; }
 div.slideshow ul { position:relative; top:0; left:0; margin:0; padding:0; border:0; display:block; }
@@ -126,23 +126,23 @@ div.weare { position:fixed; top:0; left:0; margin:auto; padding:0; border:0; wid
 div.change { position:absolute; top:45px; left:54.25%; margin:auto; padding:0; border:0; z-index:10000; text-align:center; vertical-align:middle; display:block; height:0; overflow:hidden; opacity:0; cursor:pointer; z-index:10000;  width:355px;}
 div.change img {  width:100%; text-align:left; vertical-align:top; cursor:pointer; }
 div.changeform { position: absolute; z-index: 10000000000000; top: 100px; text-align: left; padding: 45px 32px; font-size: 15px; font-family: 'Trade Gothic W01 Light', sans serif; font-weight: 300;}
-div.changeform p { line-height: 16px; } 
+div.changeform p { line-height: 16px; }
 div.changeform p.myloc { margin-bottom: 20px; line-height: 16px; }
 div.changeform h4 { font-size: 13px; color: rgb(0,161,96); font-family: 'Trade Gothic W01 Light', sans serif; font-weight: 300; padding-bottom: 0; letter-spacing: 0; line-height: 25px; text-align: left; text-transform: uppercase; }
 div.changeform h5 { border: solid 4px rgb(240,240,240); line-height: 36px; padding-left: 8px; font-size: 20px; color: rgb(210,210,210); }
-div.changeform h6 {background: rgb(0,161,96); line-height: 36px; font-size: 15px; color: rgb(255,255,255); width: auto; margin-top: 20px; font-family: Georgia; font-weight: 300; text-align: center; max-width: 120px; width: 120px; font-style: italic; letter-spacing: .025rem; } 
+div.changeform h6 {background: rgb(0,161,96); line-height: 36px; font-size: 15px; color: rgb(255,255,255); width: auto; margin-top: 20px; font-family: Georgia; font-weight: 300; text-align: center; max-width: 120px; width: 120px; font-style: italic; letter-spacing: .025rem; }
 div.changeform div.locations { display:none; opacity:0; position: absolute; top: 40px; color: rgb(210,210,210); border: solid 4px rgb(240,240,240); width: 291px; padding: 12px 15px; box-sizing: border-box; background: rgb(255,255,255); line-height: 22px; }
 div.changeform div.locations ul.location-list li { color: rgb(210,210,210); }
 div.changeform div.locations ul.location-list li:hover { color: rgb(120,120,120); }
 
 /* Standard Header */
 div.top { position:fixed; top:0; left:0; margin:0; padding:0; border:0; width:100%; height:100px; z-index:1000000000;  text-align:center; }
-div.top div.mid { position:relative; top:0; left:0; margin:0 auto; padding:0; border:0; width:96%; height:100%; z-index:100; max-width:1260px; padding-left:50px; padding-right:50px; background:rgba(255,255,255,1); border-bottom: solid 0px rgb(200,200,200); box-sizing:border-box; } 
+div.top div.mid { position:relative; top:0; left:0; margin:0 auto; padding:0; border:0; width:96%; height:100%; z-index:100; max-width:1260px; padding-left:50px; padding-right:50px; background:rgba(255,255,255,1); border-bottom: solid 0px rgb(200,200,200); box-sizing:border-box; }
 div.top div.mid div.fleft { position:relative; float:left; vertical-align:top; width:20%; text-align:right; margin:0; padding:0; border:0; padding-top:10px; }
 div.top div.mid div.fleft div.ham { display:none; }
-div.top div.mid div.fleft img.rlogo { margin: 0; padding: 0; border: 0; width: 100%; max-width: 130px; padding-top: 13px; float: left; padding-left:25px; } 
+div.top div.mid div.fleft img.rlogo { margin: 0; padding: 0; border: 0; width: 100%; max-width: 130px; padding-top: 13px; float: left; padding-left:25px; }
 div.top div.mid div.fleftmicro { position:relative; float:left; vertical-align:top; width:20%; text-align:right; margin:0; padding:0; border:0; padding-top:10px; }
-div.top div.mid div.fleftmicro img.rlogomicro { margin: 0; padding: 0; border: 0; width: 100%; max-width: 300px; padding-top: 8px; float: left; padding-left:0px; } 
+div.top div.mid div.fleftmicro img.rlogomicro { margin: 0; padding: 0; border: 0; width: 100%; max-width: 300px; padding-top: 8px; float: left; padding-left:0px; }
 div.top div.mid div.fright { position:relative; float:left; vertical-align:top; width:80%; text-align:right; margin:0; padding:0; border:0; padding-top:19px; margin-bottom:12px; }
 div.top div.mid div.frightmicro { position: relative; float: right; vertical-align: top; width: 10%; text-align: right; margin: 0; padding: 0; border: 0; padding-top: 0; margin-bottom: 0; margin-right: -50px; height: 100px; background: rgb(0,61,88); }
 div.top div.mid div.frightmicro div.hammicro { display:block; position: relative; margin: 0; padding: 30%; }
@@ -155,8 +155,8 @@ div.top div.mid div.fmid a { color:#fff }
 
 /* Standard Primary Navigation */
 div.topnav {  position:relative; top:0px; left:0; margin:0; padding:0; border:0; z-index:1200; text-align:left; vertical-align:top; width:90%; float:left;  text-align:right; }
-div.topnav span { display:none; } 
-div.topnav ul {  margin:0; padding:0; text-align:right; }  
+div.topnav span { display:none; }
+div.topnav ul {  margin:0; padding:0; text-align:right; }
 div.topnav ul li {       display:inline; margin:0; padding:0; width:15%; white-space:nowrap; margin-right:2%; }
 div.topnav ul li.last {  display:inline; margin:0; padding:0; width:15%; white-space:nowrap; margin-right:2%; }
 div.topnav ul li a {  margin:0; padding:0; padding: 0px 20px 0px 0px; display:inline-block; color: rgb(120,120,120); border:0; text-decoration:none; text-align:center; line-height:35px; white-space:nowrap; font-size:15px; text-transform:uppercase; text-transform:none; border-radius:0px; border-right: solid 1px rgb(225,225,225); line-height:24px; font-weight:300;}
@@ -170,21 +170,21 @@ div.topnav ul li.last a:hover { margin:0; padding:0; padding: 0px 20px 0px 0px; 
 
 /* Standard Primary Navigation
 div.topnav { position:relative; top:0px; left:0; margin:0; padding:0; margin-left:auto; margin-right:auto; border:0; width:100%; min-width:940px; z-index:1200; text-align:center;  }
-div.menu { display:none; position: absolute; top:15px; right:10px; } 
-div.topnav ul { position:relative; margin:0; padding:0; text-align:center; width:100%;  background-image: none; background-repeat:repeat; background-position:top right; display:block; border-top:0px solid rgb(210,210,210);}  
+div.menu { display:none; position: absolute; top:15px; right:10px; }
+div.topnav ul { position:relative; margin:0; padding:0; text-align:center; width:100%;  background-image: none; background-repeat:repeat; background-position:top right; display:block; border-top:0px solid rgb(210,210,210);}
 div.topnav ul li { display:inline; margin:0; padding:0; min-width:134px; white-space:nowrap;  }
 div.topnav ul li a {margin:0; padding:0; padding: 0px 20px 0px 14px; display:inline-block; color: rgb(0,0,0); border:0; text-decoration:none; text-align:center; line-height:38px;  background-image: none;  background-repeat:no-repeat; background-position: center right;  white-space:nowrap; font-size:17px; }
 div.topnav ul li.last { -webkit-border-radius: 0px 0px 12px 12px; -moz-border-radius: 0px 0px 8px 8px; border-radius: 0px 0px 8px 8px; border-bottom:solid 0px rgb(0,0,0);}
 div.topnav ul li.last a {margin:0; padding:0; padding: 0px 20px 0px 14px; display:inline-block; color: rgb(0,0,0); border:0; text-decoration:none; text-align:center; line-height:38px; background-image: url('/sitedocs/imagegallery/nav-bg2.2jpg'); background-repeat:repeat-x; background-position:top right; white-space:nowrap; font-size:17px;}
 div.topnav ul li a:hover { color: rgb(0,0,0); }
-div.topnav ul li ul { display:none; z-index:1000; position:absolute; top:38px; background-image: none; margin:0; padding:0; width:auto;  list-style-type:none; list-style-image: none; text-align:left; }  
+div.topnav ul li ul { display:none; z-index:1000; position:absolute; top:38px; background-image: none; margin:0; padding:0; width:auto;  list-style-type:none; list-style-image: none; text-align:left; }
 div.topnav ul li ul li { position:relative; display:block; text-align:left; margin:0; padding:0; padding: 0px 8px; background:rgba(0,0,0,.7); background-image: none; background-repeat:repeat; background-position:top right; border-right:solid 0px rgb(0,0,0); border-left:solid 0px rgb(0,0,0);  }
 div.topnav ul li ul li.last a, div.topnav ul li ul li a { font-size:14px; width:100%; line-height:25px; text-align:left; padding: 0px; background-image:none; color:rgb(255,255,255);}
 div.topnav ul li ul li.last a:hover, div.topnav ul li ul li a:hover { font-size:14px; width:100%; line-height:25px; text-align:left; padding: 0px; background-image:none; color:rgb(120,120,120);}
 div.topnav ul li.last ul li a { background-image:none; text-align:left; padding:0; margin:0; font-size:14px; width:100%; line-height:25px; border-bottom:solid 0px rgb(0,0,0);}
 div.topnav ul li.firstlast { -webkit-border-radius: 0px 0px 12px 12px; -moz-border-radius: 0px 0px 8px 8px; border-radius: 0px 0px 8px 8px; border-bottom:solid 0px rgb(0,0,0);}
 div.topnav ul li ul li ul li.first { -webkit-border-radius: 12px 12px 0px 0px; -moz-border-radius: 8px 8px 0px 0px; border-radius: 8px 8px 0px 0px; border-top:solid 0px rgb(0,0,0);}
-div.topnav ul li ul li ul { display:none; z-index:1000; position:absolute; top:0px; background-image: none; margin:0; padding:0; width:auto; margin-left:-6px; }  
+div.topnav ul li ul li ul { display:none; z-index:1000; position:absolute; top:0px; background-image: none; margin:0; padding:0; width:auto; margin-left:-6px; }
 div.topnav ul li ul li ul li { position:relative; display:block; text-align:left; }
 div.topnav ul li ul li.last ul li.firstlast {  -webkit-border-radius: 12px 12px 12px 12px; -moz-border-radius: 8px 8px 8px 8px; border-radius: 8px 8px 8px 8px; border-bottom:solid 0px rgb(0,0,0);}
 
@@ -211,7 +211,7 @@ div.topimage h2 { position:absolute; bottom:60px; width:48%; background-color:rg
 
 /* Standard Social Navigation */
 div.media { float: left; width: 10%; }
-ul.social { margin:0; padding:0; text-align:right; width:auto; white-space: nowrap; }  
+ul.social { margin:0; padding:0; text-align:right; width:auto; white-space: nowrap; }
 ul.social li { display:inline-block; margin:0; padding:0; white-space:nowrap; margin-right:3px; }
 ul.social li .fa { background-color: rgb(240,240,240); border-radius: 30px; padding: 7px; width: 12px; height: 12px; color: rgb(210,210,210); }
 ul.social li .fa:hover { background-color: rgb(145,192,231); border-radius: 30px; padding: 7px; width: 12px; height: 12px; color: rgb(255,255,255); }
@@ -225,50 +225,50 @@ ul.breadcrumb li a:hover {  margin: 0; padding: 0; border: 0;  color: rgb(0,161,
 ul.breadcrumb li.last { background:none; }
 ul.breadcrumb li.last a {  margin: 0; padding: 0; border: 0; color: rgb(0,161,96); text-transform: none; text-decoration: none; }
 
-div.hundo { position: relative; top: 0;  width: 100%; text-align: center; padding: 0; margin: 0 auto; background-color: rgb(255,255,255); border: 0; height: 100%; overflow:hidden; } 
-div.hundo div.full { position:relative; width:100%; text-align:center; padding:0; margin:0; height:100%; } 
+div.hundo { position: relative; top: 0;  width: 100%; text-align: center; padding: 0; margin: 0 auto; background-color: rgb(255,255,255); border: 0; height: 100%; overflow:hidden; }
+div.hundo div.full { position:relative; width:100%; text-align:center; padding:0; margin:0; height:100%; }
 
-div.hundo div.full div.black { position:relative; width:100%; text-align:center; padding:0; margin:0; height:100%;  background-color: rgba(0,0,0,.4); z-index:500;  } 
+div.hundo div.full div.black { position:relative; width:100%; text-align:center; padding:0; margin:0; height:100%;  background-color: rgba(0,0,0,.4); z-index:500;  }
 div.hundo div.full div.titles { position: absolute; line-height: 1; max-width: 1200px; overflow: hidden; vertical-align: middle; width: 100%; left: 50%; bottom: 3%; transform: translate(-50%,-40%); cursor: pointer; padding-left: 50px; z-index: 100; }
 div.hundo div.full div.titles div.section { position:relative; float:left; width:20%; margin-right:5%; border-top: solid 2px rgb(255,255,255); padding-top:32px; }
 div.hundo div.full div.titles div.section.on { position:relative; float:left; width:20%; margin-right:5%; border-top: solid 4px rgb(0,161,96); padding-top:30px; }
-div.hundo div.full div.titles h2 { position: relative; width: 100%; text-align: left; font-family: 'HelveticaNeueW01-67MdCn_692710', sans-serif; font-size: 22px; line-height: 20px; margin: 0 auto; font-weight: 300; color: #fff; } 
-div.hundo div.full div.titles h4 { position: relative; width: 100%; text-align: left; font-family: 'HelveticaNeueW01-57Cn', sans-serif; font-size: 15px; line-height: 20px; margin-bottom: 10px; font-weight: 300; color: #565a5c; font-family: 'HelveticaNeueW01-67MdCn_692710', sans-serif; color: #fff; margin-top:10px } 
+div.hundo div.full div.titles h2 { position: relative; width: 100%; text-align: left; font-family: 'HelveticaNeueW01-67MdCn_692710', sans-serif; font-size: 22px; line-height: 20px; margin: 0 auto; font-weight: 300; color: #fff; }
+div.hundo div.full div.titles h4 { position: relative; width: 100%; text-align: left; font-family: 'HelveticaNeueW01-57Cn', sans-serif; font-size: 15px; line-height: 20px; margin-bottom: 10px; font-weight: 300; color: #565a5c; font-family: 'HelveticaNeueW01-67MdCn_692710', sans-serif; color: #fff; margin-top:10px }
 div.hundo div.full div.titles div.owl-buttons { display:none; }
 
-div.fifty { position:relative; width:30%; text-align:center; padding:0; margin:0 auto; border:0; box-sizing:border-box; display: inline-block; vertical-align: top; margin-bottom: 50px;} 
+div.fifty { position:relative; width:30%; text-align:center; padding:0; margin:0 auto; border:0; box-sizing:border-box; display: inline-block; vertical-align: top; margin-bottom: 50px;}
 div.padfiftybottom { padding-bottom:50px; }
 
 
 
 /* Standard Middle */
-div.content { position:relative; top:110px; width:100%; text-align:center; padding:0; margin:0 auto; background-color:rgb(255,255,255); border:0;} 
+div.content { position:relative; top:110px; width:100%; text-align:center; padding:0; margin:0 auto; background-color:rgb(255,255,255); border:0;}
 div.content.bg-240 { background-color:rgb(240,240,240); }
 div.content.bg-240dk { background-color:rgb(93,103,112); }
 div.content.bg-240dk.subtract { margin-top: -200px; }
 div.content.bg-255 { background-color:rgb(255,255,255); }
-div.content div.full { position:relative; width:100%; text-align:center; padding:0; margin:0; } 
-div.content div.mid { position:relative; width:96%; text-align:center; padding:0; margin:0 auto; max-width:1260px; padding-left:50px; padding-right:50px; padding-top:50px; padding-bottom:50px;box-sizing: border-box;} 
+div.content div.full { position:relative; width:100%; text-align:center; padding:0; margin:0; }
+div.content div.mid { position:relative; width:96%; text-align:center; padding:0; margin:0 auto; max-width:1260px; padding-left:50px; padding-right:50px; padding-top:50px; padding-bottom:50px;box-sizing: border-box;}
 div.content div.mid.nopad { padding:0; }
 div.content div.mid.bg-255 { background-color:rgb(255,255,255); }
 div.content div.mid.bg-061 { background-color:rgb(0,61,88); }
 div.content div.mid.blocks { padding: 100px; padding-left: 0; padding-right: 0; }
-div.content div.mid h1 { position:relative; width:100%; text-align:center; font-family:'HelveticaNeueW01-57Cn', sans-serif; font-size:36px; line-height:46px; margin: 0 auto; margin-bottom:10px; font-weight:300; color: rgb(0,61,88); padding-bottom:10px; box-sizing: border-box; } 
-div.content div.mid h1.blue { position:relative; width:100%; text-align:center; font-family:'HelveticaNeueW01-57Cn', sans-serif; font-size:36px; line-height:46px; margin: 0 auto; margin-bottom:10px; font-weight:300; color: rgb(0,61,88); padding-bottom:10px; box-sizing: border-box; } 
-div.content div.mid h1.blue.micro { position:relative; width:100%; text-align:left; font-family:'HelveticaNeueW01-57Cn', sans-serif; font-size:46px; line-height:56px; margin: 0; margin-bottom:10px; font-weight:600; color: rgb(0,61,88); padding-bottom:10px; box-sizing: border-box; max-width:600px; } 
-div.content div.mid h1.green { position:relative; width:100%; text-align:left; font-family:'HelveticaNeueW01-57Cn', sans-serif; font-size:36px; line-height:46px; margin: 0 auto; margin-bottom:10px; font-weight:300; color: rgb(0,161,96); padding-bottom:10px; box-sizing: border-box; } 
-div.content div.mid h1.greencenter { position:relative; width:90%; text-align:center; font-family:'HelveticaNeueW01-57Cn', sans-serif; font-size:36px; line-height:46px; margin: 0 auto; margin-bottom:10px; font-weight:300; color: rgb(0,161,96); padding-bottom:10px; box-sizing: border-box; } 
-div.content div.mid h1.greencentermicroleft { position:relative; width:100%; text-align:left; font-family:'HelveticaNeueW01-57Cn', sans-serif; font-size:36px; line-height:46px; margin: 0 auto; margin-bottom:10px; font-weight:300; color: rgb(0,161,96); padding-bottom:10px; box-sizing: border-box; } 
-div.content div.mid h1.whitecenter { position:relative; width:90%; text-align:center; font-family:'HelveticaNeueW01-57Cn', sans-serif; font-size:36px; line-height:46px; margin: 0 auto; margin-bottom:10px; font-weight:300; color: rgb(255,255,255); padding-bottom:10px; box-sizing: border-box; } 
-div.content div.mid h1.greennews { position:relative; width:60%; text-align:left; font-family:'HelveticaNeueW01-57Cn', sans-serif; font-size:36px; line-height:46px; margin: 0; margin-bottom:25px; margin-left:20%; font-weight:300; color: rgb(0,161,96); padding-bottom:10px; box-sizing: border-box; } 
-div.content div.mid h3 { position:relative; width:100%; text-align:left; font-family:'HelveticaNeueW01-57Cn', sans-serif; font-size:32px; line-height:40px; margin-bottom:10px; font-weight:300; color: #565a5c; box-sizing: border-box; } 
-div.content div.mid h3.green {text-transform: none; font-family: "Trade Gothic W01 Light"; color: rgb(0,61,88); text-align: left; font-size: 12px; padding: 0; margin: 0 auto; width: 100%; line-height: 22px; margin-bottom: 10px; font-weight:600; box-sizing: border-box; } 
-div.content div.mid h3.greennews {text-transform: uppercase; font-family: "Trade Gothic W01 Light"; color: rgb(0,61,88); text-align: left; font-size: 12px; padding: 0; margin: 0; margin-left:20%; width: 63%; line-height: 22px; margin-bottom: 10px; font-weight:600; box-sizing: border-box; letter-spacing: .02rem;} 
+div.content div.mid h1 { position:relative; width:100%; text-align:center; font-family:'HelveticaNeueW01-57Cn', sans-serif; font-size:36px; line-height:46px; margin: 0 auto; margin-bottom:10px; font-weight:300; color: rgb(0,61,88); padding-bottom:10px; box-sizing: border-box; }
+div.content div.mid h1.blue { position:relative; width:100%; text-align:center; font-family:'HelveticaNeueW01-57Cn', sans-serif; font-size:36px; line-height:46px; margin: 0 auto; margin-bottom:10px; font-weight:300; color: rgb(0,61,88); padding-bottom:10px; box-sizing: border-box; }
+div.content div.mid h1.blue.micro { position:relative; width:100%; text-align:left; font-family:'HelveticaNeueW01-57Cn', sans-serif; font-size:46px; line-height:56px; margin: 0; margin-bottom:10px; font-weight:600; color: rgb(0,61,88); padding-bottom:10px; box-sizing: border-box; max-width:600px; }
+div.content div.mid h1.green { position:relative; width:100%; text-align:left; font-family:'HelveticaNeueW01-57Cn', sans-serif; font-size:36px; line-height:46px; margin: 0 auto; margin-bottom:10px; font-weight:300; color: rgb(0,161,96); padding-bottom:10px; box-sizing: border-box; }
+div.content div.mid h1.greencenter { position:relative; width:90%; text-align:center; font-family:'HelveticaNeueW01-57Cn', sans-serif; font-size:36px; line-height:46px; margin: 0 auto; margin-bottom:10px; font-weight:300; color: rgb(0,161,96); padding-bottom:10px; box-sizing: border-box; }
+div.content div.mid h1.greencentermicroleft { position:relative; width:100%; text-align:left; font-family:'HelveticaNeueW01-57Cn', sans-serif; font-size:36px; line-height:46px; margin: 0 auto; margin-bottom:10px; font-weight:300; color: rgb(0,161,96); padding-bottom:10px; box-sizing: border-box; }
+div.content div.mid h1.whitecenter { position:relative; width:90%; text-align:center; font-family:'HelveticaNeueW01-57Cn', sans-serif; font-size:36px; line-height:46px; margin: 0 auto; margin-bottom:10px; font-weight:300; color: rgb(255,255,255); padding-bottom:10px; box-sizing: border-box; }
+div.content div.mid h1.greennews { position:relative; width:60%; text-align:left; font-family:'HelveticaNeueW01-57Cn', sans-serif; font-size:36px; line-height:46px; margin: 0; margin-bottom:25px; margin-left:20%; font-weight:300; color: rgb(0,161,96); padding-bottom:10px; box-sizing: border-box; }
+div.content div.mid h3 { position:relative; width:100%; text-align:left; font-family:'HelveticaNeueW01-57Cn', sans-serif; font-size:32px; line-height:40px; margin-bottom:10px; font-weight:300; color: #565a5c; box-sizing: border-box; }
+div.content div.mid h3.green {text-transform: none; font-family: "Trade Gothic W01 Light"; color: rgb(0,61,88); text-align: left; font-size: 12px; padding: 0; margin: 0 auto; width: 100%; line-height: 22px; margin-bottom: 10px; font-weight:600; box-sizing: border-box; }
+div.content div.mid h3.greennews {text-transform: uppercase; font-family: "Trade Gothic W01 Light"; color: rgb(0,61,88); text-align: left; font-size: 12px; padding: 0; margin: 0; margin-left:20%; width: 63%; line-height: 22px; margin-bottom: 10px; font-weight:600; box-sizing: border-box; letter-spacing: .02rem;}
 div.content div.mid h3.media { position: relative; width: 96%; text-align: center; font-family: 'HelveticaNeueW01-57Cn', sans-serif; font-size: 32px; line-height: 40px; margin-bottom: 10px; font-weight: 300; color: #565a5c; box-sizing: border-box; padding-right: 8%; }
-div.content div.mid h4 { position:relative; width:100%; text-align:left; font-family:'Trade Gothic W01 Light', sans-serif; font-size:13px; line-height:16px; margin-bottom:0px; font-weight:300; color: rgb(0,161,96); text-transform:uppercase; padding-bottom:0px; box-sizing: border-box; } 
-div.content div.mid h4.lightgreen { position:relative; width:100%; text-align:left; font-family:'Trade Gothic W01 Light', sans-serif; font-size:13px; line-height:16px; margin-bottom:0px; font-weight:300; color: rgb(176,231,199); text-transform:uppercase; padding-bottom:0px; box-sizing: border-box; } 
-div.content div.mid p.full { position:relative; width:100%; text-align:left; font-family:'HelveticaNeueW01-57Cn', sans-serif; font-size:21px; line-height:28px; margin-bottom:20px; font-weight:300; color: #565a5c; max-width:100%; box-sizing: border-box; } 
-div.content div.mid p.seventy { position:relative; width:100%; text-align:left; font-family:'HelveticaNeueW01-57Cn', sans-serif; font-size:21px; line-height:28px; margin-bottom:20px; font-weight:300; color: #565a5c; max-width:70%; box-sizing: border-box; } 
+div.content div.mid h4 { position:relative; width:100%; text-align:left; font-family:'Trade Gothic W01 Light', sans-serif; font-size:13px; line-height:16px; margin-bottom:0px; font-weight:300; color: rgb(0,161,96); text-transform:uppercase; padding-bottom:0px; box-sizing: border-box; }
+div.content div.mid h4.lightgreen { position:relative; width:100%; text-align:left; font-family:'Trade Gothic W01 Light', sans-serif; font-size:13px; line-height:16px; margin-bottom:0px; font-weight:300; color: rgb(176,231,199); text-transform:uppercase; padding-bottom:0px; box-sizing: border-box; }
+div.content div.mid p.full { position:relative; width:100%; text-align:left; font-family:'HelveticaNeueW01-57Cn', sans-serif; font-size:21px; line-height:28px; margin-bottom:20px; font-weight:300; color: #565a5c; max-width:100%; box-sizing: border-box; }
+div.content div.mid p.seventy { position:relative; width:100%; text-align:left; font-family:'HelveticaNeueW01-57Cn', sans-serif; font-size:21px; line-height:28px; margin-bottom:20px; font-weight:300; color: #565a5c; max-width:70%; box-sizing: border-box; }
 div.content div.mid p.home {position: relative; width: 100%; text-align: center; font-family: 'HelveticaNeueW01-47LtCn_692686', sans-serif; font-size: 25px; line-height: 35px; margin: 0 auto; font-weight: 300; color: #565a5c; max-width: 78%; box-sizing: border-box; }
 div.content div.mid p.eighty {position: relative; width: 100%; text-align: center; font-family: 'HelveticaNeueW01-47LtCn_692686', sans-serif; font-size: 25px; line-height: 35px; margin: 0 auto; font-weight: 300; color: #565a5c; max-width: 78%; box-sizing: border-box; }
 div.content div.mid p.sixtyeighty {position: relative; width: 60%; text-align: center; font-family: 'HelveticaNeueW01-47LtCn_692686', sans-serif; font-size: 25px; line-height: 35px; margin: 0 auto; font-weight: 300; color: #565a5c; max-width: 78%; box-sizing: border-box; }
@@ -289,7 +289,7 @@ div.content div.mid p.fortyfivegray {position: relative; width: 420px; text-alig
 div.content div.mid p.fortyfivegray.micro { margin-bottom:40px; }
 div.content div.mid p.fortyfivedarkgray {position: relative; width: 420px; text-align: center; font-family: 'Trade Gothic W01 Light', sans-serif; font-size: 15px; line-height: 40px; margin: 0 auto; font-weight: 300; color: rgb(255,255,255); max-width: 85%; line-height:22px; margin-bottom:0px; }
 div.content div.mid div.greencat { position: absolute;z-index: 1000;background: #00a160;bottom: 0;margin-top: -50px;padding: 10px 30px;font-family: 'Trade Gothic W01 Light' , sans-serif;font-size: 15px;line-height: 20px;margin: 0 auto;font-weight: 600;color: rgb(255,255,255); }
-div.content div.mid.microproject { padding: 50px 30px 0px 30px; }    
+div.content div.mid.microproject { padding: 50px 30px 0px 30px; }
 div.content div.mid.microproject.notoppad { }
 
 div.content div.mid div.buffer { max-width:1260px;padding-left:50px;padding-right:50px;margin: 0 auto;box-sizing:border-box; }
@@ -307,20 +307,20 @@ div.content div.mid div.buffer.nopad h4.mb20 { text-align:left; margin-bottom: 2
 .mobile { display:none; }
 
 /* Standard Left */
-div.content div.mid div.left { position:relative; width:64%; text-align:center; padding:0; margin:0; padding-right:4%; } 
-div.content div.mid div.left h1 { position:relative; width:100%; text-align:left; font-family:'HelveticaNeueW01-57Cn', sans-serif; font-size:38px; line-height:46px; margin-bottom:10px; font-weight:300; color: rgb(48,96,147); padding-bottom:10px } 
-div.content div.mid div.left h3 { position:relative; width:100%; text-align:left; font-family:'HelveticaNeueW01-57Cn', sans-serif; font-size:32px; line-height:40px; margin-bottom:10px; font-weight:300; color: #565a5c; } 
-div.content div.mid div.left p { position:relative; width:100%; text-align:left; font-family:'HelveticaNeueW01-57Cn', sans-serif; font-size:21px; line-height:28px; margin-bottom:20px; font-weight:300; color: #565a5c; max-width:100%; } 
-div.content div.mid div.left p.seventy { position:relative; width:100%; text-align:left; font-family:'HelveticaNeueW01-57Cn', sans-serif; font-size:21px; line-height:28px; margin-bottom:20px; font-weight:300; color: #565a5c; max-width:70%; } 
+div.content div.mid div.left { position:relative; width:64%; text-align:center; padding:0; margin:0; padding-right:4%; }
+div.content div.mid div.left h1 { position:relative; width:100%; text-align:left; font-family:'HelveticaNeueW01-57Cn', sans-serif; font-size:38px; line-height:46px; margin-bottom:10px; font-weight:300; color: rgb(48,96,147); padding-bottom:10px }
+div.content div.mid div.left h3 { position:relative; width:100%; text-align:left; font-family:'HelveticaNeueW01-57Cn', sans-serif; font-size:32px; line-height:40px; margin-bottom:10px; font-weight:300; color: #565a5c; }
+div.content div.mid div.left p { position:relative; width:100%; text-align:left; font-family:'HelveticaNeueW01-57Cn', sans-serif; font-size:21px; line-height:28px; margin-bottom:20px; font-weight:300; color: #565a5c; max-width:100%; }
+div.content div.mid div.left p.seventy { position:relative; width:100%; text-align:left; font-family:'HelveticaNeueW01-57Cn', sans-serif; font-size:21px; line-height:28px; margin-bottom:20px; font-weight:300; color: #565a5c; max-width:70%; }
 
 
 /* Standard Right */
-div.content div.mid div.right { position:relative; width:24%; text-align:left; padding:0; margin:0; padding-left:4%; padding-right:4%; background-color: rgb(240,240,240);} 
-div.content div.mid div.right h1 { position:relative; width:100%; text-align:left; font-family:'HelveticaNeueW01-57Cn', sans-serif; font-size:38px; line-height:46px; margin-bottom:10px; font-weight:300; color: rgb(48,96,147); padding-bottom:10px } 
+div.content div.mid div.right { position:relative; width:24%; text-align:left; padding:0; margin:0; padding-left:4%; padding-right:4%; background-color: rgb(240,240,240);}
+div.content div.mid div.right h1 { position:relative; width:100%; text-align:left; font-family:'HelveticaNeueW01-57Cn', sans-serif; font-size:38px; line-height:46px; margin-bottom:10px; font-weight:300; color: rgb(48,96,147); padding-bottom:10px }
 div.content div.mid div.right h3  { position: relative; width: 100%; text-align: left; font-family: 'TradeGothicW01-BoldCn20_675334', sans-serif; font-size: 28px; line-height: 36px; margin-bottom: 0px; font-weight: 300; color: #565a5c; margin-top: 20px; text-transform:uppercase;  }
 div.content div.mid div.right h4  { position: relative; font-family: 'Trade Gothic W01 Light', sans-serif, Arial, Verdana; font-weight: 300; font-size: 15px; margin-bottom: 20px; }
-div.content div.mid div.right p.full { position:relative; width:100%; text-align:left; font-family:'HelveticaNeueW01-57Cn', sans-serif; font-size:21px; line-height:28px; margin-bottom:20px; font-weight:300; color: #565a5c; max-width:100%; } 
-div.content div.mid div.right p.seventy { position:relative; width:100%; text-align:left; font-family:'HelveticaNeueW01-57Cn', sans-serif; font-size:21px; line-height:28px; margin-bottom:20px; font-weight:300; color: #565a5c; max-width:70%; } 
+div.content div.mid div.right p.full { position:relative; width:100%; text-align:left; font-family:'HelveticaNeueW01-57Cn', sans-serif; font-size:21px; line-height:28px; margin-bottom:20px; font-weight:300; color: #565a5c; max-width:100%; }
+div.content div.mid div.right p.seventy { position:relative; width:100%; text-align:left; font-family:'HelveticaNeueW01-57Cn', sans-serif; font-size:21px; line-height:28px; margin-bottom:20px; font-weight:300; color: #565a5c; max-width:70%; }
 
 /* Standard Left */
 div.content div.mid div.twentyfive { position: relative; width: 16%; padding: 0; margin: 0; padding-right: 4%; float: left; text-align: left; box-sizing: border-box; }
@@ -328,29 +328,29 @@ div.content div.mid div.twentyfive h4 { line-height: 1.8em; color: rgb(0,161,96)
 div.content div.mid div.twentyfive ul li a { line-height: 1.8em; font-size:13px; font-weight:300; }
 
 /* Standard Right */
-div.content div.mid div.seventyfive { position: relative; width: 84%; text-align: left; padding: 0; margin: 0; padding-left: 4%; padding-right: 4%; float: left; border-left: dashed 1px rgb(210,210,210); box-sizing: border-box; } 
+div.content div.mid div.seventyfive { position: relative; width: 84%; text-align: left; padding: 0; margin: 0; padding-left: 4%; padding-right: 4%; float: left; border-left: dashed 1px rgb(210,210,210); box-sizing: border-box; }
 
 
 /* Projects Left */
-div.content div.mid div.vshow { position:static; width:100%; text-align:center; padding:0; margin:0 auto; margin-bottom: 10px; z-index:1; max-width: 1260px; padding-top: 20px;} 
-div.content div.mid div.show { position:static; width:100%; text-align:center; padding:0; margin:0; margin-bottom: 10px; z-index:1; padding-left:50px; padding-right:0px; max-width: 1260px; box-sizing: border-box; } 
-div.content div.mid div.show div.item {  padding:0; margin:0;padding-bottom: 30px; } 
-div.content div.mid div.show .owl-carousel .owl-item  div.item {  padding:0; margin:0; } 
-div.content div.mid div.show img { position:relative; width:100%; text-align:center; padding:0; margin:0; } 
-div.content div.mid div.details { position: relative; width: 100%; text-align: center; padding: 0; margin: 0; z-index:100; margin-bottom: 0px;} 
-div.content div.mid div.details div.dl { position: relative; width: 24%; text-align: left; padding: 0; margin: 0; float: left; background: #fff;  margin-top: -130px; padding: 3%; } 
-div.content div.mid div.details div.dl.micro { position: relative; width: 16%; text-align: left; padding: 20px 0; margin: 0; float: left; background: #fff;  margin-top: 0px; } 
-div.content div.mid div.details div.dl h1 { font-family: 'HelveticaNeueW01-57Cn'; text-align: left; font-size: 28px; width: 80%; padding: 0; margin: 0; line-height: 32px; margin-bottom: 20px; } 
-div.content div.mid div.details div.dl div.dtitle { text-transform: uppercase; font-family: "Trade Gothic W01 Light"; text-align: left; font-size: 12px; width: 100%; padding: 0; margin: 0; line-height: 20px; font-weight: bold; letter-spacing: .02rem;} 
-div.content div.mid div.details div.dl div.dvalue { text-transform: none; font-family: "Trade Gothic W01 Light"; color: rgb(120,120,120); text-align: left; font-size: 15px; width: 100%; padding: 0; margin: 0; line-height: 20px; margin-bottom: 10px; } 
-div.content div.mid div.details div.dm { position: relative; width: 44%; text-align: center; padding: 0; margin: 0; float: left; padding-left: 5%; padding-right: 5%; margin-bottom:20px; padding-top: 20px; min-height: 250px;} 
-div.content div.mid div.details div.dm.micro { position: relative; width: 58%; text-align: center; padding: 0; margin: 0; float: left; padding-left: 5%; padding-right: 5%; margin-bottom:20px; padding-top: 20px; min-height: 250px;} 
-div.content div.mid div.details div.dm p { text-transform: none; font-family: "Trade Gothic W01 Light"; color: rgb(120,120,120); text-align: left; font-size: 15px; width: 100%; padding: 0; margin: 0; line-height: 22px; margin-bottom: 20px; } 
-div.content div.mid div.details div.dm p b { color: rgb(0,0,0); font-size: 13px; } 
-div.content div.mid div.details div.dr { position: relative; width: 12%; text-align: center; padding: 0; margin: 0; float: left; padding-right: 4%; margin-bottom:20px; padding-top: 20px;} 
-div.content div.mid div.details div.dr div.bar { text-align: left; margin: 0; margin-bottom: 10px;}  
-div.content div.mid div.details div.dr div.dtitle { font-family: HelveticaNeueW01-47LtCn_692686; color: rgb(0,61,88); font-size: 50px; font-weight: 300; letter-spacing: 0; text-align: left; line-height: 40px; padding-bottom:10px; } 
-div.content div.mid div.details div.dr div.dvalue { font-family: HelveticaNeueW01-47LtCn_692686; color: rgb(0,61,88); font-size: 16px; font-weight: 300; letter-spacing: 0; text-align: left; line-height: 22px; } 
+div.content div.mid div.vshow { position:static; width:100%; text-align:center; padding:0; margin:0 auto; margin-bottom: 10px; z-index:1; max-width: 1260px; padding-top: 20px;}
+div.content div.mid div.show { position:static; width:100%; text-align:center; padding:0; margin:0; margin-bottom: 10px; z-index:1; padding-left:50px; padding-right:0px; max-width: 1260px; box-sizing: border-box; }
+div.content div.mid div.show div.item {  padding:0; margin:0;padding-bottom: 30px; }
+div.content div.mid div.show .owl-carousel .owl-item  div.item {  padding:0; margin:0; }
+div.content div.mid div.show img { position:relative; width:100%; text-align:center; padding:0; margin:0; }
+div.content div.mid div.details { position: relative; width: 100%; text-align: center; padding: 0; margin: 0; z-index:100; margin-bottom: 0px;}
+div.content div.mid div.details div.dl { position: relative; width: 24%; text-align: left; padding: 0; margin: 0; float: left; background: #fff;  margin-top: -130px; padding: 3%; }
+div.content div.mid div.details div.dl.micro { position: relative; width: 16%; text-align: left; padding: 20px 0; margin: 0; float: left; background: #fff;  margin-top: 0px; }
+div.content div.mid div.details div.dl h1 { font-family: 'HelveticaNeueW01-57Cn'; text-align: left; font-size: 28px; width: 80%; padding: 0; margin: 0; line-height: 32px; margin-bottom: 20px; }
+div.content div.mid div.details div.dl div.dtitle { text-transform: uppercase; font-family: "Trade Gothic W01 Light"; text-align: left; font-size: 12px; width: 100%; padding: 0; margin: 0; line-height: 20px; font-weight: bold; letter-spacing: .02rem;}
+div.content div.mid div.details div.dl div.dvalue { text-transform: none; font-family: "Trade Gothic W01 Light"; color: rgb(120,120,120); text-align: left; font-size: 15px; width: 100%; padding: 0; margin: 0; line-height: 20px; margin-bottom: 10px; }
+div.content div.mid div.details div.dm { position: relative; width: 44%; text-align: center; padding: 0; margin: 0; float: left; padding-left: 5%; padding-right: 5%; margin-bottom:20px; padding-top: 20px; min-height: 250px;}
+div.content div.mid div.details div.dm.micro { position: relative; width: 58%; text-align: center; padding: 0; margin: 0; float: left; padding-left: 5%; padding-right: 5%; margin-bottom:20px; padding-top: 20px; min-height: 250px;}
+div.content div.mid div.details div.dm p { text-transform: none; font-family: "Trade Gothic W01 Light"; color: rgb(120,120,120); text-align: left; font-size: 15px; width: 100%; padding: 0; margin: 0; line-height: 22px; margin-bottom: 20px; }
+div.content div.mid div.details div.dm p b { color: rgb(0,0,0); font-size: 13px; }
+div.content div.mid div.details div.dr { position: relative; width: 12%; text-align: center; padding: 0; margin: 0; float: left; padding-right: 4%; margin-bottom:20px; padding-top: 20px;}
+div.content div.mid div.details div.dr div.bar { text-align: left; margin: 0; margin-bottom: 10px;}
+div.content div.mid div.details div.dr div.dtitle { font-family: HelveticaNeueW01-47LtCn_692686; color: rgb(0,61,88); font-size: 50px; font-weight: 300; letter-spacing: 0; text-align: left; line-height: 40px; padding-bottom:10px; }
+div.content div.mid div.details div.dr div.dvalue { font-family: HelveticaNeueW01-47LtCn_692686; color: rgb(0,61,88); font-size: 16px; font-weight: 300; letter-spacing: 0; text-align: left; line-height: 22px; }
 div.content div.mid div.projectsnav { height: 100px; position: relative; top: 0px; z-index:10000; }
 div.content div.mid div.projectsnav.micro { height: 100px; position: relative; top: 0px; z-index:10000; padding: 40px 220px; }
 div.content div.mid div.projectsnav div.prev { float: left; text-align: center; padding: 20px; }
@@ -383,7 +383,7 @@ div.ban h4 { position: relative; width: 100%; text-align: center; clear:both; fo
 
 
 /* Banner Right 2 */
-ul.bannerstyle2 { margin:0; padding:0; padding-top:10px; border:0; width:100%; } 
+ul.bannerstyle2 { margin:0; padding:0; padding-top:10px; border:0; width:100%; }
 ul.bannerstyle2 li { margin:0; padding:0; border:0; vertical-align:top; list-style-type:none; padding-bottom:5px; width:100%;  }
 ul.bannerstyle2 li div.title { position:relative; margin:0; padding:0; border:0; text-transform:none;  }
 ul.bannerstyle2 li div.title h2 { position:relative; color:rgb(200,35,40); margin-bottom:5px; letter-spacing:0px; font-weight:bold; text-transform:uppercase; display:none; }
@@ -392,7 +392,7 @@ ul.bannerstyle2 li div.title img { position:relative;  border: 0; margin:0; padd
 
 /* List Style 2 */
 div.mleft {width: 26%; float:left; padding-bottom:15px; margin-bottom: 4%; margin-top: 4%; padding-right: 4%; }
-div.mleft img {width: 175px; float:left; padding-bottom:15px; overflow:hidden;} 
+div.mleft img {width: 175px; float:left; padding-bottom:15px; overflow:hidden;}
 div.mleft a { font-weight:bold; font-size:87%; text-transform:uppercase; color:rgb(0,0,0); }
 
 div.mright {width: 100%; float: left; margin: 0; padding: 0; padding-bottom: 15px; border-bottom: solid 4px rgb(240,240,240); margin-bottom: 40px; box-sizing: border-box; }
@@ -401,8 +401,8 @@ div.mright p { padding: 0; margin: 0; clear: both; margin-bottom: 10px; }
 div.mright a { float: left; line-height: 1.8em; color: rgb(0,161,96); text-transform: uppercase; vertical-align: top; font-size: 13px; font-weight:300; }
 div.mright a.title { font-weight: 300; font-size: 20px; text-transform: none; color: rgb(120,120,120); margin-top: 0px; float: left; clear: both; font-family: 'HelveticaNeueW01-67MdCn_692710'; }
 div.mright a.title:hover { font-weight: 300; font-size: 20px; text-transform: none; color: rgb(0,0,0); margin-top: 0px; float: left; clear: both; font-family: 'HelveticaNeueW01-67MdCn_692710'; }
-div.mright ul { margin-left:0px; padding-top:5px; padding-bottom:0px; width:450px; } 
-div.mright ul li { list-style-position:outside; margin-left:40px; padding-bottom:5px; font-family: Arial, Verdana, Times New Roman, Times, serif; line-height:1.6em; width: 420px; font-size:100%;} 
+div.mright ul { margin-left:0px; padding-top:5px; padding-bottom:0px; width:450px; }
+div.mright ul li { list-style-position:outside; margin-left:40px; padding-bottom:5px; font-family: Arial, Verdana, Times New Roman, Times, serif; line-height:1.6em; width: 420px; font-size:100%;}
 
 
 .pgwrap2 { width:100%; padding-left:0px; padding-right:0px; float:left; }
@@ -420,8 +420,8 @@ div.mright ul li { list-style-position:outside; margin-left:40px; padding-bottom
 
 
 /* Standard Footer */
-div.ft { position:relative; top:110px; width:100%; text-align:center; padding-bottom:30px; margin:0 auto; background-color:rgb(0,61,88); border:0;} 
-div.ft div.mid { position:relative; width:96%; text-align:center; padding-bottom:10px; margin:0 auto; max-width:1200px; padding-left:2%; padding-right:2%; padding-top: 50px; padding-bottom: 0;} 
+div.ft { position:relative; top:110px; width:100%; text-align:center; padding-bottom:30px; margin:0 auto; background-color:rgb(0,61,88); border:0;}
+div.ft div.mid { position:relative; width:96%; text-align:center; padding-bottom:10px; margin:0 auto; max-width:1200px; padding-left:2%; padding-right:2%; padding-top: 50px; padding-bottom: 0;}
 div.ft div.mid div.ftlocations { width: 50%; float:left; margin:0; padding:0; padding-left:5%; padding-right: 10%; position: relative; }
 div.ft div.mid div.location { width: 33%; text-align:left; color: #fff; float: left; }
 div.ft div.mid div.location img { padding-bottom: 20px; }
@@ -437,8 +437,8 @@ div.ft div.mid div.ftlinks li a { color: #fff; font-family: 'Trade Gothic W01 Li
 div.ft div.mid div.ftlinks li a:hover { color: rgb(230,230,230); }
 div.ft div.mid div.ftcopyright { clear:both;text-align: left; padding-left: 5%; padding-top: 7%;color: #fff; }
 div.ft div.mid div.ftcopyright p { color:#fff; font-family: 'Trade Gothic W01 Light'; }
-div.ft div.mid div.location p a { font-size: 16px; color: rgb(176,231,199); font-family: 'HelveticaNeueW01-67MdCn_692710', sans serif; font-weight: 200; padding-bottom: 5px; letter-spacing: .03rem; text-transform: uppercase; line-height: 40px; margin-left: 0; } 
-div.ft div.mid div.location p a:hover { font-size: 16px; color: rgb(210,210,210); font-family: 'HelveticaNeueW01-67MdCn_692710', sans serif; font-weight: 200; padding-bottom: 5px; letter-spacing: .03rem; text-transform: uppercase; line-height: 40px; margin-left: 0; } 
+div.ft div.mid div.location p a { font-size: 16px; color: rgb(176,231,199); font-family: 'HelveticaNeueW01-67MdCn_692710', sans serif; font-weight: 200; padding-bottom: 5px; letter-spacing: .03rem; text-transform: uppercase; line-height: 40px; margin-left: 0; }
+div.ft div.mid div.location p a:hover { font-size: 16px; color: rgb(210,210,210); font-family: 'HelveticaNeueW01-67MdCn_692710', sans serif; font-weight: 200; padding-bottom: 5px; letter-spacing: .03rem; text-transform: uppercase; line-height: 40px; margin-left: 0; }
 
 /* Three Column Blue List*/
 div.content div.mid ul.threecol { position: relative; margin: 0; padding: 0; border: 0; text-align: left; width: 104%; padding-top: 50px; padding-bottom: 50px; }
@@ -460,7 +460,7 @@ div.content div.mid ul.threecol2 li h4.green { position:relative; margin:0; padd
 div.content div.mid ul.threecol2 li p.gray { position:relative; margin:0; padding:0; border:0; vertical-align:top; text-align:left; font-family:'Trade Gothic W01 Light', sans-serif; font-size:15px; line-height:22px; padding-bottom:20px; font-weight:300; color: rgb(120,120,120); }
 
 
-/* Three Column White List*/ 
+/* Three Column White List*/
 div.content div.mid div.careerpad { background: rgb(255,255,255); padding: 60px 120px; box-sizing:border-box; clear:both; text-align: left; margin-bottom:60px;}
 div.content div.mid div.careerpad h4 { position: relative; width: 100%; text-align: left; font-family: 'HelveticaNeueW01-57Cn', sans-serif; font-size: 14px; line-height: 12px; margin-bottom: 10px; font-weight: 600; color: rgb(0,161,96); text-transform: uppercase; padding-bottom: 10px; letter-spacing: 1px; }
 div.content div.mid div.careerpad p { position: relative; margin: 0; padding: 0; border: 0; vertical-align: top; text-align: left; font-family: 'Trade Gothic W01 Light', sans-serif; font-size: 15px; line-height: 22px; padding-bottom: 20px; font-weight: 300; color: rgb(120,120,120); }
@@ -660,8 +660,8 @@ div.sq2 { width:102%; margin:0 auto; padding:0}
 div.sq2 div.square { width: 31.33333%; margin: 0; padding: 0; margin-right: 2%; margin-bottom: 1.5%; float: left; position: relative; cursor:pointer;  }
 div.sq2 div.square.green { width: 31.33333%; margin: 0; padding: 0; margin-right: 2%; margin-bottom: 1.5%; float: left; position: relative; cursor:initial;  }
 div.sq2 div.square img { width:100%; }
-div.sq2 div.square div.black { position: absolute; width: 100%; text-align: center; padding: 0; margin: 0; height: 100%; background-color: rgba(0,0,0,0); z-index: 500; /* display: none; */ left: 0; top: 0; transition:all .9s ease-in-out 0s } 
-div.sq2 div.square:hover div.black { position: absolute; width: 100%; text-align: center; padding: 0; margin: 0; height: 100%; background-color: rgba(0,0,0,.6); z-index: 500; /* display: none; */ left: 0; top: 0; } 
+div.sq2 div.square div.black { position: absolute; width: 100%; text-align: center; padding: 0; margin: 0; height: 100%; background-color: rgba(0,0,0,0); z-index: 500; /* display: none; */ left: 0; top: 0; transition:all .9s ease-in-out 0s }
+div.sq2 div.square:hover div.black { position: absolute; width: 100%; text-align: center; padding: 0; margin: 0; height: 100%; background-color: rgba(0,0,0,.6); z-index: 500; /* display: none; */ left: 0; top: 0; }
 div.sq2 div.square div.contents { position: absolute; padding: 50px; top: 10px; text-align: left; font-family: 'HelveticaNeueW01-55Roma'; color: #fff; padding-top: 35px; z-index: 499; }
 div.sq2 div.square div.contents h3 { font-size: 28px; color: rgb(0,0,0); font-family: 'HelveticaNeueW01-57Cn', sans serif; font-weight: 200; padding-bottom: 5px; }
 div.sq2 div.square div.contents h3.page { font-size: 36px; color: #fff; font-family: 'HelveticaNeueW01-57Cn', sans serif; font-weight: 200; padding-bottom: 25px; line-height: 40px; }
@@ -680,7 +680,7 @@ div.bar2 { width: 100%; height: 4px; text-align: left; background: rgb(176,231,1
 div.sq3 { width:102%; margin:0 auto; padding:0}
 div.sq3 div.square { width: 31.333333%; margin: 0; padding: 0; margin-right: 2%; margin-bottom: 10px; float: left; position: relative; cursor:pointer; vertical-align:top; display:inline-block; overflow: hidden; }
 div.sq3 div.square img { width:100%; position: relative; }
-div.sq3 div.square div.black { position: absolute; width: 100%; text-align: center; padding: 0; margin: 0; height: 80%; background-color: rgba(0,0,0,.1); z-index: 500; left: 0; top: 0; transition: all .9s ease-in-out 0s; } 
+div.sq3 div.square div.black { position: absolute; width: 100%; text-align: center; padding: 0; margin: 0; height: 80%; background-color: rgba(0,0,0,.1); z-index: 500; left: 0; top: 0; transition: all .9s ease-in-out 0s; }
 div.sq3 div.square:hover div.black { position: absolute; width: 100%; text-align: center; padding: 0; margin: 0; height: 80%; background-color: rgba(0,0,0,.6); z-index: 500; left: 0; top: 0; transition: all .9s ease-in-out 0s; }
 div.sq3 div.square div.contents { position: relative; padding: 0; text-align: left; font-family: 'HelveticaNeueW01-55Roma'; color: #fff; padding-top: 10px; padding-bottom: 5px; z-index: 1000; background: #fff; margin: 0; }
 div.sq3 div.square div.contents h3 { font-size: 15px; color: rgb(93,103,111); font-family: 'HelveticaNeueW01-67MdCn_692710', sans serif; font-weight: 300; padding-bottom: 5px; text-align: center; text-transform: uppercase; width: 90%; margin: 0 auto; line-height: initial; letter-spacing: .02rem;}
@@ -707,7 +707,7 @@ div.view a:hover { font-family: Georgia; color: rgb(120,120,120); border: solid 
 div.sq5 { width:102%; margin:0 auto; padding:0}
 div.sq5 div.square { width: 31.333333%; margin: 0; padding: 0; margin-right: 2%; margin-bottom: 10px; float: left; position: relative; cursor:pointer; vertical-align:top; display:inline-block; overflow: hidden; }
 div.sq5 div.square img { width:100%; position: relative; }
-div.sq5 div.square div.black { position: absolute; width: 100%; text-align: center; padding: 0; margin: 0; height: 75%; background-color: rgba(0,0,0,.1); z-index: 500; left: 0; top: 0; transition: all .9s ease-in-out 0s; } 
+div.sq5 div.square div.black { position: absolute; width: 100%; text-align: center; padding: 0; margin: 0; height: 75%; background-color: rgba(0,0,0,.1); z-index: 500; left: 0; top: 0; transition: all .9s ease-in-out 0s; }
 div.sq5 div.square:hover div.black { position: absolute; width: 100%; text-align: center; padding: 0; margin: 0; height: 75%; background-color: rgba(0,0,0,.6); z-index: 500; left: 0; top: 0; transition: all .9s ease-in-out 0s; }
 div.sq5 div.square div.contents { position: relative; padding: 0; text-align: left; font-family: 'HelveticaNeueW01-55Roma'; color: #fff; padding-top: 15px; padding-bottom: 5px; z-index: 1000; background: #fff; margin: 0; }
 div.sq5 div.square div.contents h3 { font-size: 15px; color: rgb(93,103,111); font-family: 'HelveticaNeueW01-67MdCn_692710', sans serif; font-weight: 300; padding-bottom: 5px; text-align: center; text-transform: uppercase; width: 90%; margin: 0 auto; line-height: initial; letter-spacing: .02rem;}
@@ -723,8 +723,8 @@ div.sq6 { width:102%; margin:0 auto; padding:0}
 div.sq6 div.square { width: 31.33333%; margin: 0; padding: 0; margin-right: 2%; margin-bottom: 1.5%; float: left; position: relative; cursor:pointer;  }
 div.sq6 div.square.green { width: 31.33333%; margin: 0; padding: 0; margin-right: 2%; margin-bottom: 1.5%; float: left; position: relative; cursor:initial;  }
 div.sq6 div.square img { width:100%; }
-div.sq6 div.square div.black { position: absolute; width: 100%; text-align: center; padding: 0; margin: 0; height: 100%; background-color: rgba(0,0,0,0); z-index: 500; /* display: none; */ left: 0; top: 0; transition:all .9s ease-in-out 0s } 
-div.sq6 div.square:hover div.black { position: absolute; width: 100%; text-align: center; padding: 0; margin: 0; height: 100%; background-color: rgba(0,0,0,.6); z-index: 500; /* display: none; */ left: 0; top: 0; } 
+div.sq6 div.square div.black { position: absolute; width: 100%; text-align: center; padding: 0; margin: 0; height: 100%; background-color: rgba(0,0,0,0); z-index: 500; /* display: none; */ left: 0; top: 0; transition:all .9s ease-in-out 0s }
+div.sq6 div.square:hover div.black { position: absolute; width: 100%; text-align: center; padding: 0; margin: 0; height: 100%; background-color: rgba(0,0,0,.6); z-index: 500; /* display: none; */ left: 0; top: 0; }
 div.sq6 div.square div.contents { position: absolute; padding: 50px; top: 10px; text-align: left; font-family: 'HelveticaNeueW01-55Roma'; color: #fff; padding-top: 35px; z-index: 499; }
 div.sq6 div.square div.contents h3 { font-size: 28px; color: rgb(0,0,0); font-family: 'HelveticaNeueW01-57Cn', sans serif; font-weight: 200; padding-bottom: 5px; }
 div.sq6 div.square div.contents h3.page { font-size: 36px; color: #fff; font-family: 'HelveticaNeueW01-57Cn', sans serif; font-weight: 200; padding-bottom: 25px; line-height: 40px; }
@@ -833,9 +833,9 @@ ul.bidopps li img { width:100%; }
 div.mloc { width:103%; margin:0 auto; padding:0; max-width:1200px; margin-right:-3%; clear:both; }
 div.mloc div.loc { width: 30.33333%; margin: 0; padding: 0; margin-right: 3%; margin-bottom: 1.5%; float: left; position: relative; cursor: default; border-top: solid 4px rgb(220,220,220); min-height: 280px; transition:all .3s ease-in-out 0s; }
 div.mloc div.loc:hover { width: 30.33333%; margin: 0; padding: 0; margin-right: 3%; margin-bottom: 1.5%; float: left; position: relative; cursor: default; border-top: solid 4px rgb(120,120,120); min-height: 280px; transition:all .3s ease-in-out 0s; }
-div.mloc div.wgc:hover { background-image:url('https://walshwebsiteassets.blob.core.windows.net/sitedocs/imagegallery/ns93576-group-corporate-office.jpg'); background-size:cover; background-position: 50% 50%;} 
-div.mloc div.awc:hover { background-image:url('https://walshwebsiteassets.blob.core.windows.net/sitedocs/imagegallery/archer-western-corporate-office.jpg'); background-size:cover; background-position: 50% 50%;} 
-div.mloc div.wcc:hover { background-image:url('https://walshwebsiteassets.blob.core.windows.net/sitedocs/imagegallery/ns93576-canada-corporate-office.jpg'); background-size:cover; background-position: 50% 50%;} 
+div.mloc div.wgc:hover { background-image:url('https://walshwebsiteassets.blob.core.windows.net/sitedocs/imagegallery/walsh-group-corporate-office.jpg'); background-size:cover; background-position: 50% 50%;}
+div.mloc div.awc:hover { background-image:url('https://walshwebsiteassets.blob.core.windows.net/sitedocs/imagegallery/archer-western-corporate-office.jpg'); background-size:cover; background-position: 50% 50%;}
+div.mloc div.wcc:hover { background-image:url('https://walshwebsiteassets.blob.core.windows.net/sitedocs/imagegallery/walsh-canada-corporate-office.jpg'); background-size:cover; background-position: 50% 50%;}
 
 div.mloc div.loc img { width:100%; opacity:1; transition:all 1s ease-in-out 0s; }
 div.mloc div.loc:hover img { width:100%; opacity:1; transition:all 1s ease-in-out 0s; color: rgb(255,255,255);}
@@ -909,7 +909,7 @@ div.map-hovers div.officeg { display:none; position:absolute; width:176px; heigh
 div.map-hovers div.office h3, div.map-hovers div.officeg h3 { font-family: 'Trade Gothic W01 Light'; color: #fff; padding-left: 35px; padding-top: 5px; padding-right: 5px; text-align: left; font-size: 10px; font-weight: 600; white-space: normal; width: auto; line-height: 16px; text-transform:uppercase; }
 div.map-hovers div.office p, div.map-hovers div.officeg p { font-family: 'Trade Gothic W01 Light'; color: #fff; padding-left: 35px; padding-top: 5px; padding-right: 5px; text-align: left; font-size: 10px; position: absolute; bottom: 5px; }
 
-div.featuredleft { width:32%; margin:0; padding:0; float:left;} 
+div.featuredleft { width:32%; margin:0; padding:0; float:left;}
 div.featuredleft div.greensquare { width: 95%; margin: 0; padding: 0; margin-right: 5%; float: left; position: relative; cursor: pointer; margin-bottom: 20px; transition:all .2s ease-in-out 0s; }
 div.featuredleft div.greensquare:hover { width: 95%; margin: 0; padding: 0; margin-right: 5%; float: left; position: relative; cursor: pointer; margin-bottom: 20px; transition:all .2s ease-in-out 0s; }
 div.featuredleft div.greensquare div.black { position: absolute; width: 100%; text-align: center; padding: 0; margin: 0; height: 100%; background-color: rgba(0,0,0,.4); z-index: 500; top: 0; left: 0; display:none; z-index:150; transition:all .2s ease-in-out 0s; }
@@ -1083,8 +1083,8 @@ div.category.otherprojects { width:100%; top: 45px; margin-bottom:5px; }
 
 span.adjust { float: right; margin-right: -10px; padding: 0; display: block; background: none; color: #333; border-radius: 12px; -webkit-border-radius: 12px;-moz-border-radius: 12px; width: 40px; text-align: center; text-decoration: none; cursor: pointer; padding-bottom: 20px; padding-right: 2px; padding-left: 20px; }
 
-div#videof a div.black .fa  { font-size: 22px; padding: 30px; background: rgba(0,161,96,.5); color: rgb(255,255,255); margin-top: 23%; margin-left: -5%; transition: all .2s ease-in-out 0s; position: absolute; z-index: 1000000; } 
-div#videof a div.black:hover .fa  { font-size: 22px; padding: 30px; background: rgba(0,161,96,.9); color: rgb(255,255,255); margin-top: 23%; margin-left: -5%; transition: all .2s ease-in-out 0s; position: absolute; z-index: 1000000; } 
+div#videof a div.black .fa  { font-size: 22px; padding: 30px; background: rgba(0,161,96,.5); color: rgb(255,255,255); margin-top: 23%; margin-left: -5%; transition: all .2s ease-in-out 0s; position: absolute; z-index: 1000000; }
+div#videof a div.black:hover .fa  { font-size: 22px; padding: 30px; background: rgba(0,161,96,.9); color: rgb(255,255,255); margin-top: 23%; margin-left: -5%; transition: all .2s ease-in-out 0s; position: absolute; z-index: 1000000; }
 
 div.view div.span { display: inline-block; }
 
@@ -1101,7 +1101,7 @@ div.emailsignup i:hover { float: right; font-size: 30px; margin: 10px 20px; colo
 
 
 @media only screen and (min-width: 40.063em)
-{ 
+{
     .owl-carousel .item h4 { font-size: 1.4375rem; line-height: 1.4; }
 }
 
@@ -1115,13 +1115,13 @@ div.emailsignup i:hover { float: right; font-size: 30px; margin: 10px 20px; colo
 
     div.featuredleft div.greensquare div.contents h3 { font-size: 20px; line-height:23px; }
     div.featuredleft div.greensquare div.contents p { }
-   
+
     div.featuredright div.bluesquare div.contents h3 { font-size: 20px; line-height:23px; }
     div.featuredright div.bluesquare div.contents p { }
 
     div.libraryleft div.mediasquare div.contents h3 { font-size: 18px; line-height:22px; }
     div.libraryleft div.mediasquare:hover div.contents h3 { font-size: 18px; line-height:22px; }
-    div.libraryright div.mediasquare div.contents h3 { font-size: 18px; line-height:22px; } 
+    div.libraryright div.mediasquare div.contents h3 { font-size: 18px; line-height:22px; }
     div.libraryright div.mediasquare:hover div.contents h3 { font-size: 18px; line-height:22px; }
 
     div.process div.circle div.num { font-size:120px; }
@@ -1130,7 +1130,7 @@ div.emailsignup i:hover { float: right; font-size: 30px; margin: 10px 20px; colo
     div.process div.circle:hover div.copy { font-size:13px; line-height:20px; }
 }
 
-@media only screen and (min-width: 1024px) and (max-width: 1259px) 
+@media only screen and (min-width: 1024px) and (max-width: 1259px)
 {
 
     div.ftop ul.frt li.cl { font-size: 13px; }
@@ -1148,11 +1148,11 @@ div.emailsignup i:hover { float: right; font-size: 30px; margin: 10px 20px; colo
 
     div.featuredright div.bluesquare div.contents { padding: 20px 30px 20px 30px; }
     div.featuredright div.bluesquare div.contents h3 { padding-bottom: 0; font-size: 20px; line-height:23px; }
-    div.featuredright div.bluesquare div.contents p { font-size: 13px; line-height: 18px; }   
+    div.featuredright div.bluesquare div.contents p { font-size: 13px; line-height: 18px; }
 
     div.libraryleft div.mediasquare div.contents h3 { font-size: 18px; line-height:22px; }
     div.libraryleft div.mediasquare:hover div.contents h3 { font-size: 18px; line-height:22px; }
-    div.libraryright div.mediasquare div.contents h3 { font-size: 18px; line-height:22px; } 
+    div.libraryright div.mediasquare div.contents h3 { font-size: 18px; line-height:22px; }
     div.libraryright div.mediasquare:hover div.contents h3 { font-size: 18px; line-height:22px; }
 
     div.featuredright div.bluevideo div.black .fa { margin-top: 100px;}
@@ -1162,8 +1162,8 @@ div.emailsignup i:hover { float: right; font-size: 30px; margin: 10px 20px; colo
     div.content div.mid div.buffer { max-width:none; }
     div.content div.mid div.buffer.nopad h4 { padding-left:50px }
     div.content div.mid div.buffer.nopad h4.nopad { padding-left:0px }
-    div.sq2 div.square div.contents h3.page { font-size:28px; } 
-    div.sq2 div.square div.contents h3.category { font-size:28px; } 
+    div.sq2 div.square div.contents h3.page { font-size:28px; }
+    div.sq2 div.square div.contents h3.category { font-size:28px; }
 
     /* div.content div.mid div.buffer h4 { padding:0; margin:0; } */
     div.content div.mid div.buffer h4.lightgreen.tabmobile { text-align: left; padding: 0; margin: 0 auto; clear: both; padding-top: 30px; }
@@ -1173,23 +1173,23 @@ div.emailsignup i:hover { float: right; font-size: 30px; margin: 10px 20px; colo
     .ddsmoothmenu ul li a:hover { font-size:14px; margin-right:24px; }
     .ddsmoothmenu ul li a.selected { font-size:14px; margin-right:24px; }
     .ddsmoothmenu ul li a.active, .ddsmoothmenu ul li a.active:link, .ddsmoothmenu ul li a.active:visited, .ddsmoothmenu ul li a.active:active, .ddsmoothmenu ul li a.active:hover { font-size:14px; margin-right:24px; }
-    
+
     div.sq div.square div.contents p { font-size:14px; line-height:20px; max-width:100%; }
     div.sq div.square div.learn { bottom: 28px; }
     div.sq div.square:hover div.learn { bottom: 28px; }
 
-    
-    div.sq2 div.square div.contents p { font-size:14px; line-height:20px; } 
-    div.sq6 div.square div.contents p { display:none; } 
+
+    div.sq2 div.square div.contents p { font-size:14px; line-height:20px; }
+    div.sq6 div.square div.contents p { display:none; }
 
     div.videos div.mediasquare2 { width:80%; }
 
 }
 
-@media only screen and (min-width: 1024px) and (max-width: 1100px) 
+@media only screen and (min-width: 1024px) and (max-width: 1100px)
 {
     div.featuredleft div.greensquare div.contents p { display:none; }
-    div.featuredright div.bluesquare div.contents p { display:none; } 
+    div.featuredright div.bluesquare div.contents p { display:none; }
 
     div.featuredright div.bluevideo div.black .fa { margin-top: 80px;}
     div.featuredright div.bluevideo:hover div.black .fa { margin-top: 80px; }
@@ -1197,16 +1197,16 @@ div.emailsignup i:hover { float: right; font-size: 30px; margin: 10px 20px; colo
 
 
 
-@media only screen and (min-width: 960px) and (max-width: 1024px) 
+@media only screen and (min-width: 960px) and (max-width: 1024px)
 {
-   
+
     div.content div.mid p.home { font-size: 23px; line-height: 32px; }
 
     div.ftop ul.frt li.cl { font-size: 13px; }
     div.ftop ul.frt li a, div.ftop ul.frt li.br a { font-size: 13px; }
     div.ftop ul.frt li.cl a { font-size: 13px; }
 
-    div.fifty { width:49.5%; }     
+    div.fifty { width:49.5%; }
 
     div.process div.circle div.num { font-size:100px; }
     div.process div.circle:hover div.num { font-size:100px; }
@@ -1223,14 +1223,14 @@ div.emailsignup i:hover { float: right; font-size: 30px; margin: 10px 20px; colo
 
     div.featuredright div.bluesquare div.contents { padding: 30px; }
     div.featuredright div.bluesquare div.contents h3 { font-size: 18px; line-height: 22px; }
-    div.featuredright div.bluesquare div.contents p { display:none; }    
+    div.featuredright div.bluesquare div.contents p { display:none; }
 
     div.featuredright div.bluevideo div.black .fa { font-size:15px; padding:20px; margin-top:30% }
     div.featuredright div.bluevideo:hover div.black .fa { font-size:15px; padding:20px; margin-top:30% }
 
     div.libraryleft div.mediasquare div.contents h3 { font-size: 18px; line-height:22px; }
     div.libraryleft div.mediasquare:hover div.contents h3 { font-size: 18px; line-height:22px; }
-    div.libraryright div.mediasquare div.contents h3 { font-size: 18px; line-height:22px; } 
+    div.libraryright div.mediasquare div.contents h3 { font-size: 18px; line-height:22px; }
     div.libraryright div.mediasquare:hover div.contents h3 { font-size: 18px; line-height:22px; }
     div.libraryleft div.mediasquare div.contents p { line-height:18px; }
 
@@ -1268,7 +1268,7 @@ div.emailsignup i:hover { float: right; font-size: 30px; margin: 10px 20px; colo
     div.content div.mid ul.threecol2 li p { font-size: 13px; line-height: 20px; }
     div.content div.mid ul.threecol2 li h4.green { font-size:13px; line-height:18px; }
     div.content div.mid ul.threecol2 li h4 { font-size:13px; line-height:18px; }
-    
+
     div.content div.mid ul.fourcol li { width:46%; }
     div.content div.mid ul.fourcol li p { font-size:14px; }
 
@@ -1288,9 +1288,9 @@ div.emailsignup i:hover { float: right; font-size: 30px; margin: 10px 20px; colo
     .ddsmoothmenu ul li a:hover { font-size:13px; margin-right:18px; }
     .ddsmoothmenu ul li a.selected { font-size:13px; margin-right:18px; }
     .ddsmoothmenu ul li a.active, .ddsmoothmenu ul li a.active:link, .ddsmoothmenu ul li a.active:visited, .ddsmoothmenu ul li a.active:active, .ddsmoothmenu ul li a.active:hover { font-size:13px; margin-right:18px; }
-    
+
     div.top div.mid div.fleft img.rlogo { padding-left:0;}
-   
+
     div.college div.hr , div.college div.br, div.college div.br:hover { font-size:13px; }
 
     div.content div.mid div.careerpad { padding:60px;}
@@ -1321,20 +1321,20 @@ div.emailsignup i:hover { float: right; font-size: 30px; margin: 10px 20px; colo
 
     div.sq2 div.square div.contents { padding: 20px; }
     div.sq2 div.square div.contents h3.page { font-size: 26px;line-height: 28px; }
-    div.sq2 div.square div.contents h3.category { font-size:26px; }    
+    div.sq2 div.square div.contents h3.category { font-size:26px; }
     div.sq2 div.square div.contents p { font-size:14px; line-height:20px; }
 
-    div.sq3 div.square div.contents h3, div.sq3 div.square:hover div.contents h3 { font-size:14px;}   
+    div.sq3 div.square div.contents h3, div.sq3 div.square:hover div.contents h3 { font-size:14px;}
     div.sq3 div.square div.learn { top:29%;}
     div.sq3 div.square div.learn a {padding: 5px 18px; font-size:13px; line-height: 20px; }
     div.sq3 div.square:hover div.learn a {padding: 5px 18px; font-size:13px; line-height: 20px; }
-        
+
     div.sq5 div.square div.contents h3, div.sq5 div.square:hover div.contents h3 { font-size:14px;}
 
     div.sq6 div.square div.contents { padding: 20px; }
     div.sq6 div.square div.contents h3.page, div.sq6 div.square:hover div.contents h3.page { font-size: 26px;line-height: 28px; }
-    div.sq6 div.square div.contents p { display:none; } 
-    div.sq6 div.square div.contents h3.category { font-size:26px; }        
+    div.sq6 div.square div.contents p { display:none; }
+    div.sq6 div.square div.contents h3.category { font-size:26px; }
     div.sq6 div.square div.learn a {padding: 5px 18px; font-size:13px; line-height: 20px; }
     div.sq6 div.square:hover div.learn a {padding: 5px 18px; font-size:13px; line-height: 20px; }
 
@@ -1359,15 +1359,15 @@ div.emailsignup i:hover { float: right; font-size: 30px; margin: 10px 20px; colo
 
 }
 
-@media only screen and (min-width: 768px) and (max-width: 959px) 
+@media only screen and (min-width: 768px) and (max-width: 959px)
 {
     div.content div.mid p.home { font-size: 23px; line-height: 32px; }
 
-    div.fifty { width:49.5%; } 
- 
+    div.fifty { width:49.5%; }
+
     div.aloc div.loc { width: 22%; }
     div.aloc div.loc:hover { width: 22%; }
-        
+
     div.featuredleft div.greensquare div.contents { padding: 10px 20px; top: 0;}
     div.featuredleft div.greensquare div.contents h3 { font-size: 16px; line-height: 19px; }
     div.featuredleft div.greensquare div.contents h4 { font-size: 10px; padding-bottom: 0; }
@@ -1378,7 +1378,7 @@ div.emailsignup i:hover { float: right; font-size: 30px; margin: 10px 20px; colo
     div.featuredright div.bluesquare div.contents h3 { font-size: 16px; line-height: 19px; }
     div.featuredright div.bluesquare div.contents h4 { font-size: 10px; padding-bottom: 0; }
     div.featuredright div.bluesquare div.contents h4 span { font-size: 10px; padding-bottom: 0; }
-    div.featuredright div.bluesquare div.contents p { display:none; }    
+    div.featuredright div.bluesquare div.contents p { display:none; }
 
     div.featuredright div.bluevideo div.black .fa { font-size:15px; padding:20px; margin-top:30% }
     div.featuredright div.bluevideo:hover div.black .fa { font-size:15px; padding:20px; margin-top:30% }
@@ -1388,11 +1388,11 @@ div.emailsignup i:hover { float: right; font-size: 30px; margin: 10px 20px; colo
     div.libraryleft div.mediasquare div.contents h4 { font-size: 10px; }
     div.libraryleft div.mediasquare div.contents p { line-height:18px; }
 
-    div.libraryright div.mediasquare div.contents h3 { font-size: 16px; line-height:19px; } 
+    div.libraryright div.mediasquare div.contents h3 { font-size: 16px; line-height:19px; }
     div.libraryright div.mediasquare:hover div.contents h3 { font-size: 16px; line-height:19px; }
     div.libraryright div.mediasquare:hover div.black .fa { font-size: 18px; padding: 20px; margin-top: 38px; }
     div.libraryright div.mediasquare div.contents p { line-height:18px; }
-    
+
     div.content div.mid h3.media { padding-right:0; }
     div.content div.mid p.sixtygray { width: 100%; margin-left:0; font-size: 14px; line-height:20px; }
     div.content div.mid p.sixtywhite { width: 100%; margin-left:0; font-size: 14px; line-height:20px; }
@@ -1407,7 +1407,7 @@ div.emailsignup i:hover { float: right; font-size: 30px; margin: 10px 20px; colo
     div.content div.mid div.medianav { margin-left: 5%; width: 90%; }
 
     ul.breadcrumb { margin-left: 5%; width: 88%; }
-    
+
     div.content div.mid ul.threecol { padding-top: 30px; }
     div.content div.mid ul.threecol li { width:46%; }
     div.content div.mid ul.threecol li p.gray { font-size: 13px; line-height: 20px; }
@@ -1430,7 +1430,7 @@ div.emailsignup i:hover { float: right; font-size: 30px; margin: 10px 20px; colo
     div.content div.mid div.buffer { max-width:none; }
     div.content div.mid div.buffer.nopad h4 { padding-left:50px }
     div.content div.mid div.buffer.nopad h4.nopad { padding-left:0px }
-    div.content div.mid div.buffer h4.lightgreen.tabmobile { text-align: left; padding: 0; width: 100%; margin: 0 auto; clear: both; padding-top: 30px; }    
+    div.content div.mid div.buffer h4.lightgreen.tabmobile { text-align: left; padding: 0; width: 100%; margin: 0 auto; clear: both; padding-top: 30px; }
     div.content div.mid div.buffer h4.green.tabmobile { text-align: left; padding: 0; width: 100%; margin: 0 auto; clear: both; padding-bottom: 20px; }
     div.content div.mid div.buffer h4.green.tabmobile2 { text-align: center; padding: 0; width: 100%; margin: 0 auto; clear: both; padding-bottom: 20px; }
 
@@ -1443,7 +1443,7 @@ div.emailsignup i:hover { float: right; font-size: 30px; margin: 10px 20px; colo
     .ddsmoothmenu ul li a:hover { font-size: 12px; margin-right: 8px; letter-spacing: 0; padding-right: 15px; }
     .ddsmoothmenu ul li a.selected { font-size: 12px; margin-right: 8px; letter-spacing: 0; padding-right: 15px; }
     .ddsmoothmenu ul li a.active, .ddsmoothmenu ul li a.active:link, .ddsmoothmenu ul li a.active:visited, .ddsmoothmenu ul li a.active:active, .ddsmoothmenu ul li a.active:hover { font-size: 12px; margin-right: 8px; letter-spacing: 0; padding-right: 15px; }
-    
+
     div.top div.mid div.fleft img.rlogo { padding-left:0; margin-left:-20px; width:90%;}
     div.ftop ul.frt li a, div.ftop ul.frt li.br a { font-size:10px; padding-right:5px; white-space:nowrap; }
     div.ftop ul.frt li.cl, div.ftop ul.frt li.cl a { font-size:10px; padding-right:5px; white-space:nowrap; }
@@ -1496,13 +1496,13 @@ div.emailsignup i:hover { float: right; font-size: 30px; margin: 10px 20px; colo
     div.sq2 div.square div.contents p { font-size:13px; line-height:18px; }
     div.sq2 div.square div.learn a {padding: 5px 18px; font-size:13px; line-height: 20px;  }
     div.sq2 div.square:hover div.learn a {padding: 5px 18px; font-size:13px; line-height: 20px; }
-    
-    div.sq3 div.square div.contents h3, div.sq3 div.square:hover div.contents h3 { font-size:13px;} 
+
+    div.sq3 div.square div.contents h3, div.sq3 div.square:hover div.contents h3 { font-size:13px;}
     div.sq3 div.square div.learn { top:21%;}
     div.sq3 div.square div.learn a {padding: 5px 18px; font-size:13px; line-height: 20px; }
     div.sq3 div.square:hover div.learn a {padding: 5px 18px; font-size:13px; line-height: 20px; }
 
-    div.sq5 div.square div.contents h3, div.sq5 div.square:hover div.contents h3 { font-size:13px;} 
+    div.sq5 div.square div.contents h3, div.sq5 div.square:hover div.contents h3 { font-size:13px;}
     div.sq5 div.square div.learn a {padding: 5px 18px; font-size:13px; line-height: 20px; }
     div.sq5 div.square:hover div.learn a {padding: 5px 18px; font-size:13px; line-height: 20px;  }
 
@@ -1511,17 +1511,17 @@ div.emailsignup i:hover { float: right; font-size: 30px; margin: 10px 20px; colo
     div.sq6 div.square div.contents h3.page { font-size: 20px;line-height: 24px; }
     div.sq6 div.square div.contents h3.category { font-size:20px; }
     div.sq6 div.square div.contents p { display:none; }
-    
+
     div.sq6 div.square div.learn a {padding: 5px 18px; font-size:13px; line-height: 20px; }
     div.sq6 div.square:hover div.learn a {padding: 5px 18px; font-size:13px; line-height: 20px; }
 
 
     div.view a, div.view:hover a  { padding: 7px 30px; font-size: 13px;}
 
-    div.videos div.mediasquare { min-height:initial;}  
+    div.videos div.mediasquare { min-height:initial;}
     div.videos div.mediasquare div.black .fa { padding: 20px; margin-top: 30%; }
     div.videos div.mediasquare:hover div.black .fa { padding: 20px; margin-top: 30%; }
-    div.videos div.mediasquare div.contents h3 { line-height:21px; font-size:14px; }    
+    div.videos div.mediasquare div.contents h3 { line-height:21px; font-size:14px; }
     div.videos div.mediasquare2 { width:100%; }
     div.videos div.viewall a.viewall, div.videos div.viewall:hover a.viewall { padding: 7px 30px; font-size: 13px;}
 
@@ -1537,11 +1537,11 @@ div.emailsignup i:hover { float: right; font-size: 30px; margin: 10px 20px; colo
 }
 
 
-@media only screen and (min-width: 140px) and (max-width: 767px) 
+@media only screen and (min-width: 140px) and (max-width: 767px)
 {
     .nomobile { display:none; }
 
-    div.fifty { width:100%;  display:none; }     
+    div.fifty { width:100%;  display:none; }
 
     div.mission { width:100%; }
     div.content div.mid div.mission ul.twocolsixty { width: 100%; }
@@ -1563,7 +1563,7 @@ div.emailsignup i:hover { float: right; font-size: 30px; margin: 10px 20px; colo
     div.mloc div.loc:hover { width: 100%; margin:0; }
     div.mloc div.loc div.contents h3.title { text-align:left; margin:0; }
     div.mloc div.loc div.maps {bottom:20px; }
-    div.mloc div.loc div.contents p.address span.phonemobile {  display:inline-block;}    
+    div.mloc div.loc div.contents p.address span.phonemobile {  display:inline-block;}
     div.mloc div.loc:hover div.contents p.address span.phonemobile {  display:inline-block;}
     div.mloc div.loc div.contents p.address span.phone { display:none;}
     div.mloc div.loc:hover div.contents p.address span.phone { display:none;}
@@ -1579,9 +1579,9 @@ div.emailsignup i:hover { float: right; font-size: 30px; margin: 10px 20px; colo
     div.aloc div.loc:hover div.contents p.address span.phone { display:none; }
 
 
-    div.mloc div.wgc:hover { background:none; } 
-    div.mloc div.awc:hover { background:none; } 
-    div.mloc div.wcc:hover { background:none; } 
+    div.mloc div.wgc:hover { background:none; }
+    div.mloc div.awc:hover { background:none; }
+    div.mloc div.wcc:hover { background:none; }
 
     div.mloc div.loc img { width:100%; opacity:1; transition:all 1s ease-in-out 0s; }
     div.mloc div.loc:hover img { width:100%; opacity:0; color: rgb(80,80,80);}
@@ -1610,7 +1610,7 @@ div.emailsignup i:hover { float: right; font-size: 30px; margin: 10px 20px; colo
     div.content div.mid p.descrightwhite { display:none; }
     div.content div.mid p.descrightwhitenum { display:none; }
     div.content div.mid p.descrightbar { display:none; }
-    div.content div.mid div.careerpad  { padding: 40px 30px; } 
+    div.content div.mid div.careerpad  { padding: 40px 30px; }
 
     div.content div.mid div.careerpad a.reg { font-size: 12px; padding: 7px 20px; margin-right: 50px; white-space:nowrap; }
     div.content div.mid div.careerpad a.reg:hover { font-size: 12px; padding: 7px 20px;margin-right: 50px; white-space:nowrap; }
@@ -1639,7 +1639,7 @@ div.emailsignup i:hover { float: right; font-size: 30px; margin: 10px 20px; colo
     div.content div.mid div.medianav div.next { padding:0; }
     div.content div.mid div.medianav div.next a, div.content div.mid div.medianav div.next:hover a { font-size: 16px; }
     div.content div.mid div.medianav div.next a .fa { padding: 12px 12px; font-size: 18px; }
-    div.content div.mid div.medianav div.next:hover a .fa { padding: 12px 12px; font-size: 18px; }  
+    div.content div.mid div.medianav div.next:hover a .fa { padding: 12px 12px; font-size: 18px; }
 
     ul.breadcrumb { margin-left: 5%; width: 88%; }
 
@@ -1652,7 +1652,7 @@ div.emailsignup i:hover { float: right; font-size: 30px; margin: 10px 20px; colo
     div.content div.mid ul.threecolgreentop { width:100%; }
     div.content div.mid ul.threecolgreentop li { width:100%; margin-right:0; }
     div.content div.mid ul.threecolgreentop li h4 { font-size:13px; line-height:18px; }
-    
+
     div.content div.mid ul.threecol2 { padding-top: 30px; width:100%; }
     div.content div.mid ul.threecol2 li { font-size:13px; width: 100%; margin-right: 0; padding:0; }
     div.content div.mid ul.threecol2 li h4 { font-size:14px; }
@@ -1675,7 +1675,7 @@ div.emailsignup i:hover { float: right; font-size: 30px; margin: 10px 20px; colo
     div.content div.mid ul.fourcol li {  width: 100%; margin-right:0; }
     div.content div.mid ul.fourcol li h4 { font-size: 14px; line-height: 16px;}
     div.content div.mid ul.fourcol li p { font-size: 13px; line-height: 20px; }
-  
+
        /* Our Company */
     div.content { top:60px; }
     div.content div.mid.microproject { padding: 30px 20px; }
@@ -1690,7 +1690,7 @@ div.emailsignup i:hover { float: right; font-size: 30px; margin: 10px 20px; colo
     div.content div.mid div.details div.dm { float: right; width: 94%; padding-left: 3%; padding-right: 3%; }
     div.content div.mid div.details div.dm.micro { float: right; width: 94%; padding-left: 3%; padding-right: 3%; padding-top:0; margin-bottom: 0;}
     div.content div.mid div.details div.dr { float: left; width: 94%; padding-left: 3%; padding-right: 3%; padding-top: 0; display: none; }
-    
+
     div.content div.mid div.projectsnav div.prev a .fa { padding: 12px 12px; font-size: 22px; }
     div.content div.mid div.projectsnav div.prev:hover a .fa { padding: 12px 12px; font-size: 22px; }
     div.content div.mid div.projectsnav div.next a .fa { padding: 12px 12px; font-size: 22px; }
@@ -1705,10 +1705,10 @@ div.emailsignup i:hover { float: right; font-size: 30px; margin: 10px 20px; colo
     div.content div.mid ul.dash { display:none; }
     div.content div.mid ul.fivecol li h4 { font-size:10px; letter-spacing: 0; font-family: 'Trade Gothic W01 Light', sans-serif; }
     div.content div.mid ul.dash li { font-size: 11px; line-height: 16px; }
- 
+
     ul.bidopps { width:100%; padding-bottom:15px;}
     ul.bidopps li { width:100%; margin-right: 0; margin-bottom:20px; }
-   
+
     .desktop { display:none; }
     .mobile { display:block; }
 
@@ -1723,7 +1723,7 @@ div.emailsignup i:hover { float: right; font-size: 30px; margin: 10px 20px; colo
     div.top div.mid { width:100%; padding:0;}
     div.top div.mid div.fleft img.rlogo { height: 35px; padding: 0; padding-left: 20px; max-width: none; width: initial; }
     div.top div.mid div.fleftmicro { width: 50%; padding-top: 5px; }
-    div.top div.mid div.fleftmicro img.rlogomicro { margin: 0; padding: 0; border: 0; width: 100%; max-width: 180px; padding-top: 0; float: left; padding-left: 10px; } 
+    div.top div.mid div.fleftmicro img.rlogomicro { margin: 0; padding: 0; border: 0; width: 100%; max-width: 180px; padding-top: 0; float: left; padding-left: 10px; }
     div.top div.mid div.frightmicro { height: 55px; margin: 0; width: 15%; }
     div.top div.mid div.frightmicro div.hammicro { display: block; position: relative; margin: 0; padding: 17% 10%; }
     div.top div.mid div.fmid { position: relative; float: right; margin: 0; padding: 0; border: 0; padding-top: 20px; padding-right: 20px; color: #fff; }
@@ -1752,7 +1752,7 @@ div.emailsignup i:hover { float: right; font-size: 30px; margin: 10px 20px; colo
     ul.breadcrumb li.last { margin-right: 0; padding-right: 9px; }
 
     div.category.otherprojects { width:100%; top: -15px; margin-bottom:-95px; }
-   
+
     div.college div.hr , div.college div.br, div.college div.br:hover { font-size:11px; }
 
     div.ban { top: -15px; position: relative; clear: both; }
@@ -1761,20 +1761,20 @@ div.emailsignup i:hover { float: right; font-size: 30px; margin: 10px 20px; colo
     div.process div.circle, div.process div.circle:hover, div.process div.circle:active  { width: 108%; margin: -18%; margin-left:-4%; margin-right:-4%; }
     div.process div.circle:hover div.copy { margin-top:15%; }
 
-    div.rankings div.ranking, div.rankings div.ranking:hover { width: 50%; margin-bottom:-15px; } 
+    div.rankings div.ranking, div.rankings div.ranking:hover { width: 50%; margin-bottom:-15px; }
     div.rankings div.ranking div.title, div.rankings div.ranking:hover div.title { font-size: 14px; line-height: 18px; top:58%;  }
     div.rankings div.ranking div.num { font-size:60px; line-height: inherit; }
     div.rankings div.ranking div.num sup { font-size:26px; }
-    
+
     div.videos {padding-top: 10px; text-align: left; padding-left: 0; margin-top:0; }
     div.videos div.mediasquare2 { width:100%; }
     div.videos div.mediasquare2 div.black .fa { font-size:20px; padding:15px; }
     div.videos div.mediasquare2:hover div.black .fa { font-size:20px; padding:15px; }
-    
+
 
     div.videos div.mediasquare { min-height:unset; width: 96%; padding: 10px; }
     div.videos div.mediasquare div.black .fa, div.videos div.mediasquare:hover div.black .fa  { padding:10px; font-size:14px; margin-top:35%; }
-    div.videos div.mediasquare div.contents h3 { line-height:21px; font-size:12px; }    
+    div.videos div.mediasquare div.contents h3 { line-height:21px; font-size:12px; }
     div.videos div.viewall, div.videos div.viewall:hover {padding-top:15px; }
     div.videos div.viewall a.viewall, div.videos div.viewall:hover a.viewall { padding: 7px 15px; font-size: 10px; }
 
@@ -1803,7 +1803,7 @@ div.emailsignup i:hover { float: right; font-size: 30px; margin: 10px 20px; colo
     div.videos div.mediasquare div.black.micro div.specs p { font-size: 13px; line-height: 18px; width: 90%; }
     div.careersmicro p.career { box-sizing:border-box; width:100%; }
 
-    div.content div.mid { padding: 0;padding-top: 20px; padding-bottom: 20px; }    
+    div.content div.mid { padding: 0;padding-top: 20px; padding-bottom: 20px; }
     div.content div.mid.blocks { padding: 20px; padding-bottom:0; padding-left: 0; padding-right: 0; }
     div.content div.mid h1 { font-size:28px; line-height:36px; }
     div.content div.mid p.home { font-size: 15px; line-height: 25px; }
@@ -1817,7 +1817,7 @@ div.emailsignup i:hover { float: right; font-size: 30px; margin: 10px 20px; colo
     div.ft div.mid div.ftlinks { display:none; }
     div.ft div.mid div.ftcopyright { padding-left:0; }
     div.ft div.mid div.ftcopyright p { font-size: 9px; line-height: 14px; }
-   
+
     div.sq div.square { width: 100%; margin:0; margin-bottom: 20px; box-sizing:border-box;}
     div.sq div.square:hover { width: 100%; margin:0; margin-bottom: 20px; box-sizing:border-box;}
     div.sq div.square div.contents p { font-size: 12px; line-height: 18px;}
@@ -1841,7 +1841,7 @@ div.emailsignup i:hover { float: right; font-size: 30px; margin: 10px 20px; colo
     div.sq3 div.square div.contents h3 { font-size:12px; margin-bottom:5px; line-height:16px; }
     div.sq3 div.square:hover div.contents h3 { font-size:12px;  margin-bottom:5px; line-height:16px;}
 
-    div.sq4 div.square, div.sq4 div.square:hover { width: 100%; margin:0; box-sizing: border-box; }   
+    div.sq4 div.square, div.sq4 div.square:hover { width: 100%; margin:0; box-sizing: border-box; }
     div.sq4 div.square div.contents { padding-bottom:50px; }
     div.sq4 div.square div.contents p { font-size: 13px; line-height: 18px; }
     div.sq4 div.square img { width:25%; margin-bottom:-5%; }
@@ -1866,17 +1866,17 @@ div.emailsignup i:hover { float: right; font-size: 30px; margin: 10px 20px; colo
     div.content div.mid p.seventy { max-width:100%; font-size:17px; line-height:20px; }
     div.content div.mid div.practiceareas div.item { min-height:220px; }
 
-    
+
     div.ft div.mid div.location img {  max-width: 60px; width:60px;}
     div.ft div.mid div.fleft { width:100%; text-align:center; }
     div.ft div.mid div.fright { display:none; }
-   
+
     div.process div.circle div.copy { font-size: 13px; line-height: 18px; margin-top:30%; }
     div.process div.circle:hover div.copy {  font-size: 13px; line-height: 18px; margin-top:30%; }
 
     div.topnav { width:77%; }
     div.topnav span { cursor:pointer; position:relative; display:block; top:-10px; right:-30px; margin:0; padding:0; margin-bottom:-80px; border:0; float:right; z-index:1200; text-align:right; color:rgba(0, 0, 0, 0); background-image: none; background-repeat:no-repeat; background-position:top right; line-height:65px; font-size:12px; padding-right:5px; }
-    div.topnav ul { display:none; margin-left:auto; margin-right:auto; text-align:center; width:152%; z-index:1200; background-color: rgba(0,0,0,.8); position:absolute; top:35px; border-radius: 0px;  padding-top: 10px;  padding-bottom: 10px; margin-left:-26%;}  
+    div.topnav ul { display:none; margin-left:auto; margin-right:auto; text-align:center; width:152%; z-index:1200; background-color: rgba(0,0,0,.8); position:absolute; top:35px; border-radius: 0px;  padding-top: 10px;  padding-bottom: 10px; margin-left:-26%;}
     div.topnav ul li { margin:0; padding:0; display:block; background:none; width:100%;}
     div.topnav ul li a { margin:0; padding:0; padding: 0px 8px 0px 4px; width:100%; border:0; border-radius:0; background:none; font-size:14px; font-weight:400; color:rgb(255,255,255); }
     div.topnav ul li a.active { margin:0; padding:0; padding: 0px 8px 0px 4px; width:100%; border:0; border-radius:0; background:none; font-size:14px; font-weight:400; color: rgb(145,192,231); }
@@ -1885,7 +1885,7 @@ div.emailsignup i:hover { float: right; font-size: 30px; margin: 10px 20px; colo
     div.topnav ul li.last { margin:0; padding:0; display:block; background:none; width:100%; }
 
 
-    
+
     div.libraryleft { width: 100%; margin: 0; padding: 0; margin-top:30px; border:0; }
     div.libraryleft div.viewall, div.libraryleft div.viewall:hover { padding-top: 10px; }
     div.libraryleft div.viewall a.viewall, div.libraryleft div.viewall:hover a.viewall { padding: 7px 20px; font-size: 13px; }
@@ -1906,7 +1906,7 @@ div.emailsignup i:hover { float: right; font-size: 30px; margin: 10px 20px; colo
     div.libraryright div.mediasquare div.contents h3 { font-size:13px; line-height:18px; }
     div.libraryright div.mediasquare:hover div.contents h3{  font-size:13px; line-height:18px; }
     div.libraryright div.mediasquare:hover div.black .fa { font-size: 12px; padding: 15px; margin-top:18%;}
-    
+
     div.pad10 { padding-left:10px; padding-right:10px; }
 
     div.content div.mid h3 { font-size: 26px; }
@@ -1934,10 +1934,10 @@ div.emailsignup i:hover { float: right; font-size: 30px; margin: 10px 20px; colo
     div.careersmicro div.career.micro { width:100%; }
     div.content div.mid p.fortyfivegray.micro { margin-bottom:0px; }
     div.content div.mid ul.threecol.micro { margin:0; }
-    div.content div.mid div.micropic img.fifty { padding-top: 0px; }    
+    div.content div.mid div.micropic img.fifty { padding-top: 0px; }
     div.content div.mid.microproject.notoppad { padding: 0 20px; }
 
-    div.sq3 div.square div.contents div.bar { display: none; } 
+    div.sq3 div.square div.contents div.bar { display: none; }
 
     div.msloc div.loc, div.msloc div.loc:hover { width:47%; min-height:170px;}
 
@@ -1952,24 +1952,24 @@ div.emailsignup i:hover { float: right; font-size: 30px; margin: 10px 20px; colo
     div.sq div.square div.contents h4 { font-size: 16px; line-height:20px; }
     div.sq div.square div.contents p { display:none; }
     div.sq div.square div.learn { bottom: 28px; left:20px; }
-    div.sq div.square:hover div.learn { bottom: 28px; left:20px; }  
-    
+    div.sq div.square:hover div.learn { bottom: 28px; left:20px; }
+
     div.sq2 div.square { width: 48%; }
     div.sq2 div.square.green { width: 48%; }
-    div.sq2 div.square div.contents h3.page { font-size:23px; } 
-    div.sq2 div.square div.contents h3.category { font-size:23px; } 
+    div.sq2 div.square div.contents h3.page { font-size:23px; }
+    div.sq2 div.square div.contents h3.category { font-size:23px; }
 
     div.libraryleft { width: 103%; margin: 0; padding: 0; border:0;  }
     div.libraryleft div.bar { width: 100%; text-align: left; margin: 0; padding: 0; margin-bottom:20px; }
     div.libraryleft div.mediasquare { width: 47%; padding:0; margin-right:3%; }
     div.libraryleft div.mediasquare:hover { width: 47%; padding:0; margin-right:3%; }
-  
+
     div.libraryright { width: 103%; margin: 0; padding: 0; float: left; margin-top:30px; }
     div.libraryright h3 { width: 100%; text-align: center; margin-left:0; }
     div.libraryright div.bar { width: 100%; text-align: left; margin: 0 ; padding: 0; margin-bottom: 20px; }
     div.libraryright div.mediasquare { width: 30.333%; margin:0; padding:0; margin-right: 3%; margin-bottom: 20px;}
     div.libraryright div.mediasquare:hover { width: 30.333%; margin:0; padding:0; margin-right: 3%; margin-bottom: 20px; }
-  
+
 }
 
 @media only screen and (min-width: 480px) and (max-width: 580px) {
