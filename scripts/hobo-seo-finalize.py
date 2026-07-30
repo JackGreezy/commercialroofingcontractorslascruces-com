@@ -489,7 +489,7 @@ def ensure_mobile_dropdown_assets(soup: BeautifulSoup):
     const header = document.querySelector('header'); if(!header) return;
     Object.keys(data).forEach(function(route){
       header.querySelectorAll('a[href="'+route+'"],a[href="'+route.replace(/^\//,'')+'"]').forEach(function(anchor){
-        if(anchor.dataset.rhDropdownReady) return;
+        if(anchor.dataset.rhDropdownReady || anchor.hasAttribute("data-rr-dropdown-trigger") || anchor.closest(".rr-dropdown-host")) return;
         const host = anchor.parentElement || anchor;
         host.dataset.rhDropdownHost = 'true';
         const menu = document.createElement('div'); menu.className = 'rh-seo-dropdown-menu'; menu.setAttribute('role','menu');
@@ -782,7 +782,6 @@ def patch_all_html():
             route = "/" + p.stem.replace("__", "/") if p.stem not in {"home", "index"} else "/"
         set_metadata(soup, route)
         replace_visible_address(soup, route)
-        set_active_header_nav(soup, route)
         for tag in soup.find_all(True):
             for attr in [name for name in tag.attrs if name.lower().startswith("on")]:
                 del tag.attrs[attr]
@@ -790,7 +789,6 @@ def patch_all_html():
         ensure_footer_links(soup)
         ensure_mobile_dropdown_assets(soup)
         ensure_color_scheme_assets(soup)
-        move_shared_runtime_to_body_end(soup)
         # Descriptive alt text for informative images without stuffing.
         for img in soup.find_all("img"):
             alt = clean(img.get("alt"))
