@@ -7,6 +7,401 @@
   --rr-taste-line: rgba(0, 38, 62, 0.18);
 }
 
+/* Las Cruces conversion path. This keeps the site's original blue, green, and field-photo language. */
+.rr-lc-kicker {
+  color: #00a160;
+  font-size: 0.78rem;
+  font-weight: 800;
+  letter-spacing: 0.14em;
+  margin: 0 0 16px;
+  text-transform: uppercase;
+}
+
+.hundo .tag-left > p {
+  color: #7de0ad !important;
+  font-weight: 800 !important;
+  letter-spacing: 0.12em !important;
+  text-transform: uppercase !important;
+}
+
+.hundo .tag-left > a,
+.rr-lc-button,
+.rr-lc-inline-actions a {
+  align-items: center;
+  background: #00a160;
+  border: 2px solid #00a160;
+  box-sizing: border-box;
+  color: #fff !important;
+  display: inline-flex;
+  font-size: 0.82rem;
+  font-weight: 800;
+  justify-content: center;
+  letter-spacing: 0.06em;
+  min-height: 50px;
+  padding: 14px 22px;
+  text-decoration: none !important;
+  text-transform: uppercase;
+}
+
+.hundo .tag-left > a:hover,
+.rr-lc-button:hover,
+.rr-lc-inline-actions a:hover {
+  background: #007f4b;
+  border-color: #007f4b;
+}
+
+.rr-lc-decision {
+  background: #004d71;
+  color: #fff;
+  display: grid;
+  grid-template-columns: minmax(260px, 0.75fr) minmax(0, 1.55fr);
+}
+
+.rr-lc-decision__intro {
+  align-content: center;
+  background: #003b57;
+  box-sizing: border-box;
+  display: grid;
+  padding: clamp(46px, 6vw, 88px);
+}
+
+.rr-lc-decision h2,
+.rr-lc-inspection h2,
+.rr-lc-field-board h2,
+.rr-lc-service-plan h2,
+.rr-lc-final h2 {
+  font-size: clamp(2.05rem, 4vw, 4rem);
+  line-height: 1.02;
+  margin: 0 0 22px;
+  text-transform: none;
+}
+
+.rr-lc-decision__intro > p:last-child {
+  color: rgba(255,255,255,.78);
+  font-size: 1rem;
+  line-height: 1.65;
+  margin: 0;
+}
+
+.rr-lc-decision__routes {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+}
+
+.rr-lc-decision__routes a {
+  border-bottom: 1px solid rgba(255,255,255,.16);
+  border-right: 1px solid rgba(255,255,255,.16);
+  box-sizing: border-box;
+  color: #fff;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  min-height: 220px;
+  padding: clamp(30px, 4vw, 58px);
+  text-decoration: none;
+}
+
+.rr-lc-decision__routes a:hover {
+  background: #00a160;
+}
+
+.rr-lc-decision__routes strong {
+  font-size: clamp(1.3rem, 2.2vw, 2.15rem);
+  line-height: 1.12;
+  margin-bottom: 12px;
+}
+
+.rr-lc-decision__routes span {
+  color: rgba(255,255,255,.78);
+  line-height: 1.55;
+}
+
+.rr-lc-intro .mid {
+  max-width: 1040px !important;
+}
+
+.rr-lc-inline-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  justify-content: center;
+  margin-top: 30px;
+}
+
+.rr-lc-inline-actions a:last-child {
+  background: transparent;
+  color: #004d71 !important;
+}
+
+.rr-lc-inline-actions a:last-child:hover {
+  background: #004d71;
+  color: #fff !important;
+}
+
+.rr-lc-inspection {
+  background: #fff;
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
+  min-height: 680px;
+}
+
+.rr-lc-inspection__image {
+  min-height: 620px;
+  overflow: hidden;
+}
+
+.rr-lc-inspection__image img {
+  display: block;
+  height: 100%;
+  object-fit: cover;
+  width: 100%;
+}
+
+.rr-lc-inspection__copy {
+  align-self: center;
+  box-sizing: border-box;
+  max-width: 760px;
+  padding: clamp(52px, 7vw, 104px);
+}
+
+.rr-lc-inspection__copy > p:not(.rr-lc-kicker),
+.rr-lc-inspection__copy li {
+  color: #565a5c;
+  font-size: 1rem;
+  line-height: 1.65;
+}
+
+.rr-lc-inspection__copy ul {
+  list-style: none;
+  margin: 24px 0 30px;
+  padding: 0;
+}
+
+.rr-lc-inspection__copy li {
+  border-bottom: 1px solid rgba(0,77,113,.15);
+  padding: 11px 0 11px 24px;
+  position: relative;
+}
+
+.rr-lc-inspection__copy li::before {
+  color: #00a160;
+  content: "+";
+  font-weight: 900;
+  left: 0;
+  position: absolute;
+}
+
+.rr-lc-field-board {
+  background: #eef1f1;
+  padding: clamp(62px, 8vw, 112px) max(24px, calc((100vw - 1240px) / 2));
+}
+
+.rr-lc-field-board__heading {
+  max-width: 920px;
+}
+
+.rr-lc-field-board__paths {
+  border-left: 1px solid rgba(0,77,113,.22);
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0,1fr));
+  margin-top: 50px;
+}
+
+.rr-lc-field-board article {
+  border-bottom: 1px solid rgba(0,77,113,.22);
+  border-right: 1px solid rgba(0,77,113,.22);
+  border-top: 1px solid rgba(0,77,113,.22);
+  box-sizing: border-box;
+  min-height: 370px;
+  padding: clamp(30px, 4vw, 52px);
+}
+
+.rr-lc-field-board article > span {
+  color: #00a160;
+  font-size: .78rem;
+  font-weight: 900;
+  letter-spacing: .13em;
+  text-transform: uppercase;
+}
+
+.rr-lc-field-board h3 {
+  color: #004d71;
+  font-size: clamp(1.55rem, 2.3vw, 2.25rem);
+  line-height: 1.12;
+  margin: 22px 0 18px;
+}
+
+.rr-lc-field-board article p {
+  color: #565a5c;
+  line-height: 1.65;
+}
+
+.rr-lc-field-board article a,
+.rr-lc-service-plan__actions > a:last-child {
+  color: #004d71;
+  display: inline-block;
+  font-weight: 800;
+  margin-top: 22px;
+  text-underline-offset: 5px;
+}
+
+.rr-lc-service-plan {
+  align-items: end;
+  background: #00a160;
+  color: #fff;
+  display: grid;
+  gap: 50px;
+  grid-template-columns: minmax(0, 1.4fr) minmax(260px, .6fr);
+  padding: clamp(60px, 8vw, 110px) max(24px, calc((100vw - 1240px) / 2));
+}
+
+.rr-lc-service-plan .rr-lc-kicker {
+  color: #d8ffea;
+}
+
+.rr-lc-service-plan p:not(.rr-lc-kicker) {
+  line-height: 1.65;
+  max-width: 780px;
+}
+
+.rr-lc-service-plan__actions {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 18px;
+}
+
+.rr-lc-button--light {
+  background: #fff;
+  border-color: #fff;
+  color: #004d71 !important;
+}
+
+.rr-lc-service-plan__actions > a:last-child {
+  color: #fff;
+  margin: 0;
+}
+
+.rr-lc-final {
+  background: #fff;
+  box-sizing: border-box;
+  margin: 0 auto;
+  max-width: 980px;
+  padding: clamp(70px, 10vw, 140px) 24px;
+  text-align: center;
+}
+
+.rr-lc-final p:not(.rr-lc-kicker) {
+  color: #565a5c;
+  line-height: 1.65;
+  margin: 0 auto 30px;
+  max-width: 740px;
+}
+
+.rr-lc-sticky {
+  display: none;
+}
+
+@media (max-width: 900px) {
+  .rr-lc-decision,
+  .rr-lc-inspection,
+  .rr-lc-service-plan {
+    grid-template-columns: 1fr;
+  }
+
+  .rr-lc-decision__routes a {
+    min-height: 180px;
+  }
+
+  .rr-lc-inspection__image {
+    min-height: 420px;
+  }
+
+  .rr-lc-field-board__paths {
+    grid-template-columns: 1fr;
+  }
+
+  .rr-lc-field-board article {
+    min-height: 0;
+  }
+}
+
+@media (max-width: 620px) {
+  html body .hundo .tags {
+    box-sizing: border-box !important;
+    left: 0 !important;
+    max-width: 100vw !important;
+    overflow: visible !important;
+    padding: 0 28px !important;
+    right: auto !important;
+    transform: translateY(-50%) !important;
+    width: 100vw !important;
+  }
+
+  html body .hundo .tag-left {
+    box-sizing: border-box !important;
+    max-width: 100% !important;
+    width: 100% !important;
+  }
+
+  html body .hundo .tag-left h2,
+  html body .hundo .tag-left h4 {
+    box-sizing: border-box !important;
+    max-width: 100% !important;
+    overflow-wrap: normal !important;
+    white-space: normal !important;
+    width: 100% !important;
+  }
+
+  html body .hundo .tag-left h2 {
+    font-size: clamp(34px, 10.5vw, 42px) !important;
+  }
+
+  .rr-lc-decision__routes {
+    grid-template-columns: 1fr;
+  }
+
+  .rr-lc-decision__routes a {
+    min-height: 0;
+    padding: 30px 24px;
+  }
+
+  .rr-lc-inspection__image {
+    min-height: 300px;
+  }
+
+  .rr-lc-inspection__copy {
+    padding: 52px 24px;
+  }
+
+  .rr-lc-inline-actions {
+    align-items: stretch;
+    flex-direction: column;
+  }
+
+  .rr-lc-sticky {
+    align-items: center;
+    background: #00a160;
+    border: 2px solid #fff;
+    border-radius: 999px;
+    bottom: 18px;
+    box-shadow: 0 12px 30px rgba(0,38,62,.35);
+    color: #fff !important;
+    display: flex;
+    font-size: .78rem;
+    font-weight: 900;
+    height: 64px;
+    justify-content: center;
+    letter-spacing: .05em;
+    position: fixed;
+    right: 18px;
+    text-decoration: none;
+    text-transform: uppercase;
+    width: 64px;
+    z-index: 2147482500;
+  }
+}
+
 /* Keep each cloned header, but make its taxonomy dropdowns readable and selectable. */
 @media (min-width: 901px) {
   html body header,
