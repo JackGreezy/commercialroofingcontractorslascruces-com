@@ -10,7 +10,7 @@
  "taxonomies": {
   "locations": {
    "title": "Service Areas",
-   "route": "/locations",
+   "route": "/service-areas",
    "items": [
     {
      "slug": "west-mesa-industrial-park",
@@ -26,23 +26,23 @@
      "related": [
       {
        "label": "Roofing for Mesquite's Farming and Small Commercial Buildings",
-       "href": "/locations/mesquite"
+       "href": "/service-areas/mesquite"
       },
       {
        "label": "Roofing Calls Where US-70 Climbs Through San Augustin Pass",
-       "href": "/locations/organ"
+       "href": "/service-areas/organ"
       },
       {
        "label": "Clubhouse, Cart Barn and HOA Roofs in Picacho Hills",
-       "href": "/locations/picacho-hills"
+       "href": "/service-areas/picacho-hills"
       },
       {
        "label": "Rio Grande Valley Roofs Along the I-25 Corridor at Radium Springs",
-       "href": "/locations/radium-springs"
+       "href": "/service-areas/radium-springs"
       },
       {
        "label": "Roof Service for What's Left of the Rincon Rail Junction",
-       "href": "/locations/rincon"
+       "href": "/service-areas/rincon"
       },
       {
        "label": "Built-Up Roofing on Older Las Cruces Buildings That Still Hold Up",
@@ -92,23 +92,23 @@
      "related": [
       {
        "label": "Chile Season Roof Work in the Salem Valley Fields",
-       "href": "/locations/salem"
+       "href": "/service-areas/salem"
       },
       {
        "label": "Roofing for San Miguel's Farming Village Buildings",
-       "href": "/locations/san-miguel"
+       "href": "/service-areas/san-miguel"
       },
       {
        "label": "Roofing for Santa Teresa's Border Industrial Parks",
-       "href": "/locations/santa-teresa"
+       "href": "/service-areas/santa-teresa"
       },
       {
        "label": "Keeping Sunland Park's Racetrack District Dry",
-       "href": "/locations/sunland-park"
+       "href": "/service-areas/sunland-park"
       },
       {
        "label": "Roofing Around NMSU's University Park Footprint",
-       "href": "/locations/university-park"
+       "href": "/service-areas/university-park"
       },
       {
        "label": "Why the Roof's Perimeter Fails Before the Field Does",
@@ -158,23 +158,23 @@
      "related": [
       {
        "label": "Clubhouse, Cart Barn and HOA Roofs in Picacho Hills",
-       "href": "/locations/picacho-hills"
+       "href": "/service-areas/picacho-hills"
       },
       {
        "label": "Rio Grande Valley Roofs Along the I-25 Corridor at Radium Springs",
-       "href": "/locations/radium-springs"
+       "href": "/service-areas/radium-springs"
       },
       {
        "label": "Roof Service for What's Left of the Rincon Rail Junction",
-       "href": "/locations/rincon"
+       "href": "/service-areas/rincon"
       },
       {
        "label": "Chile Season Roof Work in the Salem Valley Fields",
-       "href": "/locations/salem"
+       "href": "/service-areas/salem"
       },
       {
        "label": "Roofing for San Miguel's Farming Village Buildings",
-       "href": "/locations/san-miguel"
+       "href": "/service-areas/san-miguel"
       },
       {
        "label": "Acrylic Coatings for Steady-Slope Roofs That Just Need UV Protection",
@@ -220,23 +220,23 @@
      "related": [
       {
        "label": "Roofing for Deming's Truck Stops and Downtown Retail",
-       "href": "/locations/deming"
+       "href": "/service-areas/deming"
       },
       {
        "label": "Small-Scale Roof Work in the Village of Dona Ana",
-       "href": "/locations/dona-ana"
+       "href": "/service-areas/dona-ana"
       },
       {
        "label": "Roofing on Las Cruces's Fast-Growing East Mesa Side",
-       "href": "/locations/east-mesa"
+       "href": "/service-areas/east-mesa"
       },
       {
        "label": "Orchard-Country Roof Work West of the Mesilla Valley",
-       "href": "/locations/fairacres"
+       "href": "/service-areas/fairacres"
       },
       {
        "label": "Roofing for Hatch's Chile Processing and Village Commercial Buildings",
-       "href": "/locations/hatch"
+       "href": "/service-areas/hatch"
       },
       {
        "label": "Why the Roof's Perimeter Fails Before the Field Does",
@@ -286,23 +286,23 @@
      "related": [
       {
        "label": "Roofing for Facilities Tied to White Sands Missile Range",
-       "href": "/locations/white-sands-missile-range"
+       "href": "/service-areas/white-sands-missile-range"
       },
       {
        "label": "Roofing Along Alamogordo's White Sands Boulevard",
-       "href": "/locations/alamogordo"
+       "href": "/service-areas/alamogordo"
       },
       {
        "label": "Roofing for Anthony's Packing Sheds and I-10 Strip",
-       "href": "/locations/anthony"
+       "href": "/service-areas/anthony"
       },
       {
        "label": "Roofing for Berino's Highway 478 Farm Buildings",
-       "href": "/locations/berino"
+       "href": "/service-areas/berino"
       },
       {
        "label": "Roofing for Chamberino's Pecan and Chile Farm Buildings",
-       "href": "/locations/chamberino"
+       "href": "/service-areas/chamberino"
       },
       {
        "label": "Why TPO Is the Default Call for Flat Roofs West of I-25",
@@ -352,23 +352,23 @@
      "related": [
       {
        "label": "Roofing for Facilities Tied to White Sands Missile Range",
-       "href": "/locations/white-sands-missile-range"
+       "href": "/service-areas/white-sands-missile-range"
       },
       {
        "label": "Roofing Along Alamogordo's White Sands Boulevard",
-       "href": "/locations/alamogordo"
+       "href": "/service-areas/alamogordo"
       },
       {
        "label": "Roofing for Anthony's Packing Sheds and I-10 Strip",
-       "href": "/locations/anthony"
+       "href": "/service-areas/anthony"
       },
       {
        "label": "Roofing for Berino's Highway 478 Farm Buildings",
-       "href": "/locations/berino"
+       "href": "/service-areas/berino"
       },
       {
        "label": "Roofing for Chamberino's Pecan and Chile Farm Buildings",
-       "href": "/locations/chamberino"
+       "href": "/service-areas/chamberino"
       },
       {
        "label": "Standing Seam Metal Where Slope and Sun Both Matter",
@@ -418,23 +418,23 @@
      "related": [
       {
        "label": "Roofing for Hatch's Chile Processing and Village Commercial Buildings",
-       "href": "/locations/hatch"
+       "href": "/service-areas/hatch"
       },
       {
        "label": "Roofing for La Mesa's Restaurant and Farm-Adjacent Buildings",
-       "href": "/locations/la-mesa"
+       "href": "/service-areas/la-mesa"
       },
       {
        "label": "Roofing for La Union's Farms, Winery, and Orchard Buildings",
-       "href": "/locations/la-union"
+       "href": "/service-areas/la-union"
       },
       {
        "label": "Roofing Near the Plaza in Old Mesilla",
-       "href": "/locations/mesilla"
+       "href": "/service-areas/mesilla"
       },
       {
        "label": "Roofing for Mesquite's Farming and Small Commercial Buildings",
-       "href": "/locations/mesquite"
+       "href": "/service-areas/mesquite"
       },
       {
        "label": "Built-Up Roofing on Older Las Cruces Buildings That Still Hold Up",
@@ -484,23 +484,23 @@
      "related": [
       {
        "label": "Chile Season Roof Work in the Salem Valley Fields",
-       "href": "/locations/salem"
+       "href": "/service-areas/salem"
       },
       {
        "label": "Roofing for San Miguel's Farming Village Buildings",
-       "href": "/locations/san-miguel"
+       "href": "/service-areas/san-miguel"
       },
       {
        "label": "Roofing for Santa Teresa's Border Industrial Parks",
-       "href": "/locations/santa-teresa"
+       "href": "/service-areas/santa-teresa"
       },
       {
        "label": "Roofing Around NMSU's University Park Footprint",
-       "href": "/locations/university-park"
+       "href": "/service-areas/university-park"
       },
       {
        "label": "Vado Roofing Built for a Growing I-10 Logistics Corridor",
-       "href": "/locations/vado"
+       "href": "/service-areas/vado"
       },
       {
        "label": "Silicone Coatings for Roofs That Pond After a Monsoon Downpour",
@@ -550,23 +550,23 @@
      "related": [
       {
        "label": "Multi-Tenant Roofs at West Mesa Industrial Park",
-       "href": "/locations/west-mesa-industrial-park"
+       "href": "/service-areas/west-mesa-industrial-park"
       },
       {
        "label": "Roofing for Facilities Tied to White Sands Missile Range",
-       "href": "/locations/white-sands-missile-range"
+       "href": "/service-areas/white-sands-missile-range"
       },
       {
        "label": "Roofing Along Alamogordo's White Sands Boulevard",
-       "href": "/locations/alamogordo"
+       "href": "/service-areas/alamogordo"
       },
       {
        "label": "Roofing for Berino's Highway 478 Farm Buildings",
-       "href": "/locations/berino"
+       "href": "/service-areas/berino"
       },
       {
        "label": "Roofing for Chamberino's Pecan and Chile Farm Buildings",
-       "href": "/locations/chamberino"
+       "href": "/service-areas/chamberino"
       },
       {
        "label": "Documentation That Holds Up When You Need It",
@@ -616,23 +616,23 @@
      "related": [
       {
        "label": "Roof Service for What's Left of the Rincon Rail Junction",
-       "href": "/locations/rincon"
+       "href": "/service-areas/rincon"
       },
       {
        "label": "Chile Season Roof Work in the Salem Valley Fields",
-       "href": "/locations/salem"
+       "href": "/service-areas/salem"
       },
       {
        "label": "Roofing for San Miguel's Farming Village Buildings",
-       "href": "/locations/san-miguel"
+       "href": "/service-areas/san-miguel"
       },
       {
        "label": "Roofing for Santa Teresa's Border Industrial Parks",
-       "href": "/locations/santa-teresa"
+       "href": "/service-areas/santa-teresa"
       },
       {
        "label": "Keeping Sunland Park's Racetrack District Dry",
-       "href": "/locations/sunland-park"
+       "href": "/service-areas/sunland-park"
       },
       {
        "label": "Keeping Drains Clear Before the First Monsoon Burst Hits",
@@ -682,23 +682,23 @@
      "related": [
       {
        "label": "Roof Service for What's Left of the Rincon Rail Junction",
-       "href": "/locations/rincon"
+       "href": "/service-areas/rincon"
       },
       {
        "label": "Chile Season Roof Work in the Salem Valley Fields",
-       "href": "/locations/salem"
+       "href": "/service-areas/salem"
       },
       {
        "label": "Roofing for San Miguel's Farming Village Buildings",
-       "href": "/locations/san-miguel"
+       "href": "/service-areas/san-miguel"
       },
       {
        "label": "Roofing for Santa Teresa's Border Industrial Parks",
-       "href": "/locations/santa-teresa"
+       "href": "/service-areas/santa-teresa"
       },
       {
        "label": "Keeping Sunland Park's Racetrack District Dry",
-       "href": "/locations/sunland-park"
+       "href": "/service-areas/sunland-park"
       },
       {
        "label": "Why the Roof's Perimeter Fails Before the Field Does",
@@ -748,23 +748,23 @@
      "related": [
       {
        "label": "Roofing for La Union's Farms, Winery, and Orchard Buildings",
-       "href": "/locations/la-union"
+       "href": "/service-areas/la-union"
       },
       {
        "label": "Roofing Near the Plaza in Old Mesilla",
-       "href": "/locations/mesilla"
+       "href": "/service-areas/mesilla"
       },
       {
        "label": "Roofing for Mesquite's Farming and Small Commercial Buildings",
-       "href": "/locations/mesquite"
+       "href": "/service-areas/mesquite"
       },
       {
        "label": "Roofing Calls Where US-70 Climbs Through San Augustin Pass",
-       "href": "/locations/organ"
+       "href": "/service-areas/organ"
       },
       {
        "label": "Clubhouse, Cart Barn and HOA Roofs in Picacho Hills",
-       "href": "/locations/picacho-hills"
+       "href": "/service-areas/picacho-hills"
       },
       {
        "label": "R-Panel Metal Roofing for Ag Buildings and Pole-Barn-Style Structures",
@@ -814,23 +814,23 @@
      "related": [
       {
        "label": "Chile Season Roof Work in the Salem Valley Fields",
-       "href": "/locations/salem"
+       "href": "/service-areas/salem"
       },
       {
        "label": "Roofing for San Miguel's Farming Village Buildings",
-       "href": "/locations/san-miguel"
+       "href": "/service-areas/san-miguel"
       },
       {
        "label": "Roofing for Santa Teresa's Border Industrial Parks",
-       "href": "/locations/santa-teresa"
+       "href": "/service-areas/santa-teresa"
       },
       {
        "label": "Keeping Sunland Park's Racetrack District Dry",
-       "href": "/locations/sunland-park"
+       "href": "/service-areas/sunland-park"
       },
       {
        "label": "Roofing Around NMSU's University Park Footprint",
-       "href": "/locations/university-park"
+       "href": "/service-areas/university-park"
       },
       {
        "label": "Tear-Off and Deck Replacement for Las Cruces Flat Roofs",
@@ -876,23 +876,23 @@
      "related": [
       {
        "label": "Roofing on Las Cruces's Fast-Growing East Mesa Side",
-       "href": "/locations/east-mesa"
+       "href": "/service-areas/east-mesa"
       },
       {
        "label": "Orchard-Country Roof Work West of the Mesilla Valley",
-       "href": "/locations/fairacres"
+       "href": "/service-areas/fairacres"
       },
       {
        "label": "Roofing for La Mesa's Restaurant and Farm-Adjacent Buildings",
-       "href": "/locations/la-mesa"
+       "href": "/service-areas/la-mesa"
       },
       {
        "label": "Roofing for La Union's Farms, Winery, and Orchard Buildings",
-       "href": "/locations/la-union"
+       "href": "/service-areas/la-union"
       },
       {
        "label": "Roofing Near the Plaza in Old Mesilla",
-       "href": "/locations/mesilla"
+       "href": "/service-areas/mesilla"
       },
       {
        "label": "Standing Seam Metal Where Slope and Sun Both Matter",
@@ -942,23 +942,23 @@
      "related": [
       {
        "label": "Roofing for Mesquite's Farming and Small Commercial Buildings",
-       "href": "/locations/mesquite"
+       "href": "/service-areas/mesquite"
       },
       {
        "label": "Roofing Calls Where US-70 Climbs Through San Augustin Pass",
-       "href": "/locations/organ"
+       "href": "/service-areas/organ"
       },
       {
        "label": "Clubhouse, Cart Barn and HOA Roofs in Picacho Hills",
-       "href": "/locations/picacho-hills"
+       "href": "/service-areas/picacho-hills"
       },
       {
        "label": "Roof Service for What's Left of the Rincon Rail Junction",
-       "href": "/locations/rincon"
+       "href": "/service-areas/rincon"
       },
       {
        "label": "Chile Season Roof Work in the Salem Valley Fields",
-       "href": "/locations/salem"
+       "href": "/service-areas/salem"
       },
       {
        "label": "Why TPO Is the Default Call for Flat Roofs West of I-25",
@@ -1008,23 +1008,23 @@
      "related": [
       {
        "label": "Roofing for Santa Teresa's Border Industrial Parks",
-       "href": "/locations/santa-teresa"
+       "href": "/service-areas/santa-teresa"
       },
       {
        "label": "Keeping Sunland Park's Racetrack District Dry",
-       "href": "/locations/sunland-park"
+       "href": "/service-areas/sunland-park"
       },
       {
        "label": "Roofing Around NMSU's University Park Footprint",
-       "href": "/locations/university-park"
+       "href": "/service-areas/university-park"
       },
       {
        "label": "Vado Roofing Built for a Growing I-10 Logistics Corridor",
-       "href": "/locations/vado"
+       "href": "/service-areas/vado"
       },
       {
        "label": "Multi-Tenant Roofs at West Mesa Industrial Park",
-       "href": "/locations/west-mesa-industrial-park"
+       "href": "/service-areas/west-mesa-industrial-park"
       },
       {
        "label": "Modified Bitumen for Roofs That Take a Beating Every Monsoon Season",
@@ -1074,23 +1074,23 @@
      "related": [
       {
        "label": "Roofing Calls Where US-70 Climbs Through San Augustin Pass",
-       "href": "/locations/organ"
+       "href": "/service-areas/organ"
       },
       {
        "label": "Clubhouse, Cart Barn and HOA Roofs in Picacho Hills",
-       "href": "/locations/picacho-hills"
+       "href": "/service-areas/picacho-hills"
       },
       {
        "label": "Rio Grande Valley Roofs Along the I-25 Corridor at Radium Springs",
-       "href": "/locations/radium-springs"
+       "href": "/service-areas/radium-springs"
       },
       {
        "label": "Roof Service for What's Left of the Rincon Rail Junction",
-       "href": "/locations/rincon"
+       "href": "/service-areas/rincon"
       },
       {
        "label": "Chile Season Roof Work in the Salem Valley Fields",
-       "href": "/locations/salem"
+       "href": "/service-areas/salem"
       },
       {
        "label": "Acrylic Coatings for Steady-Slope Roofs That Just Need UV Protection",
@@ -1136,23 +1136,23 @@
      "related": [
       {
        "label": "Roofing for Deming's Truck Stops and Downtown Retail",
-       "href": "/locations/deming"
+       "href": "/service-areas/deming"
       },
       {
        "label": "Small-Scale Roof Work in the Village of Dona Ana",
-       "href": "/locations/dona-ana"
+       "href": "/service-areas/dona-ana"
       },
       {
        "label": "Roofing on Las Cruces's Fast-Growing East Mesa Side",
-       "href": "/locations/east-mesa"
+       "href": "/service-areas/east-mesa"
       },
       {
        "label": "Orchard-Country Roof Work West of the Mesilla Valley",
-       "href": "/locations/fairacres"
+       "href": "/service-areas/fairacres"
       },
       {
        "label": "Roofing for Hatch's Chile Processing and Village Commercial Buildings",
-       "href": "/locations/hatch"
+       "href": "/service-areas/hatch"
       },
       {
        "label": "Recover Instead of Tear-Off When the Deck Is Still Sound",
@@ -1202,23 +1202,23 @@
      "related": [
       {
        "label": "Roofing Calls Where US-70 Climbs Through San Augustin Pass",
-       "href": "/locations/organ"
+       "href": "/service-areas/organ"
       },
       {
        "label": "Clubhouse, Cart Barn and HOA Roofs in Picacho Hills",
-       "href": "/locations/picacho-hills"
+       "href": "/service-areas/picacho-hills"
       },
       {
        "label": "Rio Grande Valley Roofs Along the I-25 Corridor at Radium Springs",
-       "href": "/locations/radium-springs"
+       "href": "/service-areas/radium-springs"
       },
       {
        "label": "Roof Service for What's Left of the Rincon Rail Junction",
-       "href": "/locations/rincon"
+       "href": "/service-areas/rincon"
       },
       {
        "label": "Chile Season Roof Work in the Salem Valley Fields",
-       "href": "/locations/salem"
+       "href": "/service-areas/salem"
       },
       {
        "label": "An Inspection Schedule That Covers Two Storm Seasons, Not One",
@@ -1264,23 +1264,23 @@
      "related": [
       {
        "label": "Roofing for Berino's Highway 478 Farm Buildings",
-       "href": "/locations/berino"
+       "href": "/service-areas/berino"
       },
       {
        "label": "Roofing for Chamberino's Pecan and Chile Farm Buildings",
-       "href": "/locations/chamberino"
+       "href": "/service-areas/chamberino"
       },
       {
        "label": "Roof Work for Chaparral's Schools and Small Retail",
-       "href": "/locations/chaparral"
+       "href": "/service-areas/chaparral"
       },
       {
        "label": "Roofing for Deming's Truck Stops and Downtown Retail",
-       "href": "/locations/deming"
+       "href": "/service-areas/deming"
       },
       {
        "label": "Small-Scale Roof Work in the Village of Dona Ana",
-       "href": "/locations/dona-ana"
+       "href": "/service-areas/dona-ana"
       },
       {
        "label": "Standing Seam Metal Where Slope and Sun Both Matter",
@@ -1330,23 +1330,23 @@
      "related": [
       {
        "label": "Vado Roofing Built for a Growing I-10 Logistics Corridor",
-       "href": "/locations/vado"
+       "href": "/service-areas/vado"
       },
       {
        "label": "Multi-Tenant Roofs at West Mesa Industrial Park",
-       "href": "/locations/west-mesa-industrial-park"
+       "href": "/service-areas/west-mesa-industrial-park"
       },
       {
        "label": "Roofing for Facilities Tied to White Sands Missile Range",
-       "href": "/locations/white-sands-missile-range"
+       "href": "/service-areas/white-sands-missile-range"
       },
       {
        "label": "Roofing Along Alamogordo's White Sands Boulevard",
-       "href": "/locations/alamogordo"
+       "href": "/service-areas/alamogordo"
       },
       {
        "label": "Roofing for Anthony's Packing Sheds and I-10 Strip",
-       "href": "/locations/anthony"
+       "href": "/service-areas/anthony"
       },
       {
        "label": "Getting a Building Dry Before the Next Monsoon Cell Rolls Through",
@@ -1396,23 +1396,23 @@
      "related": [
       {
        "label": "Chile Season Roof Work in the Salem Valley Fields",
-       "href": "/locations/salem"
+       "href": "/service-areas/salem"
       },
       {
        "label": "Roofing for San Miguel's Farming Village Buildings",
-       "href": "/locations/san-miguel"
+       "href": "/service-areas/san-miguel"
       },
       {
        "label": "Roofing for Santa Teresa's Border Industrial Parks",
-       "href": "/locations/santa-teresa"
+       "href": "/service-areas/santa-teresa"
       },
       {
        "label": "Keeping Sunland Park's Racetrack District Dry",
-       "href": "/locations/sunland-park"
+       "href": "/service-areas/sunland-park"
       },
       {
        "label": "Roofing Around NMSU's University Park Footprint",
-       "href": "/locations/university-park"
+       "href": "/service-areas/university-park"
       },
       {
        "label": "Why the Roof's Perimeter Fails Before the Field Does",
@@ -1462,23 +1462,23 @@
      "related": [
       {
        "label": "Roof Work for Chaparral's Schools and Small Retail",
-       "href": "/locations/chaparral"
+       "href": "/service-areas/chaparral"
       },
       {
        "label": "Roofing for Deming's Truck Stops and Downtown Retail",
-       "href": "/locations/deming"
+       "href": "/service-areas/deming"
       },
       {
        "label": "Small-Scale Roof Work in the Village of Dona Ana",
-       "href": "/locations/dona-ana"
+       "href": "/service-areas/dona-ana"
       },
       {
        "label": "Roofing on Las Cruces's Fast-Growing East Mesa Side",
-       "href": "/locations/east-mesa"
+       "href": "/service-areas/east-mesa"
       },
       {
        "label": "Orchard-Country Roof Work West of the Mesilla Valley",
-       "href": "/locations/fairacres"
+       "href": "/service-areas/fairacres"
       },
       {
        "label": "Silicone Coatings for Roofs That Pond After a Monsoon Downpour",
@@ -1528,23 +1528,23 @@
      "related": [
       {
        "label": "Roofing for Santa Teresa's Border Industrial Parks",
-       "href": "/locations/santa-teresa"
+       "href": "/service-areas/santa-teresa"
       },
       {
        "label": "Keeping Sunland Park's Racetrack District Dry",
-       "href": "/locations/sunland-park"
+       "href": "/service-areas/sunland-park"
       },
       {
        "label": "Roofing Around NMSU's University Park Footprint",
-       "href": "/locations/university-park"
+       "href": "/service-areas/university-park"
       },
       {
        "label": "Vado Roofing Built for a Growing I-10 Logistics Corridor",
-       "href": "/locations/vado"
+       "href": "/service-areas/vado"
       },
       {
        "label": "Multi-Tenant Roofs at West Mesa Industrial Park",
-       "href": "/locations/west-mesa-industrial-park"
+       "href": "/service-areas/west-mesa-industrial-park"
       },
       {
        "label": "Built-Up Roofing on Older Las Cruces Buildings That Still Hold Up",
@@ -1594,23 +1594,23 @@
      "related": [
       {
        "label": "Orchard-Country Roof Work West of the Mesilla Valley",
-       "href": "/locations/fairacres"
+       "href": "/service-areas/fairacres"
       },
       {
        "label": "Roofing for Hatch's Chile Processing and Village Commercial Buildings",
-       "href": "/locations/hatch"
+       "href": "/service-areas/hatch"
       },
       {
        "label": "Roofing for La Mesa's Restaurant and Farm-Adjacent Buildings",
-       "href": "/locations/la-mesa"
+       "href": "/service-areas/la-mesa"
       },
       {
        "label": "Roofing for La Union's Farms, Winery, and Orchard Buildings",
-       "href": "/locations/la-union"
+       "href": "/service-areas/la-union"
       },
       {
        "label": "Roofing Near the Plaza in Old Mesilla",
-       "href": "/locations/mesilla"
+       "href": "/service-areas/mesilla"
       },
       {
        "label": "Tear-Off and Deck Replacement for Las Cruces Flat Roofs",
@@ -1656,23 +1656,23 @@
      "related": [
       {
        "label": "Roofing Calls Where US-70 Climbs Through San Augustin Pass",
-       "href": "/locations/organ"
+       "href": "/service-areas/organ"
       },
       {
        "label": "Clubhouse, Cart Barn and HOA Roofs in Picacho Hills",
-       "href": "/locations/picacho-hills"
+       "href": "/service-areas/picacho-hills"
       },
       {
        "label": "Rio Grande Valley Roofs Along the I-25 Corridor at Radium Springs",
-       "href": "/locations/radium-springs"
+       "href": "/service-areas/radium-springs"
       },
       {
        "label": "Roof Service for What's Left of the Rincon Rail Junction",
-       "href": "/locations/rincon"
+       "href": "/service-areas/rincon"
       },
       {
        "label": "Roofing for San Miguel's Farming Village Buildings",
-       "href": "/locations/san-miguel"
+       "href": "/service-areas/san-miguel"
       },
       {
        "label": "Standing Seam Metal Where Slope and Sun Both Matter",
@@ -1748,7 +1748,7 @@
       },
       {
        "label": "Roofing Calls Where US-70 Climbs Through San Augustin Pass",
-       "href": "/locations/organ"
+       "href": "/service-areas/organ"
       },
       {
        "label": "Keeping the Sales Floor Dry While the Roof Comes Off Overhead",
@@ -1802,7 +1802,7 @@
       },
       {
        "label": "Roofing for San Miguel's Farming Village Buildings",
-       "href": "/locations/san-miguel"
+       "href": "/service-areas/san-miguel"
       },
       {
        "label": "Roofing Above Operating Rooms and Critical Care Space",
@@ -1864,7 +1864,7 @@
       },
       {
        "label": "Roof Service for What's Left of the Rincon Rail Junction",
-       "href": "/locations/rincon"
+       "href": "/service-areas/rincon"
       },
       {
        "label": "Reroofing Occupied Apartment Buildings Without a Wave of Resident Complaints",
@@ -1926,7 +1926,7 @@
       },
       {
        "label": "Roofing for Anthony's Packing Sheds and I-10 Strip",
-       "href": "/locations/anthony"
+       "href": "/service-areas/anthony"
       },
       {
        "label": "Reroofing Occupied Apartment Buildings Without a Wave of Resident Complaints",
@@ -1992,7 +1992,7 @@
       },
       {
        "label": "Roofing for La Mesa's Restaurant and Farm-Adjacent Buildings",
-       "href": "/locations/la-mesa"
+       "href": "/service-areas/la-mesa"
       },
       {
        "label": "Roofs That Hold Up Over Chile and Food Processing Lines",
@@ -2054,7 +2054,7 @@
       },
       {
        "label": "Vado Roofing Built for a Growing I-10 Logistics Corridor",
-       "href": "/locations/vado"
+       "href": "/service-areas/vado"
       },
       {
        "label": "Fitting a Reroof Into an Eight-Week Summer Window",
@@ -2112,7 +2112,7 @@
       },
       {
        "label": "Multi-Tenant Roofs at West Mesa Industrial Park",
-       "href": "/locations/west-mesa-industrial-park"
+       "href": "/service-areas/west-mesa-industrial-park"
       },
       {
        "label": "Keeping the Sales Floor Dry While the Roof Comes Off Overhead",
@@ -2170,7 +2170,7 @@
       },
       {
        "label": "Roof Service for What's Left of the Rincon Rail Junction",
-       "href": "/locations/rincon"
+       "href": "/service-areas/rincon"
       },
       {
        "label": "Reroofing Occupied Apartment Buildings Without a Wave of Resident Complaints",
@@ -2232,7 +2232,7 @@
       },
       {
        "label": "Roofing Around NMSU's University Park Footprint",
-       "href": "/locations/university-park"
+       "href": "/service-areas/university-park"
       },
       {
        "label": "Roof Work That Doesn't Show Up in a Guest's Review",
@@ -2294,7 +2294,7 @@
       },
       {
        "label": "Roofing for La Union's Farms, Winery, and Orchard Buildings",
-       "href": "/locations/la-union"
+       "href": "/service-areas/la-union"
       },
       {
        "label": "Roof Work That Doesn't Show Up in a Guest's Review",
@@ -2352,7 +2352,7 @@
       },
       {
        "label": "Roofing for Deming's Truck Stops and Downtown Retail",
-       "href": "/locations/deming"
+       "href": "/service-areas/deming"
       },
       {
        "label": "Fitting a Reroof Into an Eight-Week Summer Window",
@@ -2418,7 +2418,7 @@
       },
       {
        "label": "Roofing Near the Plaza in Old Mesilla",
-       "href": "/locations/mesilla"
+       "href": "/service-areas/mesilla"
       },
       {
        "label": "Roofs That Hold Up Over Chile and Food Processing Lines",
@@ -2472,7 +2472,7 @@
       },
       {
        "label": "Roofing on Las Cruces's Fast-Growing East Mesa Side",
-       "href": "/locations/east-mesa"
+       "href": "/service-areas/east-mesa"
       },
       {
        "label": "Reroofing Occupied Apartment Buildings Without a Wave of Resident Complaints",
@@ -2522,7 +2522,7 @@
       },
       {
        "label": "Roofing Along Alamogordo's White Sands Boulevard",
-       "href": "/locations/alamogordo"
+       "href": "/service-areas/alamogordo"
       },
       {
        "label": "Reroofing Occupied Apartment Buildings Without a Wave of Resident Complaints",
@@ -2580,7 +2580,7 @@
       },
       {
        "label": "Roofing for Deming's Truck Stops and Downtown Retail",
-       "href": "/locations/deming"
+       "href": "/service-areas/deming"
       },
       {
        "label": "Roof Systems for Rail-Adjacent Distribution Centers Near Santa Teresa",
@@ -2634,7 +2634,7 @@
       },
       {
        "label": "Roofing for Berino's Highway 478 Farm Buildings",
-       "href": "/locations/berino"
+       "href": "/service-areas/berino"
       },
       {
        "label": "Fitting a Reroof Into an Eight-Week Summer Window",
@@ -2696,7 +2696,7 @@
       },
       {
        "label": "Roof Work for Chaparral's Schools and Small Retail",
-       "href": "/locations/chaparral"
+       "href": "/service-areas/chaparral"
       },
       {
        "label": "Roofs Carrying a Refrigeration Load Ordinary Buildings Never See",
@@ -2754,7 +2754,7 @@
       },
       {
        "label": "Rio Grande Valley Roofs Along the I-25 Corridor at Radium Springs",
-       "href": "/locations/radium-springs"
+       "href": "/service-areas/radium-springs"
       },
       {
        "label": "Roofs That Hold Up Over Chile and Food Processing Lines",
@@ -2816,7 +2816,7 @@
       },
       {
        "label": "Roofing for Facilities Tied to White Sands Missile Range",
-       "href": "/locations/white-sands-missile-range"
+       "href": "/service-areas/white-sands-missile-range"
       },
       {
        "label": "Fitting a Reroof Into an Eight-Week Summer Window",
@@ -2882,7 +2882,7 @@
       },
       {
        "label": "Orchard-Country Roof Work West of the Mesilla Valley",
-       "href": "/locations/fairacres"
+       "href": "/service-areas/fairacres"
       },
       {
        "label": "Roofs Built for the Santa Teresa Freight Corridor",
@@ -3010,7 +3010,7 @@
       },
       {
        "label": "Orchard-Country Roof Work West of the Mesilla Valley",
-       "href": "/locations/fairacres"
+       "href": "/service-areas/fairacres"
       },
       {
        "label": "Commercial Roof Repair",
@@ -3144,7 +3144,7 @@
       },
       {
        "label": "Roofing Around NMSU's University Park Footprint",
-       "href": "/locations/university-park"
+       "href": "/service-areas/university-park"
       },
       {
        "label": "Roof Systems for Rail-Adjacent Distribution Centers Near Santa Teresa",
@@ -3210,7 +3210,7 @@
       },
       {
        "label": "Roofing Around NMSU's University Park Footprint",
-       "href": "/locations/university-park"
+       "href": "/service-areas/university-park"
       },
       {
        "label": "Roofing Above Operating Rooms and Critical Care Space",
@@ -3272,7 +3272,7 @@
       },
       {
        "label": "Multi-Tenant Roofs at West Mesa Industrial Park",
-       "href": "/locations/west-mesa-industrial-park"
+       "href": "/service-areas/west-mesa-industrial-park"
       },
       {
        "label": "Roof Systems for Rail-Adjacent Distribution Centers Near Santa Teresa",
@@ -3334,7 +3334,7 @@
       },
       {
        "label": "Chile Season Roof Work in the Salem Valley Fields",
-       "href": "/locations/salem"
+       "href": "/service-areas/salem"
       },
       {
        "label": "Roof Work Timed Around Patient Hours, Not Around Us",
@@ -3400,7 +3400,7 @@
       },
       {
        "label": "Rio Grande Valley Roofs Along the I-25 Corridor at Radium Springs",
-       "href": "/locations/radium-springs"
+       "href": "/service-areas/radium-springs"
       },
       {
        "label": "Roof Work That Doesn't Show Up in a Guest's Review",
@@ -3466,7 +3466,7 @@
       },
       {
        "label": "Roofing Around NMSU's University Park Footprint",
-       "href": "/locations/university-park"
+       "href": "/service-areas/university-park"
       },
       {
        "label": "Roofing for College and Research Buildings on an Academic Calendar",
@@ -3532,7 +3532,7 @@
       },
       {
        "label": "Roofing for Berino's Highway 478 Farm Buildings",
-       "href": "/locations/berino"
+       "href": "/service-areas/berino"
       },
       {
        "label": "Keeping the Sales Floor Dry While the Roof Comes Off Overhead",
@@ -3594,7 +3594,7 @@
       },
       {
        "label": "Vado Roofing Built for a Growing I-10 Logistics Corridor",
-       "href": "/locations/vado"
+       "href": "/service-areas/vado"
       },
       {
        "label": "Roofs That Hold Up Over Chile and Food Processing Lines",
@@ -3662,7 +3662,7 @@
       },
       {
        "label": "Roofing on Las Cruces's Fast-Growing East Mesa Side",
-       "href": "/locations/east-mesa"
+       "href": "/service-areas/east-mesa"
       },
       {
        "label": "Roofs That Hold Up Over Chile and Food Processing Lines",
@@ -3724,7 +3724,7 @@
       },
       {
        "label": "Roofing for Chamberino's Pecan and Chile Farm Buildings",
-       "href": "/locations/chamberino"
+       "href": "/service-areas/chamberino"
       },
       {
        "label": "Keeping the Sales Floor Dry While the Roof Comes Off Overhead",
@@ -3790,7 +3790,7 @@
       },
       {
        "label": "Roofing for Santa Teresa's Border Industrial Parks",
-       "href": "/locations/santa-teresa"
+       "href": "/service-areas/santa-teresa"
       },
       {
        "label": "Roof Systems for Rail-Adjacent Distribution Centers Near Santa Teresa",
@@ -3852,7 +3852,7 @@
       },
       {
        "label": "Orchard-Country Roof Work West of the Mesilla Valley",
-       "href": "/locations/fairacres"
+       "href": "/service-areas/fairacres"
       },
       {
        "label": "Roofing for College and Research Buildings on an Academic Calendar",
@@ -3918,7 +3918,7 @@
       },
       {
        "label": "Roof Work for Chaparral's Schools and Small Retail",
-       "href": "/locations/chaparral"
+       "href": "/service-areas/chaparral"
       },
       {
        "label": "Reroofing Occupied Apartment Buildings Without a Wave of Resident Complaints",
@@ -3984,7 +3984,7 @@
       },
       {
        "label": "Keeping Sunland Park's Racetrack District Dry",
-       "href": "/locations/sunland-park"
+       "href": "/service-areas/sunland-park"
       },
       {
        "label": "Fitting a Reroof Into an Eight-Week Summer Window",
@@ -4046,7 +4046,7 @@
       },
       {
        "label": "Roofing for La Union's Farms, Winery, and Orchard Buildings",
-       "href": "/locations/la-union"
+       "href": "/service-areas/la-union"
       },
       {
        "label": "Large-Format Roofs Over Border-Logistics Warehouse Space",
@@ -4108,7 +4108,7 @@
       },
       {
        "label": "Roof Service for What's Left of the Rincon Rail Junction",
-       "href": "/locations/rincon"
+       "href": "/service-areas/rincon"
       },
       {
        "label": "Fitting a Reroof Into an Eight-Week Summer Window",
@@ -4180,7 +4180,7 @@
       },
       {
        "label": "Roofing for La Union's Farms, Winery, and Orchard Buildings",
-       "href": "/locations/la-union"
+       "href": "/service-areas/la-union"
       },
       {
        "label": "Documentation That Holds Up With Adjusters",
@@ -4226,7 +4226,7 @@
       },
       {
        "label": "Multi-Tenant Roofs at West Mesa Industrial Park",
-       "href": "/locations/west-mesa-industrial-park"
+       "href": "/service-areas/west-mesa-industrial-park"
       },
       {
        "label": "Roof Data for Portfolio and Acquisition Decisions",
@@ -4272,7 +4272,7 @@
       },
       {
        "label": "Roofing for La Union's Farms, Winery, and Orchard Buildings",
-       "href": "/locations/la-union"
+       "href": "/service-areas/la-union"
       },
       {
        "label": "Roofing Work Timed to the Academic Calendar",
@@ -4318,7 +4318,7 @@
       },
       {
        "label": "Roofing for Hatch's Chile Processing and Village Commercial Buildings",
-       "href": "/locations/hatch"
+       "href": "/service-areas/hatch"
       },
       {
        "label": "Roofs Built for the Santa Teresa Freight Corridor",
@@ -4364,7 +4364,7 @@
       },
       {
        "label": "Roofing Around NMSU's University Park Footprint",
-       "href": "/locations/university-park"
+       "href": "/service-areas/university-park"
       },
       {
        "label": "Roofs Built for the Santa Teresa Freight Corridor",
@@ -4410,7 +4410,7 @@
       },
       {
        "label": "Roofing for Santa Teresa's Border Industrial Parks",
-       "href": "/locations/santa-teresa"
+       "href": "/service-areas/santa-teresa"
       },
       {
        "label": "Public Buildings, Procurement Rules, and Fiscal-Year Deadlines",
@@ -4456,7 +4456,7 @@
       },
       {
        "label": "Roof Work for Chaparral's Schools and Small Retail",
-       "href": "/locations/chaparral"
+       "href": "/service-areas/chaparral"
       },
       {
        "label": "One Call for Every Roof in the Portfolio",
@@ -4502,7 +4502,7 @@
       },
       {
        "label": "Roofing for Facilities Tied to White Sands Missile Range",
-       "href": "/locations/white-sands-missile-range"
+       "href": "/service-areas/white-sands-missile-range"
       },
       {
        "label": "Documentation That Holds Up With Adjusters",
@@ -4548,7 +4548,7 @@
       },
       {
        "label": "Orchard-Country Roof Work West of the Mesilla Valley",
-       "href": "/locations/fairacres"
+       "href": "/service-areas/fairacres"
       },
       {
        "label": "One Call for Every Roof in the Portfolio",
@@ -4594,7 +4594,7 @@
       },
       {
        "label": "Roofing Along Alamogordo's White Sands Boulevard",
-       "href": "/locations/alamogordo"
+       "href": "/service-areas/alamogordo"
       },
       {
        "label": "One Call for Every Roof in the Portfolio",
@@ -4640,7 +4640,7 @@
       },
       {
        "label": "Roof Service for What's Left of the Rincon Rail Junction",
-       "href": "/locations/rincon"
+       "href": "/service-areas/rincon"
       },
       {
        "label": "Documentation That Holds Up With Adjusters",
@@ -4686,7 +4686,7 @@
       },
       {
        "label": "Rio Grande Valley Roofs Along the I-25 Corridor at Radium Springs",
-       "href": "/locations/radium-springs"
+       "href": "/service-areas/radium-springs"
       },
       {
        "label": "Roofing Work Timed to the Academic Calendar",
@@ -4738,7 +4738,7 @@
       },
       {
        "label": "Roofing Along Alamogordo's White Sands Boulevard",
-       "href": "/locations/alamogordo"
+       "href": "/service-areas/alamogordo"
       },
       {
        "label": "Roof Systems for Rail-Adjacent Distribution Centers Near Santa Teresa",
@@ -4784,7 +4784,7 @@
       },
       {
        "label": "Roofing Near the Plaza in Old Mesilla",
-       "href": "/locations/mesilla"
+       "href": "/service-areas/mesilla"
       },
       {
        "label": "Roof Work That Doesn't Show Up in a Guest's Review",
@@ -4830,7 +4830,7 @@
       },
       {
        "label": "Roofing Near the Plaza in Old Mesilla",
-       "href": "/locations/mesilla"
+       "href": "/service-areas/mesilla"
       },
       {
        "label": "Keeping the Sales Floor Dry While the Roof Comes Off Overhead",
@@ -4876,7 +4876,7 @@
       },
       {
        "label": "Roofing for La Mesa's Restaurant and Farm-Adjacent Buildings",
-       "href": "/locations/la-mesa"
+       "href": "/service-areas/la-mesa"
       },
       {
        "label": "Roof Work That Doesn't Show Up in a Guest's Review",
@@ -4922,7 +4922,7 @@
       },
       {
        "label": "Chile Season Roof Work in the Salem Valley Fields",
-       "href": "/locations/salem"
+       "href": "/service-areas/salem"
       },
       {
        "label": "Roofs That Hold Up Over Chile and Food Processing Lines",
@@ -4968,7 +4968,7 @@
       },
       {
        "label": "Roofing for Deming's Truck Stops and Downtown Retail",
-       "href": "/locations/deming"
+       "href": "/service-areas/deming"
       },
       {
        "label": "Roofing Above Operating Rooms and Critical Care Space",

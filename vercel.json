@@ -1,0 +1,280 @@
+{
+  "rewrites": [],
+  "redirects": [
+    {
+      "source": "/locations/:path*",
+      "destination": "/service-areas/:path*",
+      "permanent": true
+    },
+    {
+      "source": "/locations",
+      "destination": "/service-areas",
+      "permanent": true
+    },
+    {
+      "source": "/locations/alamogordo",
+      "destination": "/service-areas/alamogordo",
+      "permanent": true
+    },
+    {
+      "source": "/locations/alamogordo/",
+      "destination": "/service-areas/alamogordo",
+      "permanent": true
+    },
+    {
+      "source": "/locations/anthony",
+      "destination": "/service-areas/anthony",
+      "permanent": true
+    },
+    {
+      "source": "/locations/anthony/",
+      "destination": "/service-areas/anthony",
+      "permanent": true
+    },
+    {
+      "source": "/locations/berino",
+      "destination": "/service-areas/berino",
+      "permanent": true
+    },
+    {
+      "source": "/locations/berino/",
+      "destination": "/service-areas/berino",
+      "permanent": true
+    },
+    {
+      "source": "/locations/chamberino",
+      "destination": "/service-areas/chamberino",
+      "permanent": true
+    },
+    {
+      "source": "/locations/chamberino/",
+      "destination": "/service-areas/chamberino",
+      "permanent": true
+    },
+    {
+      "source": "/locations/chaparral",
+      "destination": "/service-areas/chaparral",
+      "permanent": true
+    },
+    {
+      "source": "/locations/chaparral/",
+      "destination": "/service-areas/chaparral",
+      "permanent": true
+    },
+    {
+      "source": "/locations/deming",
+      "destination": "/service-areas/deming",
+      "permanent": true
+    },
+    {
+      "source": "/locations/deming/",
+      "destination": "/service-areas/deming",
+      "permanent": true
+    },
+    {
+      "source": "/locations/dona-ana",
+      "destination": "/service-areas/dona-ana",
+      "permanent": true
+    },
+    {
+      "source": "/locations/dona-ana/",
+      "destination": "/service-areas/dona-ana",
+      "permanent": true
+    },
+    {
+      "source": "/locations/east-mesa",
+      "destination": "/service-areas/east-mesa",
+      "permanent": true
+    },
+    {
+      "source": "/locations/east-mesa/",
+      "destination": "/service-areas/east-mesa",
+      "permanent": true
+    },
+    {
+      "source": "/locations/fairacres",
+      "destination": "/service-areas/fairacres",
+      "permanent": true
+    },
+    {
+      "source": "/locations/fairacres/",
+      "destination": "/service-areas/fairacres",
+      "permanent": true
+    },
+    {
+      "source": "/locations/hatch",
+      "destination": "/service-areas/hatch",
+      "permanent": true
+    },
+    {
+      "source": "/locations/hatch/",
+      "destination": "/service-areas/hatch",
+      "permanent": true
+    },
+    {
+      "source": "/locations/la-mesa",
+      "destination": "/service-areas/la-mesa",
+      "permanent": true
+    },
+    {
+      "source": "/locations/la-mesa/",
+      "destination": "/service-areas/la-mesa",
+      "permanent": true
+    },
+    {
+      "source": "/locations/la-union",
+      "destination": "/service-areas/la-union",
+      "permanent": true
+    },
+    {
+      "source": "/locations/la-union/",
+      "destination": "/service-areas/la-union",
+      "permanent": true
+    },
+    {
+      "source": "/locations/mesilla",
+      "destination": "/service-areas/mesilla",
+      "permanent": true
+    },
+    {
+      "source": "/locations/mesilla/",
+      "destination": "/service-areas/mesilla",
+      "permanent": true
+    },
+    {
+      "source": "/locations/mesquite",
+      "destination": "/service-areas/mesquite",
+      "permanent": true
+    },
+    {
+      "source": "/locations/mesquite/",
+      "destination": "/service-areas/mesquite",
+      "permanent": true
+    },
+    {
+      "source": "/locations/organ",
+      "destination": "/service-areas/organ",
+      "permanent": true
+    },
+    {
+      "source": "/locations/organ/",
+      "destination": "/service-areas/organ",
+      "permanent": true
+    },
+    {
+      "source": "/locations/picacho-hills",
+      "destination": "/service-areas/picacho-hills",
+      "permanent": true
+    },
+    {
+      "source": "/locations/picacho-hills/",
+      "destination": "/service-areas/picacho-hills",
+      "permanent": true
+    },
+    {
+      "source": "/locations/radium-springs",
+      "destination": "/service-areas/radium-springs",
+      "permanent": true
+    },
+    {
+      "source": "/locations/radium-springs/",
+      "destination": "/service-areas/radium-springs",
+      "permanent": true
+    },
+    {
+      "source": "/locations/rincon",
+      "destination": "/service-areas/rincon",
+      "permanent": true
+    },
+    {
+      "source": "/locations/rincon/",
+      "destination": "/service-areas/rincon",
+      "permanent": true
+    },
+    {
+      "source": "/locations/salem",
+      "destination": "/service-areas/salem",
+      "permanent": true
+    },
+    {
+      "source": "/locations/salem/",
+      "destination": "/service-areas/salem",
+      "permanent": true
+    },
+    {
+      "source": "/locations/san-miguel",
+      "destination": "/service-areas/san-miguel",
+      "permanent": true
+    },
+    {
+      "source": "/locations/san-miguel/",
+      "destination": "/service-areas/san-miguel",
+      "permanent": true
+    },
+    {
+      "source": "/locations/santa-teresa",
+      "destination": "/service-areas/santa-teresa",
+      "permanent": true
+    },
+    {
+      "source": "/locations/santa-teresa/",
+      "destination": "/service-areas/santa-teresa",
+      "permanent": true
+    },
+    {
+      "source": "/locations/sunland-park",
+      "destination": "/service-areas/sunland-park",
+      "permanent": true
+    },
+    {
+      "source": "/locations/sunland-park/",
+      "destination": "/service-areas/sunland-park",
+      "permanent": true
+    },
+    {
+      "source": "/locations/university-park",
+      "destination": "/service-areas/university-park",
+      "permanent": true
+    },
+    {
+      "source": "/locations/university-park/",
+      "destination": "/service-areas/university-park",
+      "permanent": true
+    },
+    {
+      "source": "/locations/vado",
+      "destination": "/service-areas/vado",
+      "permanent": true
+    },
+    {
+      "source": "/locations/vado/",
+      "destination": "/service-areas/vado",
+      "permanent": true
+    },
+    {
+      "source": "/locations/west-mesa-industrial-park",
+      "destination": "/service-areas/west-mesa-industrial-park",
+      "permanent": true
+    },
+    {
+      "source": "/locations/west-mesa-industrial-park/",
+      "destination": "/service-areas/west-mesa-industrial-park",
+      "permanent": true
+    },
+    {
+      "source": "/locations/white-sands-missile-range",
+      "destination": "/service-areas/white-sands-missile-range",
+      "permanent": true
+    },
+    {
+      "source": "/locations/white-sands-missile-range/",
+      "destination": "/service-areas/white-sands-missile-range",
+      "permanent": true
+    },
+    {
+      "source": "/locations/",
+      "destination": "/service-areas",
+      "permanent": true
+    }
+  ]
+}
