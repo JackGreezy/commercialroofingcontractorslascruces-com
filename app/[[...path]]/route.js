@@ -42,6 +42,17 @@ async function readFirst(files) {
 function decorate(html, request) {
   if (!html) return html;
   const url = new URL(request.url);
+  const hubTitles = {
+    "/industries": "Industries We Serve",
+    "/project-types": "Commercial Project Types",
+    "/service-areas": "Service Areas",
+    "/manufacturers": "Roofing Manufacturers"
+  };
+  const title = hubTitles[url.pathname.replace(/\/$/, "")];
+  if (title && !/<h1\b/i.test(html)) {
+    html = html.replace(/<h3\b([^>]*class=["']page["'][^>]*)>([^<]*)<\/h3>/i,
+      (original, attrs, text) => text.trim() === title ? `<h1${attrs}>${text}</h1>` : original);
+  }
   if (url.searchParams.get("submitted") === "1" && /<\/form>/i.test(html)) {
     const notice = '<p role="status" style="margin-top:20px;font-weight:700">Thank you. Your commercial roofing request has been received.</p>';
     return html.replace(/<\/form>/i, `</form>${notice}`);
