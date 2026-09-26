@@ -4,12 +4,13 @@ function update(s,route=''){
  if(typeof s!=='string'||!s.includes('<'))return s;
  const canonical=s.match(/<link\b(?=[^>]*rel=["']canonical["'])[^>]*href=["']([^"']+)/i)?.[1];
  const match=plans.find(p=>route===p.route||(canonical&&new URL(canonical,'https://example.com').pathname.replace(/\/$/,'')===p.route));if(!match)return s;
+ for(const tag of ['div','h2','h3'])s=s.replaceAll(`h1[data-audited-primary-heading=${tag}]{`,`:where(h1[data-audited-primary-heading=${tag}]){`);
  for(const [a,b]of match.replace||[])s=a==='Skiato'?s.replace(/\bSkiato(?:okok)+\b|\bSkiato\b/g,b):s.split(a).join(b);
  if(match.h1)s=s.replace(/(<h1\b[^>]*>)[\s\S]*?(<\/h1>)/i,`$1${match.h1}$2`);
  if(match.promote&&!/<h1\b/i.test(s)){
   const {tag,text}=match.promote;const escaped=text.replace(/[.*+?^${}()|[\]\\]/g,'\\$&');const re=new RegExp(`<${tag}\\b([^>]*)>${escaped}<\\/${tag}>`,'i');
   s=s.replace(re,(_,attrs)=>`<h1 data-audited-primary-heading="${tag}"${attrs}>${text}</h1>`);
-  if(!s.includes('id="audited-primary-heading-css"'))s=s.replace(/<\/head>/i,`<style id="audited-primary-heading-css">h1[data-audited-primary-heading=div]{font-size:inherit;font-weight:inherit;margin:0}h1[data-audited-primary-heading=h2]{font-size:1.5em;margin-block:.83em}h1[data-audited-primary-heading=h3]{font-size:1.17em;margin-block:1em}</style></head>`);
+  if(!s.includes('id="audited-primary-heading-css"'))s=s.replace(/<\/head>/i,`<style id="audited-primary-heading-css">:where(h1[data-audited-primary-heading=div]){font-size:inherit;font-weight:inherit;margin:0}:where(h1[data-audited-primary-heading=h2]){font-size:1.5em;margin-block:.83em}:where(h1[data-audited-primary-heading=h3]){font-size:1.17em;margin-block:1em}</style></head>`);
  }
  if(match.addHeading&&!/<h1\b/i.test(s)){
   const heading=`<h1 class="audited-page-heading" style="font-family:inherit;font-size:clamp(28px,5vw,44px);line-height:1.15;margin:24px 0">${match.addHeading}</h1>`;
