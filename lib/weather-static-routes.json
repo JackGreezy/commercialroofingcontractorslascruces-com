@@ -1,0 +1,16 @@
+{
+  "siteId": "commercialroofingcontractorslascruces-com",
+  "routes": {
+    "/": "/index.html",
+    "/service-areas/alamogordo": "/service-areas/alamogordo.html",
+    "/service-areas/chaparral": "/service-areas/chaparral.html",
+    "/service-areas/deming": "/service-areas/deming.html",
+    "/service-areas/sunland-park": "/service-areas/sunland-park.html",
+    "/services/commercial-roof-inspection": "/services/commercial-roof-inspection.html",
+    "/services/commercial-roof-leak-repair": "/services/commercial-roof-leak-repair.html",
+    "/services/emergency-tarp-dry-in": "/services/emergency-tarp-dry-in.html",
+    "/services/monsoon-storm-roof-insurance-claims": "/services/monsoon-storm-roof-insurance-claims.html",
+    "/services/storm-damage-roof-repair": "/services/storm-damage-roof-repair.html",
+    "/services/wind-storm-damage-roof-insurance-claims": "/services/wind-storm-damage-roof-insurance-claims.html"
+  }
+}

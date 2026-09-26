@@ -1,5 +1,50 @@
 {
-  "rewrites": [],
+  "rewrites": [
+    {
+      "source": "/services/wind-storm-damage-roof-insurance-claims",
+      "destination": "/weather-response?route=%2Fservices%2Fwind-storm-damage-roof-insurance-claims"
+    },
+    {
+      "source": "/services/storm-damage-roof-repair",
+      "destination": "/weather-response?route=%2Fservices%2Fstorm-damage-roof-repair"
+    },
+    {
+      "source": "/services/monsoon-storm-roof-insurance-claims",
+      "destination": "/weather-response?route=%2Fservices%2Fmonsoon-storm-roof-insurance-claims"
+    },
+    {
+      "source": "/services/emergency-tarp-dry-in",
+      "destination": "/weather-response?route=%2Fservices%2Femergency-tarp-dry-in"
+    },
+    {
+      "source": "/services/commercial-roof-leak-repair",
+      "destination": "/weather-response?route=%2Fservices%2Fcommercial-roof-leak-repair"
+    },
+    {
+      "source": "/services/commercial-roof-inspection",
+      "destination": "/weather-response?route=%2Fservices%2Fcommercial-roof-inspection"
+    },
+    {
+      "source": "/service-areas/sunland-park",
+      "destination": "/weather-response?route=%2Fservice-areas%2Fsunland-park"
+    },
+    {
+      "source": "/service-areas/deming",
+      "destination": "/weather-response?route=%2Fservice-areas%2Fdeming"
+    },
+    {
+      "source": "/service-areas/chaparral",
+      "destination": "/weather-response?route=%2Fservice-areas%2Fchaparral"
+    },
+    {
+      "source": "/service-areas/alamogordo",
+      "destination": "/weather-response?route=%2Fservice-areas%2Falamogordo"
+    },
+    {
+      "source": "/",
+      "destination": "/weather-response?route=%2F"
+    }
+  ],
   "redirects": [
     {
       "source": "/cdn-cgi/l/email-protection",
@@ -281,5 +326,7 @@
       "destination": "/service-areas",
       "permanent": true
     }
-  ]
+  ],
+  "framework": "nextjs",
+  "outputDirectory": null
 }
