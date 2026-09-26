@@ -1,0 +1,11 @@
+{
+  "domain": "commercialroofingcontractorslascruces.com",
+  "dropScripts": [],
+  "scriptRemaps": {},
+  "replacements": [
+    {
+      "from": "var index=0,requested=parseInt(root.dataset.rrVisible||'1',10)||1,donorGap=parseFloat(getComputedStyle(list).gap)||0;",
+      "to": "var index=0,requested=parseInt(root.dataset.rrVisible||'1',10)||1,donorGap=parseFloat(getComputedStyle(track).gap)||0;"
+    }
+  ]
+}

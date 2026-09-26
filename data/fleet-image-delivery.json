@@ -1,0 +1,221 @@
+{
+  "domain": "commercialroofingcontractorslascruces.com",
+  "images": {
+    "/images/brand/logo-on-light.png": {
+      "width": 776,
+      "height": 316,
+      "variants": [
+        {
+          "src": "/performance/fleet-images/304d7351baf980c4.webp",
+          "width": 400
+        },
+        {
+          "src": "/performance/fleet-images/027532565935036a.webp",
+          "width": 776
+        }
+      ],
+      "mobileSize": "143px"
+    },
+    "/ours/service-areas/commercial-roofing-contractors-las-cruces-nm-01.webp": {
+      "width": 1656,
+      "height": 1042,
+      "variants": [
+        {
+          "src": "/performance/fleet-images/6894e2ff444f9171.webp",
+          "width": 400
+        },
+        {
+          "src": "/performance/fleet-images/20ef29b25ae32cea.webp",
+          "width": 828
+        },
+        {
+          "src": "/performance/fleet-images/1c9c676feee9a7c8.webp",
+          "width": 1240
+        }
+      ],
+      "backgroundVariants": [
+        {
+          "src": "/performance/fleet-images/a05b8127b4f4d1a5.webp",
+          "density": 1,
+          "width": 1440
+        },
+        {
+          "src": "/performance/fleet-images/29802a602f1abd7a.webp",
+          "density": 2,
+          "width": 1656
+        },
+        {
+          "src": "/performance/fleet-images/29802a602f1abd7a.webp",
+          "density": 3,
+          "width": 1656
+        }
+      ]
+    },
+    "/ours/services/commercial-roof-leak-repair-commercial-roofing-contractors-las-cruces-nm.webp": {
+      "width": 1200,
+      "height": 800,
+      "variants": [
+        {
+          "src": "/performance/fleet-images/cb013015d1452882.webp",
+          "width": 400
+        },
+        {
+          "src": "/performance/fleet-images/a6948b35d227a0c6.webp",
+          "width": 828
+        },
+        {
+          "src": "/performance/fleet-images/b5ec984fee4be922.webp",
+          "width": 1200
+        }
+      ]
+    },
+    "/ours/services/commercial-roof-inspection-commercial-roofing-contractors-las-cruces-nm.webp": {
+      "width": 1030,
+      "height": 773,
+      "variants": [
+        {
+          "src": "/performance/fleet-images/7f6cd0ca79921d2f.webp",
+          "width": 400
+        },
+        {
+          "src": "/performance/fleet-images/89798c47b518d14d.webp",
+          "width": 828
+        },
+        {
+          "src": "/performance/fleet-images/5749075390a32015.webp",
+          "width": 1030
+        }
+      ]
+    },
+    "/ours/services/emergency-tarp-dry-in-commercial-roofing-contractors-las-cruces-nm.webp": {
+      "width": 1920,
+      "height": 800,
+      "variants": [
+        {
+          "src": "/performance/fleet-images/72e0f083bf6ea619.webp",
+          "width": 400
+        },
+        {
+          "src": "/performance/fleet-images/ea5ad03f3446b91e.webp",
+          "width": 828
+        },
+        {
+          "src": "/performance/fleet-images/da0d54141f19cb20.webp",
+          "width": 1240
+        }
+      ]
+    },
+    "/ours/service-areas/commercial-roofing-contractors-las-cruces-nm-02.webp": {
+      "width": 2400,
+      "height": 1600,
+      "variants": [
+        {
+          "src": "/performance/fleet-images/7dd67d63a57b8e37.webp",
+          "width": 400
+        },
+        {
+          "src": "/performance/fleet-images/6314936a28106eb3.webp",
+          "width": 828
+        },
+        {
+          "src": "/performance/fleet-images/ea93bf559a7b5017.webp",
+          "width": 1240
+        }
+      ],
+      "backgroundVariants": [
+        {
+          "src": "/performance/fleet-images/da3441138986ad3c.webp",
+          "density": 1,
+          "width": 1440
+        },
+        {
+          "src": "/performance/fleet-images/eec37734530dae80.webp",
+          "density": 2,
+          "width": 2400
+        },
+        {
+          "src": "/performance/fleet-images/eec37734530dae80.webp",
+          "density": 3,
+          "width": 2400
+        }
+      ]
+    },
+    "/ours/service-areas/commercial-roofing-contractors-las-cruces-nm-03.webp": {
+      "width": 1200,
+      "height": 801,
+      "variants": [
+        {
+          "src": "/performance/fleet-images/593a356cfdbd61b2.webp",
+          "width": 400
+        },
+        {
+          "src": "/performance/fleet-images/04a95f557f80ec0d.webp",
+          "width": 828
+        },
+        {
+          "src": "/performance/fleet-images/dc642aa890a21085.webp",
+          "width": 1200
+        }
+      ],
+      "backgroundVariants": [
+        {
+          "src": "/performance/fleet-images/dc642aa890a21085.webp",
+          "density": 1,
+          "width": 1200
+        },
+        {
+          "src": "/performance/fleet-images/dc642aa890a21085.webp",
+          "density": 2,
+          "width": 1200
+        },
+        {
+          "src": "/performance/fleet-images/dc642aa890a21085.webp",
+          "density": 3,
+          "width": 1200
+        }
+      ]
+    },
+    "/ours/service-areas/commercial-roofing-contractors-las-cruces-nm-04.webp": {
+      "width": 2048,
+      "height": 1327,
+      "variants": [
+        {
+          "src": "/performance/fleet-images/530762304c46e736.webp",
+          "width": 400
+        },
+        {
+          "src": "/performance/fleet-images/9c8fc709a0ebd085.webp",
+          "width": 828
+        },
+        {
+          "src": "/performance/fleet-images/6a629695e39aa941.webp",
+          "width": 1240
+        }
+      ],
+      "backgroundVariants": [
+        {
+          "src": "/performance/fleet-images/b65f14110df37ebc.webp",
+          "density": 1,
+          "width": 1440
+        },
+        {
+          "src": "/performance/fleet-images/e62267e704834cdc.webp",
+          "density": 2,
+          "width": 2048
+        },
+        {
+          "src": "/performance/fleet-images/e62267e704834cdc.webp",
+          "density": 3,
+          "width": 2048
+        }
+      ]
+    }
+  },
+  "lazyImages": [
+    "/ours/services/commercial-roof-leak-repair-commercial-roofing-contractors-las-cruces-nm.webp",
+    "/ours/services/commercial-roof-inspection-commercial-roofing-contractors-las-cruces-nm.webp",
+    "/ours/services/emergency-tarp-dry-in-commercial-roofing-contractors-las-cruces-nm.webp"
+  ],
+  "lazyBackgrounds": [],
+  "heroBackground": "/ours/service-areas/commercial-roofing-contractors-las-cruces-nm-04.webp"
+}
