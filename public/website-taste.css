@@ -260,6 +260,7 @@
 }
 
 .rr-lc-service-plan p:not(.rr-lc-kicker) {
+  color: #fff;
   line-height: 1.65;
   max-width: 780px;
 }
@@ -1763,4 +1764,17 @@ body :where(
   .related-projects-wrap > article {
     max-width: none !important;
   }
+}
+
+/* Home hero (owl-carousel): the caption block (.tags, anchored at top:42% of
+   the slide) and the quick-link row beneath it (.titles, anchored at
+   bottom:3%) are both hardcoded percentage offsets sized for shorter copy.
+   With this site's two-line headline and three-line subtitle, the caption
+   block runs tall enough that its CTA button's bottom edge lands on top of
+   the quick-link row's heading text (e.g. "Emergency Roof Help"), a real
+   text-on-text overlap on every hero slide, not just the one captured.
+   Move the caption block up so its button clears the row below on every
+   slide. */
+.tags {
+  top: 30% !important;
 }
