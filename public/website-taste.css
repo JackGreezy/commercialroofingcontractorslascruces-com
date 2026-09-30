@@ -1778,3 +1778,59 @@ body :where(
 .tags {
   top: 30% !important;
 }
+
+/* Service-intent content inside the detail panel */
+.details .lc-intent{margin-top:clamp(20px,3vw,40px)}
+.details .lc-intent-head{margin:0 0 8px}
+.details .lc-intent-head h1{font-family:PFDinTextCompPro-Light,Arial,sans-serif!important;font-size:clamp(34px,4.4vw,56px)!important;line-height:1.05!important;color:#004d71!important;margin:0 0 24px!important;font-weight:400}
+.details .lc-intent-lede{font-size:20px!important;line-height:1.7!important}
+.details .lc-intent-actions{margin:22px 0 0}
+.details .lc-intent-body{margin:0}
+.details .lc-intent-body h2{text-transform:none}
+.details .lc-intent-body [data-rh-leak-faq]{margin-top:clamp(28px,3vw,44px)}
+.details .lc-intent details{margin:0 0 12px;border:1px solid #d3d8dc;background:#fff}
+.details .lc-intent summary{cursor:pointer;list-style:none;position:relative;padding:16px 52px 16px 20px;font-size:19px;font-weight:600;line-height:1.4;color:#004d71}
+.details .lc-intent summary::-webkit-details-marker{display:none}
+.details .lc-intent summary::after{content:"+";position:absolute;right:20px;top:10px;font-size:28px;line-height:1;color:#00a160}
+.details .lc-intent details[open] summary::after{content:"\2212"}
+.details .lc-intent details p{margin:0!important;padding:0 20px 18px}
+.details .rh-leak-funnel{margin:clamp(36px,4vw,56px) 0 0;padding:0;max-width:none}
+.details .rh-leak-funnel>header{position:static!important;display:block!important;background:transparent!important;box-shadow:none!important;height:auto!important;min-height:0!important;padding:0!important;margin:0!important;color:inherit!important;z-index:auto!important;overflow:visible!important;max-width:none}
+.details .rh-leak-funnel>header p,.details .rh-leak-funnel>header h2{background:transparent!important}
+.details .rh-leak-funnel>header>p:first-child{margin:0 0 8px!important;color:#00a160!important;font-size:13px!important;font-weight:700;letter-spacing:.14em;text-transform:uppercase}
+.details .rh-leak-funnel>header h2{margin:0 0 14px!important}
+.details .rh-leak-funnel-grid{display:grid!important;grid-template-columns:repeat(3,minmax(0,1fr));gap:18px;margin:26px 0!important}
+.details .rh-leak-funnel-grid a{display:flex;flex-direction:column;justify-content:space-between;gap:12px;min-height:112px;padding:22px;background:#f0f0f0;border:0;border-top:3px solid #00a160;color:#004d71;text-decoration:none}
+.details .rh-leak-funnel-grid a:hover{background:#e6e9ea}
+.details .rh-leak-funnel-grid span{font-size:14px;line-height:1.4;color:#555;opacity:1}
+.details .rh-leak-funnel-grid strong{font-size:19px;line-height:1.25}
+.details .rh-leak-funnel-contact{margin:0!important}
+.details .rh-leak-funnel-contact a{display:inline-block;padding:15px 24px;background:#00a160;color:#fff!important;text-transform:uppercase;letter-spacing:.08em;font-weight:700;font-size:15px;text-decoration:none}
+@media(max-width:760px){.details .rh-leak-funnel-grid{grid-template-columns:1fr}}
+/* detail pages: keep the 110px offset in normal flow so the panel no longer overlaps the footer */
+body:has(.details[data-rr-prose]) .doc>.content{top:0!important}
+body:has(.details[data-rr-prose]) .doc>header+.content{margin-top:110px}
+body:has(.details[data-rr-prose]) .breadcrumb li,body:has(.details[data-rr-prose]) .breadcrumb li.last,body:has(.details[data-rr-prose]) .breadcrumb a{color:#5b6770!important}
+.details .lc-intent-body [data-rh-leak-rich] ul,.details .lc-intent ul{list-style:inherit}
+/* footer: no empty map frame */
+footer .rr-footer-map:empty{display:none!important}
+.details ul li{color:inherit!important}
+.details .lc-intent ul{list-style:none!important;padding-left:0!important}
+p.rh-rain-intent-link{margin:0;padding:10px 24px;text-align:center;font-size:15px;line-height:1.5;background:#f0f0f0}
+p.rh-rain-intent-link a{color:#004d71;text-decoration:underline;text-underline-offset:3px}
+
+/* legal pages: title band first, then a readable left-aligned column */
+main.lc-legal{background:#efefef;padding:0 24px clamp(56px,7vw,96px)}
+main.lc-legal>section{max-width:900px;margin:0 auto;padding:clamp(28px,4vw,48px) clamp(20px,4vw,48px);background:#f7f8f8;text-align:left;color:#555}
+main.lc-legal>section>p{margin:0 0 16px;font-size:18px;line-height:1.7;text-align:left;overflow-wrap:anywhere}
+main.lc-legal>section>h2{margin:34px 0 10px;font-family:PFDinTextCompPro-Light,Arial,sans-serif;font-size:clamp(26px,3vw,36px);font-weight:400;line-height:1.15;color:#004d71;text-align:left}
+main.lc-legal>section a{color:#00724a;overflow-wrap:anywhere}
+/* contact form: address field full width, readable submit button */
+.rr-contact-form .rr-contact-field:has(input[name="address"]){grid-column:1/-1}
+.rr-contact-form .rr-contact-submit{background:#00724a!important;color:#fff!important}
+main.lc-legal--solo{padding-top:clamp(120px,12vw,150px)}
+main.lc-legal>section>h1{margin:0 0 14px;font-family:PFDinTextCompPro-Light,Arial,sans-serif;font-size:clamp(34px,4.4vw,52px);font-weight:400;line-height:1.1;color:#004d71}
+body:has(main.lc-legal) .doc>.content{top:0!important}
+body:has(main.lc-legal) .doc>header+.content{margin-top:110px}
+main.lc-legal--solo{padding-top:clamp(40px,5vw,64px)}
+body:has(main.lc-legal--solo) main.lc-legal{margin-top:110px}
