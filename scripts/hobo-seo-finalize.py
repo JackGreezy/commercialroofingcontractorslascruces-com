@@ -185,8 +185,10 @@ def meta_for(route: str, soup: BeautifulSoup | None = None) -> tuple[str, str]:
             label = info["name"]
             return f"{label} | {name}", f"Explore {label.lower()} from {name} for commercial roofing facilities across {region}."
         desc = info.get("meta") or f"{info['name']} from {name} for commercial roofing properties across {region}."
-        suffix = TAX_TITLE_SUFFIX.get(info.get("tax", ""), "Commercial Roofing")
-        return f"{info['name']} {suffix} in {city} | {name}", desc[:155].rstrip(" ,.;")
+        head = re.sub(r",\s*[A-Z]{2}$", "", info["name"].strip())
+        if city.lower() not in head.lower():
+            head = f"{head} in {city}"
+        return f"{head} | {name}", desc[:155].rstrip(" ,.;")
     h1 = strip_tags(str(soup.find("h1"))) if soup and soup.find("h1") else ""
     label = h1 or route.strip("/").replace("-", " ").title()
     return f"{label} | {name}", f"{name} provides commercial roofing guidance for {label.lower()} across {region}."
