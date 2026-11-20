@@ -1,0 +1,11 @@
+{
+  "city": "Las Cruces",
+  "state": "NM",
+  "domain": "commercialroofingcontractorslascruces.com",
+  "evidence": {
+    "type": "CURRENT_CONTACT_POSTAL_ADDRESS_MATCHES_PREVIOUSLY_VERIFIED_MARKET",
+    "sourceFile": "public/contact.html",
+    "sourceDeployment": "dpl_9pDgMkT1G58MC89S5bUKSjYMTWtv",
+    "sourceSha1": "c66c878d4110eca492a4221e4856c7b51117c614"
+  }
+}
