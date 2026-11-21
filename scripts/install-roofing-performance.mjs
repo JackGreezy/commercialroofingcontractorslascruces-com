@@ -78,3 +78,18 @@ function parseGeneratedPagesModule(source) {
 }
 
 const moduleFile=path.join(root,'lib/generated-pages.mjs');if(fs.existsSync(moduleFile)){const before=fs.readFileSync(moduleFile,'utf8'),parsed=parseGeneratedPagesModule(before);const after=parsed.prefix+JSON.stringify(jsonWalk(parsed.pages))+parsed.suffix;if(after!==before)fs.writeFileSync(moduleFile,after);}
+
+// Earlier build passes can update an existing stylesheet. Bind its URL to the
+// final bytes after every HTML/JSON transform, including nested CSS references.
+const namespace=path.join(root,'public/performance/roofing-v1');
+for(let pass=0;pass<10;pass++){
+ const renames=new Map();
+ for(const name of fs.readdirSync(namespace).filter(n=>/^[a-f0-9]{24}\.css$/.test(n))){const data=fs.readFileSync(path.join(namespace,name)),next=digest(data).slice(0,24)+'.css';if(next!==name){fs.writeFileSync(path.join(namespace,next),data);renames.set('/performance/roofing-v1/'+name,'/performance/roofing-v1/'+next);}}
+ if(!renames.size)break;
+ const rewrite=s=>{for(const[from,to]of renames)s=s.replace(new RegExp(escapeRegExp(from)+'(?![A-Za-z0-9._~%/-])','g'),to);return s;};
+ function refs(dir){if(!fs.existsSync(dir))return;for(const e of fs.readdirSync(dir,{withFileTypes:true})){if(e.isSymbolicLink())continue;const file=path.join(dir,e.name);if(e.isDirectory()){if(!['node_modules','.git','.next'].includes(e.name))refs(file);}else if(/\.(?:html|css|json)$/.test(e.name)){const before=fs.readFileSync(file,'utf8'),after=rewrite(before);if(after!==before)fs.writeFileSync(file,after);}}}
+ for(const dir of['public','app','data','rendered','.site/pages'])refs(path.join(root,dir));
+ if(fs.existsSync(moduleFile)){const before=fs.readFileSync(moduleFile,'utf8'),after=rewrite(before);if(after!==before)fs.writeFileSync(moduleFile,after);}
+ for(const from of renames.keys())fs.unlinkSync(path.join(root,'public',from));
+ if(pass===9)throw Error('Stylesheet content-address references did not stabilize');
+}
