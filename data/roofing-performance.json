@@ -1,0 +1,119 @@
+{
+  "revision": "roofing-speed-v1",
+  "domain": "commercialroofingcontractorslascruces.com",
+  "images": {
+    "/images/brand/logo-on-dark.png": "/performance/roofing-v1/f4e49f30c74a8afdb09bc8c7.webp",
+    "/images/brand/logo-on-light.png": "/performance/roofing-v1/28c5b0de5e143005894540bb.webp",
+    "/ours/manufacturers/versico-commercial-roofing-contractors-las-cruces-nm.webp": "/performance/roofing-v1/a8f1f67316d477ae19cdd8c3.webp",
+    "/ours/project-types/food-processing-facility-roofing-commercial-roofing-contractors-las-cruces-nm.webp": "/performance/roofing-v1/a10757abf997d57a2a13c4ca.webp",
+    "/ours/roof-systems/modified-bitumen-sbs-commercial-roofing-contractors-las-cruces-nm.webp": "/performance/roofing-v1/0aa1631967d3cbc2fbba0ec4.webp",
+    "/ours/roof-systems/silicone-roof-coating-commercial-roofing-contractors-las-cruces-nm.webp": "/performance/roofing-v1/f70c65d00b6f2c446f1941fd.webp",
+    "/ours/roof-systems/spray-polyurethane-foam-commercial-roofing-contractors-las-cruces-nm.webp": "/performance/roofing-v1/fd602fc8f03a1963e35b966b.webp",
+    "/ours/roof-systems/tpo-60-mil-commercial-roofing-contractors-las-cruces-nm.webp": "/performance/roofing-v1/658df87350362d17223673a1.webp",
+    "/ours/roof-systems/tpo-80-mil-commercial-roofing-contractors-las-cruces-nm.webp": "/performance/roofing-v1/c266149ac7eeecc32b98c9dc.webp",
+    "/ours/services/commercial-roof-tear-off-replacement-commercial-roofing-contractors-las-cruces-nm.webp": "/performance/roofing-v1/fb6acede1e6181dcf0762538.webp",
+    "/ours/services/edge-metal-coping-gutters-commercial-roofing-contractors-las-cruces-nm.webp": "/performance/roofing-v1/8bf9033562bd00bb838fd6ca.webp",
+    "/ours/services/silicone-roof-coatings-commercial-roofing-contractors-las-cruces-nm.webp": "/performance/roofing-v1/065c3d637e58b9b23fffef7d.webp"
+  },
+  "assets": [
+    {
+      "from": "/images/brand/logo-on-dark.png",
+      "to": "/performance/roofing-v1/f4e49f30c74a8afdb09bc8c7.webp",
+      "width": 802,
+      "height": 342,
+      "beforeBytes": 207495,
+      "afterBytes": 134550
+    },
+    {
+      "from": "/images/brand/logo-on-light.png",
+      "to": "/performance/roofing-v1/28c5b0de5e143005894540bb.webp",
+      "width": 776,
+      "height": 316,
+      "beforeBytes": 203973,
+      "afterBytes": 148048
+    },
+    {
+      "from": "/ours/manufacturers/versico-commercial-roofing-contractors-las-cruces-nm.webp",
+      "to": "/performance/roofing-v1/a8f1f67316d477ae19cdd8c3.webp",
+      "width": 1200,
+      "height": 888,
+      "beforeBytes": 90388,
+      "afterBytes": 70222
+    },
+    {
+      "from": "/ours/project-types/food-processing-facility-roofing-commercial-roofing-contractors-las-cruces-nm.webp",
+      "to": "/performance/roofing-v1/a10757abf997d57a2a13c4ca.webp",
+      "width": 2400,
+      "height": 1600,
+      "beforeBytes": 399996,
+      "afterBytes": 306488
+    },
+    {
+      "from": "/ours/roof-systems/modified-bitumen-sbs-commercial-roofing-contractors-las-cruces-nm.webp",
+      "to": "/performance/roofing-v1/0aa1631967d3cbc2fbba0ec4.webp",
+      "width": 1200,
+      "height": 900,
+      "beforeBytes": 102932,
+      "afterBytes": 80958
+    },
+    {
+      "from": "/ours/roof-systems/silicone-roof-coating-commercial-roofing-contractors-las-cruces-nm.webp",
+      "to": "/performance/roofing-v1/f70c65d00b6f2c446f1941fd.webp",
+      "width": 1895,
+      "height": 980,
+      "beforeBytes": 159200,
+      "afterBytes": 126158
+    },
+    {
+      "from": "/ours/roof-systems/spray-polyurethane-foam-commercial-roofing-contractors-las-cruces-nm.webp",
+      "to": "/performance/roofing-v1/fd602fc8f03a1963e35b966b.webp",
+      "width": 2048,
+      "height": 1365,
+      "beforeBytes": 127610,
+      "afterBytes": 100330
+    },
+    {
+      "from": "/ours/roof-systems/tpo-60-mil-commercial-roofing-contractors-las-cruces-nm.webp",
+      "to": "/performance/roofing-v1/658df87350362d17223673a1.webp",
+      "width": 1800,
+      "height": 1013,
+      "beforeBytes": 178146,
+      "afterBytes": 139740
+    },
+    {
+      "from": "/ours/roof-systems/tpo-80-mil-commercial-roofing-contractors-las-cruces-nm.webp",
+      "to": "/performance/roofing-v1/c266149ac7eeecc32b98c9dc.webp",
+      "width": 2400,
+      "height": 1350,
+      "beforeBytes": 182032,
+      "afterBytes": 127598
+    },
+    {
+      "from": "/ours/services/commercial-roof-tear-off-replacement-commercial-roofing-contractors-las-cruces-nm.webp",
+      "to": "/performance/roofing-v1/fb6acede1e6181dcf0762538.webp",
+      "width": 2400,
+      "height": 1578,
+      "beforeBytes": 342782,
+      "afterBytes": 273314
+    },
+    {
+      "from": "/ours/services/edge-metal-coping-gutters-commercial-roofing-contractors-las-cruces-nm.webp",
+      "to": "/performance/roofing-v1/8bf9033562bd00bb838fd6ca.webp",
+      "width": 1600,
+      "height": 833,
+      "beforeBytes": 155800,
+      "afterBytes": 114828
+    },
+    {
+      "from": "/ours/services/silicone-roof-coatings-commercial-roofing-contractors-las-cruces-nm.webp",
+      "to": "/performance/roofing-v1/065c3d637e58b9b23fffef7d.webp",
+      "width": 1900,
+      "height": 1262,
+      "beforeBytes": 190778,
+      "afterBytes": 146868
+    }
+  ],
+  "createdAt": "2026-11-21T04:30:33.122Z",
+  "fonts": [],
+  "fontFailures": []
+}

@@ -209,6 +209,21 @@
           "width": 2048
         }
       ]
+    },
+    "/performance/roofing-v1/28c5b0de5e143005894540bb.webp": {
+      "width": 776,
+      "height": 316,
+      "variants": [
+        {
+          "src": "/performance/fleet-images/304d7351baf980c4.webp",
+          "width": 400
+        },
+        {
+          "src": "/performance/fleet-images/027532565935036a.webp",
+          "width": 776
+        }
+      ],
+      "mobileSize": "143px"
     }
   },
   "lazyImages": [
